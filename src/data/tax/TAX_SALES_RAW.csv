@@ -1,0 +1,52 @@
+state,state_abbr,state_fips,state_tax_rate,average_local_tax_rate,max_local_tax_rate,combined_tax_rate
+Alabama,AL,01,0.04,0.05,0.11,0.09
+Alaska,AK,02,0.00,0.02,0.08,0.02
+Arizona,AZ,04,0.06,0.03,0.05,0.09
+Arkansas,AR,05,0.07,0.03,0.06,0.09
+California,CA,06,0.07,0.02,0.05,0.09
+Colorado,CO,08,0.03,0.05,0.09,0.08
+Connecticut,CT,09,0.06,0.00,0.00,0.06
+Delaware,DE,10,0.00,0.00,0.00,0.00
+District of Columbia,DC,11,0.06,0.00,0.00,0.06
+Florida,FL,12,0.06,0.01,0.02,0.07
+Georgia,GA,13,0.04,0.03,0.05,0.07
+Hawaii,HI,15,0.04,0.01,0.01,0.05
+Idaho,ID,16,0.06,0.00,0.03,0.06
+Illinois,IL,17,0.06,0.03,0.05,0.09
+Indiana,IN,18,0.07,0.00,0.00,0.07
+Iowa,IA,19,0.06,0.01,0.02,0.07
+Kansas,KS,20,0.07,0.02,0.04,0.09
+Kentucky,KY,21,0.06,0.00,0.00,0.06
+Louisiana,LA,22,0.05,0.05,0.07,0.10
+Maine,ME,23,0.06,0.00,0.00,0.06
+Maryland,MD,24,0.06,0.00,0.00,0.06
+Massachusetts,MA,25,0.06,0.00,0.00,0.06
+Michigan,MI,26,0.06,0.00,0.00,0.06
+Minnesota,MN,27,0.07,0.01,0.03,0.08
+Mississippi,MS,28,0.07,0.00,0.01,0.07
+Missouri,MO,29,0.04,0.04,0.06,0.08
+Montana,MT,30,0.00,0.00,0.00,0.00
+Nebraska,NE,31,0.06,0.01,0.02,0.07
+Nevada,NV,32,0.07,0.01,0.02,0.08
+New Hampshire,NH,33,0.00,0.00,0.00,0.00
+New Jersey,NJ,34,0.07,0.00,0.03,0.07
+New Mexico,NM,35,0.05,0.03,0.05,0.08
+New York,NY,36,0.04,0.05,0.05,0.09
+North Carolina,NC,37,0.05,0.02,0.03,0.07
+North Dakota,ND,38,0.05,0.02,0.04,0.07
+Ohio,OH,39,0.06,0.02,0.02,0.07
+Oklahoma,OK,40,0.05,0.05,0.07,0.09
+Oregon,OR,41,0.00,0.00,0.00,0.00
+Pennsylvania,PA,42,0.06,0.00,0.02,0.06
+Rhode Island,RI,44,0.07,0.00,0.00,0.07
+South Carolina,SC,45,0.06,0.01,0.03,0.07
+South Dakota,SD,46,0.04,0.02,0.05,0.06
+Tennessee,TN,47,0.07,0.03,0.03,0.10
+Texas,TX,48,0.06,0.02,0.02,0.08
+Utah,UT,49,0.06,0.01,0.05,0.07
+Vermont,VT,50,0.06,0.00,0.01,0.06
+Virginia,VA,51,0.05,0.00,0.03,0.06
+Washington,WA,53,0.07,0.03,0.04,0.10
+West Virginia,WV,54,0.06,0.01,0.01,0.07
+Wisconsin,WI,55,0.05,0.01,0.03,0.06
+Wyoming,WY,56,0.04,0.02,0.03,0.06

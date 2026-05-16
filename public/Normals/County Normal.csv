@@ -1,0 +1,3145 @@
+state,state_abbr,state_fips,county_code,msa_code,county_name
+Alabama,AL,01,001,33860,Autauga
+Alabama,AL,01,003,19300,Baldwin
+Alabama,AL,01,005,0100004,Barbour
+Alabama,AL,01,007,13820,Bibb
+Alabama,AL,01,009,13820,Blount
+Alabama,AL,01,011,0100004,Bullock
+Alabama,AL,01,013,0100004,Butler
+Alabama,AL,01,015,11500,Calhoun
+Alabama,AL,01,017,0100002,Chambers
+Alabama,AL,01,019,0100002,Cherokee
+Alabama,AL,01,021,13820,Chilton
+Alabama,AL,01,023,0100003,Choctaw
+Alabama,AL,01,025,0100003,Clarke
+Alabama,AL,01,027,0100002,Clay
+Alabama,AL,01,029,0100002,Cleburne
+Alabama,AL,01,031,0100004,Coffee
+Alabama,AL,01,033,22520,Colbert
+Alabama,AL,01,035,0100003,Conecuh
+Alabama,AL,01,037,0100002,Coosa
+Alabama,AL,01,039,0100004,Covington
+Alabama,AL,01,041,0100004,Crenshaw
+Alabama,AL,01,043,0100001,Cullman
+Alabama,AL,01,045,0100004,Dale
+Alabama,AL,01,047,0100003,Dallas
+Alabama,AL,01,049,0100002,DeKalb
+Alabama,AL,01,051,33860,Elmore
+Alabama,AL,01,053,0100003,Escambia
+Alabama,AL,01,055,23460,Etowah
+Alabama,AL,01,057,0100001,Fayette
+Alabama,AL,01,059,0100001,Franklin
+Alabama,AL,01,061,20020,Geneva
+Alabama,AL,01,063,46220,Greene
+Alabama,AL,01,065,46220,Hale
+Alabama,AL,01,067,20020,Henry
+Alabama,AL,01,069,20020,Houston
+Alabama,AL,01,071,0100002,Jackson
+Alabama,AL,01,073,13820,Jefferson
+Alabama,AL,01,075,0100001,Lamar
+Alabama,AL,01,077,22520,Lauderdale
+Alabama,AL,01,079,19460,Lawrence
+Alabama,AL,01,081,12220,Lee
+Alabama,AL,01,083,26620,Limestone
+Alabama,AL,01,085,33860,Lowndes
+Alabama,AL,01,087,12220,Macon
+Alabama,AL,01,089,26620,Madison
+Alabama,AL,01,091,0100003,Marengo
+Alabama,AL,01,093,0100001,Marion
+Alabama,AL,01,095,0100002,Marshall
+Alabama,AL,01,097,33660,Mobile
+Alabama,AL,01,099,0100003,Monroe
+Alabama,AL,01,101,33860,Montgomery
+Alabama,AL,01,103,19460,Morgan
+Alabama,AL,01,105,0100003,Perry
+Alabama,AL,01,107,46220,Pickens
+Alabama,AL,01,109,0100004,Pike
+Alabama,AL,01,111,0100002,Randolph
+Alabama,AL,01,113,17980,Russell
+Alabama,AL,01,117,13820,Shelby
+Alabama,AL,01,115,13820,Saint Clair
+Alabama,AL,01,119,0100003,Sumter
+Alabama,AL,01,121,0100002,Talladega
+Alabama,AL,01,123,0100002,Tallapoosa
+Alabama,AL,01,125,46220,Tuscaloosa
+Alabama,AL,01,127,13820,Walker
+Alabama,AL,01,129,0100003,Washington
+Alabama,AL,01,131,0100003,Wilcox
+Alabama,AL,01,133,0100001,Winston
+Alaska,AK,02,013,0200006,Aleutians East Borough
+Alaska,AK,02,016,0200006,Aleutians West Census Area
+Alaska,AK,02,020,11260,Anchorage Municipality
+Alaska,AK,02,050,0200006,Bethel Census Area
+Alaska,AK,02,060,0200006,Bristol Bay Borough
+Alaska,AK,02,063,0200006,Chugach Census Area
+Alaska,AK,02,066,0200006,Copper River Census Area
+Alaska,AK,02,068,0200006,Denali Borough
+Alaska,AK,02,070,0200006,Dillingham Census Area
+Alaska,AK,02,090,21820,Fairbanks North Star Borough
+Alaska,AK,02,100,0200006,Haines Borough
+Alaska,AK,02,105,0200006,Hoonah-Angoon Census Area
+Alaska,AK,02,110,0200006,Juneau City and Borough
+Alaska,AK,02,122,0200006,Kenai Peninsula Borough
+Alaska,AK,02,130,0200006,Ketchikan Gateway Borough
+Alaska,AK,02,150,0200006,Kodiak Island Borough
+Alaska,AK,02,158,0200006,Kusilvak Census Area
+Alaska,AK,02,164,0200006,Lake and Peninsula Borough
+Alaska,AK,02,170,11260,Matanuska-Susitna Borough
+Alaska,AK,02,180,0200006,Nome Census Area
+Alaska,AK,02,185,0200006,North Slope Borough
+Alaska,AK,02,188,0200006,Northwest Arctic Borough
+Alaska,AK,02,195,0200006,Petersburg Borough
+Alaska,AK,02,198,0200006,Prince of Wales-Hyder Census Area
+Alaska,AK,02,220,0200006,Sitka City and Borough
+Alaska,AK,02,230,0200006,Skagway Municipality
+Alaska,AK,02,240,0200006,Southeast Fairbanks Census Area
+Alaska,AK,02,275,0200006,Wrangell City and Borough
+Alaska,AK,02,282,0200006,Yakutat City and Borough
+Alaska,AK,02,290,0200006,Yukon-Koyukuk Census Area
+Arizona,AZ,04,001,0400001,Apache
+Arizona,AZ,04,003,43420,Cochise
+Arizona,AZ,04,005,22380,Coconino
+Arizona,AZ,04,007,0400001,Gila
+Arizona,AZ,04,009,0400001,Graham
+Arizona,AZ,04,011,0400001,Greenlee
+Arizona,AZ,04,012,0400001,La Paz
+Arizona,AZ,04,013,38060,Maricopa
+Arizona,AZ,04,015,29420,Mohave
+Arizona,AZ,04,017,0400001,Navajo
+Arizona,AZ,04,019,46060,Pima
+Arizona,AZ,04,021,38060,Pinal
+Arizona,AZ,04,023,0400001,Santa Cruz
+Arizona,AZ,04,025,39150,Yavapai
+Arizona,AZ,04,027,49740,Yuma
+Arkansas,AR,05,001,0500004,Arkansas
+Arkansas,AR,05,003,0500004,Ashley
+Arkansas,AR,05,005,0500001,Baxter
+Arkansas,AR,05,007,22220,Benton
+Arkansas,AR,05,009,0500001,Boone
+Arkansas,AR,05,011,0500004,Bradley
+Arkansas,AR,05,013,0500004,Calhoun
+Arkansas,AR,05,015,0500001,Carroll
+Arkansas,AR,05,017,0500004,Chicot
+Arkansas,AR,05,019,0500003,Clark
+Arkansas,AR,05,021,0500002,Clay
+Arkansas,AR,05,023,0500001,Cleburne
+Arkansas,AR,05,025,0500004,Cleveland
+Arkansas,AR,05,027,0500004,Columbia
+Arkansas,AR,05,029,0500003,Conway
+Arkansas,AR,05,031,27860,Craighead
+Arkansas,AR,05,033,22900,Crawford
+Arkansas,AR,05,035,32820,Crittenden
+Arkansas,AR,05,037,0500002,Cross
+Arkansas,AR,05,039,0500004,Dallas
+Arkansas,AR,05,041,0500004,Desha
+Arkansas,AR,05,043,0500004,Drew
+Arkansas,AR,05,045,30780,Faulkner
+Arkansas,AR,05,047,0500003,Franklin
+Arkansas,AR,05,049,0500001,Fulton
+Arkansas,AR,05,051,26300,Garland
+Arkansas,AR,05,053,30780,Grant
+Arkansas,AR,05,055,0500002,Greene
+Arkansas,AR,05,057,0500004,Hempstead
+Arkansas,AR,05,059,0500003,Hot Spring
+Arkansas,AR,05,061,0500004,Howard
+Arkansas,AR,05,063,0500001,Independence
+Arkansas,AR,05,065,0500001,Izard
+Arkansas,AR,05,067,0500001,Jackson
+Arkansas,AR,05,069,0500004,Jefferson
+Arkansas,AR,05,071,0500003,Johnson
+Arkansas,AR,05,073,0500004,Lafayette
+Arkansas,AR,05,075,0500002,Lawrence
+Arkansas,AR,05,077,0500002,Lee
+Arkansas,AR,05,079,0500004,Lincoln
+Arkansas,AR,05,081,45500,Little River
+Arkansas,AR,05,083,0500003,Logan
+Arkansas,AR,05,085,30780,Lonoke
+Arkansas,AR,05,087,22220,Madison
+Arkansas,AR,05,089,0500001,Marion
+Arkansas,AR,05,091,45500,Miller
+Arkansas,AR,05,093,0500002,Mississippi
+Arkansas,AR,05,095,0500002,Monroe
+Arkansas,AR,05,097,0500003,Montgomery
+Arkansas,AR,05,099,0500004,Nevada
+Arkansas,AR,05,101,0500001,Newton
+Arkansas,AR,05,103,0500004,Ouachita
+Arkansas,AR,05,105,30780,Perry
+Arkansas,AR,05,107,0500002,Phillips
+Arkansas,AR,05,109,0500003,Pike
+Arkansas,AR,05,111,27860,Poinsett
+Arkansas,AR,05,113,0500003,Polk
+Arkansas,AR,05,115,0500003,Pope
+Arkansas,AR,05,117,0500002,Prairie
+Arkansas,AR,05,119,30780,Pulaski
+Arkansas,AR,05,121,0500002,Randolph
+Arkansas,AR,05,125,0500002,Saline
+Arkansas,AR,05,127,30780,Scott
+Arkansas,AR,05,129,0500003,Searcy
+Arkansas,AR,05,131,0500001,Sebastian
+Arkansas,AR,05,133,22900,Sevier
+Arkansas,AR,05,135,0500004,Sharp
+Arkansas,AR,05,123,0500001,Saint Francis
+Arkansas,AR,05,137,0500001,Stone
+Arkansas,AR,05,139,0500004,Union
+Arkansas,AR,05,141,0500001,Van Buren
+Arkansas,AR,05,143,22220,Washington
+Arkansas,AR,05,145,0500001,White
+Arkansas,AR,05,147,0500001,Woodruff
+Arkansas,AR,05,149,0500003,Yell
+California,CA,06,001,41860,Alameda
+California,CA,06,003,0600006,Alpine
+California,CA,06,005,0600006,Amador
+California,CA,06,007,17020,Butte
+California,CA,06,009,0600006,Calaveras
+California,CA,06,011,0600007,Colusa
+California,CA,06,013,41860,Contra Costa
+California,CA,06,015,0600003,Del Norte
+California,CA,06,017,40900,El Dorado
+California,CA,06,019,23420,Fresno
+California,CA,06,021,0600007,Glenn
+California,CA,06,023,0600003,Humboldt
+California,CA,06,025,20940,Imperial
+California,CA,06,027,0600006,Inyo
+California,CA,06,029,12540,Kern
+California,CA,06,031,25260,Kings
+California,CA,06,033,0600003,Lake
+California,CA,06,035,0600007,Lassen
+California,CA,06,037,31080,Los Angeles
+California,CA,06,039,23420,Madera
+California,CA,06,041,41860,Marin
+California,CA,06,043,0600006,Mariposa
+California,CA,06,045,0600003,Mendocino
+California,CA,06,047,32900,Merced
+California,CA,06,049,0600007,Modoc
+California,CA,06,051,0600006,Mono
+California,CA,06,053,41500,Monterey
+California,CA,06,055,34900,Napa
+California,CA,06,057,0600007,Nevada
+California,CA,06,059,31080,Orange
+California,CA,06,061,40900,Placer
+California,CA,06,063,0600007,Plumas
+California,CA,06,065,40140,Riverside
+California,CA,06,067,40900,Sacramento
+California,CA,06,069,41940,San Benito
+California,CA,06,071,40140,San Bernardino
+California,CA,06,073,41740,San Diego
+California,CA,06,075,41860,San Francisco
+California,CA,06,077,44700,San Joaquin
+California,CA,06,079,42020,San Luis Obispo
+California,CA,06,081,41860,San Mateo
+California,CA,06,083,42200,Santa Barbara
+California,CA,06,085,41940,Santa Clara
+California,CA,06,087,42100,Santa Cruz
+California,CA,06,089,39820,Shasta
+California,CA,06,091,0600007,Sierra
+California,CA,06,093,0600007,Siskiyou
+California,CA,06,095,46700,Solano
+California,CA,06,097,42220,Sonoma
+California,CA,06,099,33700,Stanislaus
+California,CA,06,101,49700,Sutter
+California,CA,06,103,0600007,Tehama
+California,CA,06,105,0600007,Trinity
+California,CA,06,107,47300,Tulare
+California,CA,06,109,0600006,Tuolumne
+California,CA,06,111,37100,Ventura
+California,CA,06,113,40900,Yolo
+California,CA,06,115,49700,Yuba
+Colorado,CO,08,001,19740,Adams
+Colorado,CO,08,003,0800001,Alamosa
+Colorado,CO,08,005,19740,Arapahoe
+Colorado,CO,08,007,0800002,Archuleta
+Colorado,CO,08,009,0800001,Baca
+Colorado,CO,08,011,0800001,Bent
+Colorado,CO,08,013,14500,Boulder
+Colorado,CO,08,014,19740,Broomfield
+Colorado,CO,08,015,0800002,Chaffee
+Colorado,CO,08,017,0800001,Cheyenne
+Colorado,CO,08,019,19740,Clear Creek
+Colorado,CO,08,021,0800001,Conejos
+Colorado,CO,08,023,0800001,Costilla
+Colorado,CO,08,025,0800001,Crowley
+Colorado,CO,08,027,0800001,Custer
+Colorado,CO,08,029,0800002,Delta
+Colorado,CO,08,031,19740,Denver
+Colorado,CO,08,033,0800002,Dolores
+Colorado,CO,08,035,19740,Douglas
+Colorado,CO,08,037,0800003,Eagle
+Colorado,CO,08,039,19740,Elbert
+Colorado,CO,08,041,17820,El Paso
+Colorado,CO,08,043,0800002,Fremont
+Colorado,CO,08,045,0800003,Garfield
+Colorado,CO,08,047,19740,Gilpin
+Colorado,CO,08,049,0800003,Grand
+Colorado,CO,08,051,0800002,Gunnison
+Colorado,CO,08,053,0800002,Hinsdale
+Colorado,CO,08,055,0800001,Huerfano
+Colorado,CO,08,057,0800003,Jackson
+Colorado,CO,08,059,19740,Jefferson
+Colorado,CO,08,061,0800001,Kiowa
+Colorado,CO,08,063,0800001,Kit Carson
+Colorado,CO,08,065,0800003,Lake
+Colorado,CO,08,067,0800002,La Plata
+Colorado,CO,08,069,22660,Larimer
+Colorado,CO,08,071,0800001,Las Animas
+Colorado,CO,08,073,0800001,Lincoln
+Colorado,CO,08,075,0800001,Logan
+Colorado,CO,08,077,24300,Mesa
+Colorado,CO,08,079,0800001,Mineral
+Colorado,CO,08,081,0800003,Moffat
+Colorado,CO,08,083,0800002,Montezuma
+Colorado,CO,08,085,0800002,Montrose
+Colorado,CO,08,087,0800001,Morgan
+Colorado,CO,08,089,0800001,Otero
+Colorado,CO,08,091,0800002,Ouray
+Colorado,CO,08,093,19740,Park
+Colorado,CO,08,095,0800001,Phillips
+Colorado,CO,08,097,0800003,Pitkin
+Colorado,CO,08,099,0800001,Prowers
+Colorado,CO,08,101,39380,Pueblo
+Colorado,CO,08,103,0800003,Rio Blanco
+Colorado,CO,08,105,0800001,Rio Grande
+Colorado,CO,08,107,0800003,Routt
+Colorado,CO,08,109,0800001,Saguache
+Colorado,CO,08,111,0800002,San Juan
+Colorado,CO,08,113,0800002,San Miguel
+Colorado,CO,08,115,0800001,Sedgwick
+Colorado,CO,08,117,0800003,Summit
+Colorado,CO,08,119,17820,Teller
+Colorado,CO,08,121,0800001,Washington
+Colorado,CO,08,123,24540,Weld
+Colorado,CO,08,125,0800001,Yuma
+Connecticut,CT,09,110,25540,Capitol Planning Region
+Connecticut,CT,09,120,14860,Greater Bridgeport Planning Region
+Connecticut,CT,09,130,25540,Lower Connecticut River Valley Planning Region
+Connecticut,CT,09,140,47930,Naugatuck Valley Planning Region
+Connecticut,CT,09,150,0900001,Northeastern Connecticut Planning Region
+Connecticut,CT,09,160,0900001,Northwest Hills Planning Region
+Connecticut,CT,09,170,35300,South Central Connecticut Planning Region
+Connecticut,CT,09,180,35980,Southeastern Connecticut Planning Region
+Connecticut,CT,09,190,14860,Western Connecticut Planning Region
+Delaware,DE,10,001,20100,Kent
+Delaware,DE,10,003,37980,New Castle
+Delaware,DE,10,005,1000005,Sussex
+District of Columbia,DC,11,001,47900,District of Columbia
+Florida,FL,12,001,23540,Alachua
+Florida,FL,12,003,27260,Baker
+Florida,FL,12,005,37460,Bay
+Florida,FL,12,007,1200006,Bradford
+Florida,FL,12,009,37340,Brevard
+Florida,FL,12,011,33100,Broward
+Florida,FL,12,013,1200006,Calhoun
+Florida,FL,12,015,39460,Charlotte
+Florida,FL,12,017,26140,Citrus
+Florida,FL,12,019,27260,Clay
+Florida,FL,12,021,34940,Collier
+Florida,FL,12,023,1200006,Columbia
+Florida,FL,12,027,1200003,DeSoto
+Florida,FL,12,029,1200006,Dixie
+Florida,FL,12,031,27260,Duval
+Florida,FL,12,033,37860,Escambia
+Florida,FL,12,035,19660,Flagler
+Florida,FL,12,037,1200006,Franklin
+Florida,FL,12,039,45220,Gadsden
+Florida,FL,12,041,23540,Gilchrist
+Florida,FL,12,043,1200003,Glades
+Florida,FL,12,045,1200006,Gulf
+Florida,FL,12,047,1200006,Hamilton
+Florida,FL,12,049,1200003,Hardee
+Florida,FL,12,051,1200003,Hendry
+Florida,FL,12,053,45300,Hernando
+Florida,FL,12,055,42700,Highlands
+Florida,FL,12,057,45300,Hillsborough
+Florida,FL,12,059,1200006,Holmes
+Florida,FL,12,061,42680,Indian River
+Florida,FL,12,063,1200006,Jackson
+Florida,FL,12,065,45220,Jefferson
+Florida,FL,12,067,1200006,Lafayette
+Florida,FL,12,069,36740,Lake
+Florida,FL,12,071,15980,Lee
+Florida,FL,12,073,45220,Leon
+Florida,FL,12,075,23540,Levy
+Florida,FL,12,077,1200006,Liberty
+Florida,FL,12,079,1200006,Madison
+Florida,FL,12,081,35840,Manatee
+Florida,FL,12,083,36100,Marion
+Florida,FL,12,085,38940,Martin
+Florida,FL,12,086,33100,Miami-Dade
+Florida,FL,12,087,1200003,Monroe
+Florida,FL,12,089,27260,Nassau
+Florida,FL,12,091,18880,Okaloosa
+Florida,FL,12,093,1200003,Okeechobee
+Florida,FL,12,095,36740,Orange
+Florida,FL,12,097,36740,Osceola
+Florida,FL,12,099,33100,Palm Beach
+Florida,FL,12,101,45300,Pasco
+Florida,FL,12,103,45300,Pinellas
+Florida,FL,12,105,29460,Polk
+Florida,FL,12,107,1200006,Putnam
+Florida,FL,12,113,27260,Santa Rosa
+Florida,FL,12,115,38940,Sarasota
+Florida,FL,12,117,37860,Seminole
+Florida,FL,12,109,35840,Saint Johns
+Florida,FL,12,111,36740,Saint Lucie
+Florida,FL,12,119,48680,Sumter
+Florida,FL,12,121,1200006,Suwannee
+Florida,FL,12,123,1200006,Taylor
+Florida,FL,12,125,1200006,Union
+Florida,FL,12,127,19660,Volusia
+Florida,FL,12,129,45220,Wakulla
+Florida,FL,12,131,18880,Walton
+Florida,FL,12,133,37460,Washington
+Georgia,GA,13,001,1300004,Appling
+Georgia,GA,13,003,1300004,Atkinson
+Georgia,GA,13,005,1300004,Bacon
+Georgia,GA,13,007,1300004,Baker
+Georgia,GA,13,009,1300002,Baldwin
+Georgia,GA,13,011,1300001,Banks
+Georgia,GA,13,013,12060,Barrow
+Georgia,GA,13,015,12060,Bartow
+Georgia,GA,13,017,1300004,Ben Hill
+Georgia,GA,13,019,1300004,Berrien
+Georgia,GA,13,021,31420,Bibb
+Georgia,GA,13,023,1300002,Bleckley
+Georgia,GA,13,025,15260,Brantley
+Georgia,GA,13,027,46660,Brooks
+Georgia,GA,13,029,42340,Bryan
+Georgia,GA,13,031,1300003,Bulloch
+Georgia,GA,13,033,12260,Burke
+Georgia,GA,13,035,12060,Butts
+Georgia,GA,13,037,1300004,Calhoun
+Georgia,GA,13,039,1300004,Camden
+Georgia,GA,13,043,1300003,Candler
+Georgia,GA,13,045,12060,Carroll
+Georgia,GA,13,047,16860,Catoosa
+Georgia,GA,13,049,1300004,Charlton
+Georgia,GA,13,051,42340,Chatham
+Georgia,GA,13,053,17980,Chattahoochee
+Georgia,GA,13,055,1300001,Chattooga
+Georgia,GA,13,057,12060,Cherokee
+Georgia,GA,13,059,12020,Clarke
+Georgia,GA,13,061,1300004,Clay
+Georgia,GA,13,063,12060,Clayton
+Georgia,GA,13,065,1300004,Clinch
+Georgia,GA,13,067,12060,Cobb
+Georgia,GA,13,069,1300004,Coffee
+Georgia,GA,13,071,1300004,Colquitt
+Georgia,GA,13,073,12260,Columbia
+Georgia,GA,13,075,1300004,Cook
+Georgia,GA,13,077,12060,Coweta
+Georgia,GA,13,079,31420,Crawford
+Georgia,GA,13,081,1300002,Crisp
+Georgia,GA,13,083,16860,Dade
+Georgia,GA,13,085,12060,Dawson
+Georgia,GA,13,087,1300004,Decatur
+Georgia,GA,13,089,12060,DeKalb
+Georgia,GA,13,091,1300002,Dodge
+Georgia,GA,13,093,1300002,Dooly
+Georgia,GA,13,095,10500,Dougherty
+Georgia,GA,13,097,12060,Douglas
+Georgia,GA,13,099,1300004,Early
+Georgia,GA,13,101,46660,Echols
+Georgia,GA,13,103,42340,Effingham
+Georgia,GA,13,105,1300001,Elbert
+Georgia,GA,13,107,1300003,Emanuel
+Georgia,GA,13,109,1300003,Evans
+Georgia,GA,13,111,1300001,Fannin
+Georgia,GA,13,113,12060,Fayette
+Georgia,GA,13,115,40660,Floyd
+Georgia,GA,13,117,12060,Forsyth
+Georgia,GA,13,119,1300001,Franklin
+Georgia,GA,13,121,12060,Fulton
+Georgia,GA,13,123,1300001,Gilmer
+Georgia,GA,13,125,1300003,Glascock
+Georgia,GA,13,127,15260,Glynn
+Georgia,GA,13,129,1300001,Gordon
+Georgia,GA,13,131,1300004,Grady
+Georgia,GA,13,133,1300001,Greene
+Georgia,GA,13,135,12060,Gwinnett
+Georgia,GA,13,137,1300001,Habersham
+Georgia,GA,13,139,23580,Hall
+Georgia,GA,13,141,1300003,Hancock
+Georgia,GA,13,143,12060,Haralson
+Georgia,GA,13,145,17980,Harris
+Georgia,GA,13,147,1300001,Hart
+Georgia,GA,13,149,12060,Heard
+Georgia,GA,13,151,12060,Henry
+Georgia,GA,13,153,47580,Houston
+Georgia,GA,13,155,1300004,Irwin
+Georgia,GA,13,157,1300001,Jackson
+Georgia,GA,13,159,12060,Jasper
+Georgia,GA,13,161,1300004,Jeff Davis
+Georgia,GA,13,163,1300003,Jefferson
+Georgia,GA,13,165,1300003,Jenkins
+Georgia,GA,13,167,1300003,Johnson
+Georgia,GA,13,169,31420,Jones
+Georgia,GA,13,171,1300002,Lamar
+Georgia,GA,13,173,46660,Lanier
+Georgia,GA,13,175,1300002,Laurens
+Georgia,GA,13,177,10500,Lee
+Georgia,GA,13,179,25980,Liberty
+Georgia,GA,13,181,12260,Lincoln
+Georgia,GA,13,183,25980,Long
+Georgia,GA,13,185,46660,Lowndes
+Georgia,GA,13,187,12060,Lumpkin
+Georgia,GA,13,193,12260,Macon
+Georgia,GA,13,195,15260,Madison
+Georgia,GA,13,197,1300002,Marion
+Georgia,GA,13,189,12020,McDuffie
+Georgia,GA,13,191,17980,McIntosh
+Georgia,GA,13,199,12060,Meriwether
+Georgia,GA,13,201,1300004,Miller
+Georgia,GA,13,205,1300004,Mitchell
+Georgia,GA,13,207,31420,Monroe
+Georgia,GA,13,209,1300003,Montgomery
+Georgia,GA,13,211,12060,Morgan
+Georgia,GA,13,213,19140,Murray
+Georgia,GA,13,215,17980,Muscogee
+Georgia,GA,13,217,12060,Newton
+Georgia,GA,13,219,12020,Oconee
+Georgia,GA,13,221,12020,Oglethorpe
+Georgia,GA,13,223,12060,Paulding
+Georgia,GA,13,225,47580,Peach
+Georgia,GA,13,227,12060,Pickens
+Georgia,GA,13,229,1300004,Pierce
+Georgia,GA,13,231,12060,Pike
+Georgia,GA,13,233,1300001,Polk
+Georgia,GA,13,235,1300002,Pulaski
+Georgia,GA,13,237,1300002,Putnam
+Georgia,GA,13,239,1300004,Quitman
+Georgia,GA,13,241,1300001,Rabun
+Georgia,GA,13,243,1300004,Randolph
+Georgia,GA,13,245,12260,Richmond
+Georgia,GA,13,247,12060,Rockdale
+Georgia,GA,13,249,1300002,Schley
+Georgia,GA,13,251,1300003,Screven
+Georgia,GA,13,253,1300004,Seminole
+Georgia,GA,13,255,12060,Spalding
+Georgia,GA,13,257,1300001,Stephens
+Georgia,GA,13,259,17980,Stewart
+Georgia,GA,13,261,1300002,Sumter
+Georgia,GA,13,263,17980,Talbot
+Georgia,GA,13,265,1300003,Taliaferro
+Georgia,GA,13,267,1300003,Tattnall
+Georgia,GA,13,269,1300002,Taylor
+Georgia,GA,13,271,1300004,Telfair
+Georgia,GA,13,273,10500,Terrell
+Georgia,GA,13,275,1300004,Thomas
+Georgia,GA,13,277,1300004,Tift
+Georgia,GA,13,279,1300003,Toombs
+Georgia,GA,13,281,1300001,Towns
+Georgia,GA,13,283,1300003,Treutlen
+Georgia,GA,13,285,1300002,Troup
+Georgia,GA,13,287,1300004,Turner
+Georgia,GA,13,289,31420,Twiggs
+Georgia,GA,13,291,1300001,Union
+Georgia,GA,13,293,1300002,Upson
+Georgia,GA,13,295,16860,Walker
+Georgia,GA,13,297,12060,Walton
+Georgia,GA,13,299,1300004,Ware
+Georgia,GA,13,301,1300003,Warren
+Georgia,GA,13,303,1300003,Washington
+Georgia,GA,13,305,1300004,Wayne
+Georgia,GA,13,307,1300002,Webster
+Georgia,GA,13,309,1300003,Wheeler
+Georgia,GA,13,311,1300001,White
+Georgia,GA,13,313,19140,Whitfield
+Georgia,GA,13,315,1300002,Wilcox
+Georgia,GA,13,317,1300003,Wilkes
+Georgia,GA,13,319,1300002,Wilkinson
+Georgia,GA,13,321,10500,Worth
+Hawaii,HI,15,001,1500001,Hawaii
+Hawaii,HI,15,003,46520,Honolulu
+Hawaii,HI,15,005,27980,Kalawao
+Hawaii,HI,15,007,1500001,Kauai
+Hawaii,HI,15,009,27980,Maui
+Idaho,ID,16,001,14260,Ada
+Idaho,ID,16,003,1600006,Adams
+Idaho,ID,16,005,38540,Bannock
+Idaho,ID,16,007,1600007,Bear Lake
+Idaho,ID,16,009,1600006,Benewah
+Idaho,ID,16,011,1600007,Bingham
+Idaho,ID,16,013,1600007,Blaine
+Idaho,ID,16,015,14260,Boise
+Idaho,ID,16,017,1600006,Bonner
+Idaho,ID,16,019,26820,Bonneville
+Idaho,ID,16,021,1600006,Boundary
+Idaho,ID,16,023,26820,Butte
+Idaho,ID,16,025,1600007,Camas
+Idaho,ID,16,027,14260,Canyon
+Idaho,ID,16,029,1600007,Caribou
+Idaho,ID,16,031,1600007,Cassia
+Idaho,ID,16,033,1600007,Clark
+Idaho,ID,16,035,1600006,Clearwater
+Idaho,ID,16,037,1600007,Custer
+Idaho,ID,16,039,1600006,Elmore
+Idaho,ID,16,041,30860,Franklin
+Idaho,ID,16,043,1600007,Fremont
+Idaho,ID,16,045,14260,Gem
+Idaho,ID,16,047,1600007,Gooding
+Idaho,ID,16,049,1600006,Idaho
+Idaho,ID,16,051,26820,Jefferson
+Idaho,ID,16,053,46300,Jerome
+Idaho,ID,16,055,17660,Kootenai
+Idaho,ID,16,057,1600006,Latah
+Idaho,ID,16,059,1600007,Lemhi
+Idaho,ID,16,061,1600006,Lewis
+Idaho,ID,16,063,1600007,Lincoln
+Idaho,ID,16,065,1600007,Madison
+Idaho,ID,16,067,1600007,Minidoka
+Idaho,ID,16,069,30300,Nez Perce
+Idaho,ID,16,071,1600007,Oneida
+Idaho,ID,16,073,14260,Owyhee
+Idaho,ID,16,075,1600006,Payette
+Idaho,ID,16,077,1600007,Power
+Idaho,ID,16,079,1600006,Shoshone
+Idaho,ID,16,081,1600007,Teton
+Idaho,ID,16,083,46300,Twin Falls
+Idaho,ID,16,085,1600006,Valley
+Idaho,ID,16,087,1600006,Washington
+Illinois,IL,17,001,1700002,Adams
+Illinois,IL,17,003,16020,Alexander
+Illinois,IL,17,005,41180,Bond
+Illinois,IL,17,007,40420,Boone
+Illinois,IL,17,009,1700002,Brown
+Illinois,IL,17,011,1700001,Bureau
+Illinois,IL,17,013,41180,Calhoun
+Illinois,IL,17,015,1700001,Carroll
+Illinois,IL,17,017,1700002,Cass
+Illinois,IL,17,019,16580,Champaign
+Illinois,IL,17,021,1700002,Christian
+Illinois,IL,17,023,1700003,Clark
+Illinois,IL,17,025,1700003,Clay
+Illinois,IL,17,027,41180,Clinton
+Illinois,IL,17,029,1700003,Coles
+Illinois,IL,17,031,16980,Cook
+Illinois,IL,17,033,1700003,Crawford
+Illinois,IL,17,035,1700003,Cumberland
+Illinois,IL,17,037,16980,DeKalb
+Illinois,IL,17,039,1700002,De Witt
+Illinois,IL,17,041,1700003,Douglas
+Illinois,IL,17,043,16980,DuPage
+Illinois,IL,17,045,1700003,Edgar
+Illinois,IL,17,047,1700004,Edwards
+Illinois,IL,17,049,1700003,Effingham
+Illinois,IL,17,051,1700003,Fayette
+Illinois,IL,17,053,16580,Ford
+Illinois,IL,17,055,1700004,Franklin
+Illinois,IL,17,057,1700002,Fulton
+Illinois,IL,17,059,1700004,Gallatin
+Illinois,IL,17,061,1700002,Greene
+Illinois,IL,17,063,16980,Grundy
+Illinois,IL,17,065,1700004,Hamilton
+Illinois,IL,17,067,1700002,Hancock
+Illinois,IL,17,069,1700004,Hardin
+Illinois,IL,17,071,1700002,Henderson
+Illinois,IL,17,073,19340,Henry
+Illinois,IL,17,075,1700003,Iroquois
+Illinois,IL,17,077,1700004,Jackson
+Illinois,IL,17,079,1700003,Jasper
+Illinois,IL,17,081,1700004,Jefferson
+Illinois,IL,17,083,41180,Jersey
+Illinois,IL,17,085,1700001,Jo Daviess
+Illinois,IL,17,087,1700004,Johnson
+Illinois,IL,17,089,16980,Kane
+Illinois,IL,17,091,28100,Kankakee
+Illinois,IL,17,093,16980,Kendall
+Illinois,IL,17,095,1700002,Knox
+Illinois,IL,17,097,16980,Lake
+Illinois,IL,17,099,1700001,LaSalle
+Illinois,IL,17,101,1700003,Lawrence
+Illinois,IL,17,103,1700001,Lee
+Illinois,IL,17,105,1700002,Livingston
+Illinois,IL,17,107,1700002,Logan
+Illinois,IL,17,115,1700002,Macon
+Illinois,IL,17,117,16980,Macoupin
+Illinois,IL,17,119,14010,Madison
+Illinois,IL,17,121,19500,Marion
+Illinois,IL,17,123,41180,Marshall
+Illinois,IL,17,125,41180,Mason
+Illinois,IL,17,127,1700003,Massac
+Illinois,IL,17,109,37900,McDonough
+Illinois,IL,17,111,1700002,McHenry
+Illinois,IL,17,113,37140,McLean
+Illinois,IL,17,129,44100,Menard
+Illinois,IL,17,131,19340,Mercer
+Illinois,IL,17,133,41180,Monroe
+Illinois,IL,17,135,1700002,Montgomery
+Illinois,IL,17,137,1700002,Morgan
+Illinois,IL,17,139,1700002,Moultrie
+Illinois,IL,17,141,1700001,Ogle
+Illinois,IL,17,143,37900,Peoria
+Illinois,IL,17,145,1700004,Perry
+Illinois,IL,17,147,16580,Piatt
+Illinois,IL,17,149,1700002,Pike
+Illinois,IL,17,151,1700004,Pope
+Illinois,IL,17,153,1700004,Pulaski
+Illinois,IL,17,155,1700001,Putnam
+Illinois,IL,17,157,1700004,Randolph
+Illinois,IL,17,159,1700003,Richland
+Illinois,IL,17,161,19340,Rock Island
+Illinois,IL,17,165,41180,Saline
+Illinois,IL,17,167,1700004,Sangamon
+Illinois,IL,17,169,44100,Schuyler
+Illinois,IL,17,171,1700002,Scott
+Illinois,IL,17,173,1700002,Shelby
+Illinois,IL,17,175,1700002,Stark
+Illinois,IL,17,163,37900,Saint Clair
+Illinois,IL,17,177,1700001,Stephenson
+Illinois,IL,17,179,37900,Tazewell
+Illinois,IL,17,181,1700004,Union
+Illinois,IL,17,183,1700003,Vermilion
+Illinois,IL,17,185,1700004,Wabash
+Illinois,IL,17,187,1700002,Warren
+Illinois,IL,17,189,1700004,Washington
+Illinois,IL,17,191,1700004,Wayne
+Illinois,IL,17,193,1700004,White
+Illinois,IL,17,195,1700001,Whiteside
+Illinois,IL,17,197,16980,Will
+Illinois,IL,17,199,1700004,Williamson
+Illinois,IL,17,201,40420,Winnebago
+Illinois,IL,17,203,37900,Woodford
+Indiana,IN,18,001,1800001,Adams
+Indiana,IN,18,003,23060,Allen
+Indiana,IN,18,005,18020,Bartholomew
+Indiana,IN,18,007,29200,Benton
+Indiana,IN,18,009,1800002,Blackford
+Indiana,IN,18,011,26900,Boone
+Indiana,IN,18,013,26900,Brown
+Indiana,IN,18,015,29200,Carroll
+Indiana,IN,18,017,1800001,Cass
+Indiana,IN,18,019,31140,Clark
+Indiana,IN,18,021,45460,Clay
+Indiana,IN,18,023,1800002,Clinton
+Indiana,IN,18,025,1800003,Crawford
+Indiana,IN,18,027,1800003,Daviess
+Indiana,IN,18,029,17140,Dearborn
+Indiana,IN,18,031,1800002,Decatur
+Indiana,IN,18,033,1800001,DeKalb
+Indiana,IN,18,035,34620,Delaware
+Indiana,IN,18,037,1800003,Dubois
+Indiana,IN,18,039,21140,Elkhart
+Indiana,IN,18,041,1800002,Fayette
+Indiana,IN,18,043,31140,Floyd
+Indiana,IN,18,045,1800002,Fountain
+Indiana,IN,18,047,17140,Franklin
+Indiana,IN,18,049,1800001,Fulton
+Indiana,IN,18,051,1800003,Gibson
+Indiana,IN,18,053,1800002,Grant
+Indiana,IN,18,055,1800003,Greene
+Indiana,IN,18,057,26900,Hamilton
+Indiana,IN,18,059,26900,Hancock
+Indiana,IN,18,061,31140,Harrison
+Indiana,IN,18,063,26900,Hendricks
+Indiana,IN,18,065,1800002,Henry
+Indiana,IN,18,067,29020,Howard
+Indiana,IN,18,069,1800001,Huntington
+Indiana,IN,18,071,1800003,Jackson
+Indiana,IN,18,073,16980,Jasper
+Indiana,IN,18,075,1800002,Jay
+Indiana,IN,18,077,1800003,Jefferson
+Indiana,IN,18,079,1800003,Jennings
+Indiana,IN,18,081,26900,Johnson
+Indiana,IN,18,083,1800003,Knox
+Indiana,IN,18,085,1800001,Kosciusko
+Indiana,IN,18,087,1800001,LaGrange
+Indiana,IN,18,089,16980,Lake
+Indiana,IN,18,091,33140,LaPorte
+Indiana,IN,18,093,1800003,Lawrence
+Indiana,IN,18,095,26900,Madison
+Indiana,IN,18,097,26900,Marion
+Indiana,IN,18,099,1800001,Marshall
+Indiana,IN,18,101,1800003,Martin
+Indiana,IN,18,103,1800001,Miami
+Indiana,IN,18,105,14020,Monroe
+Indiana,IN,18,107,1800002,Montgomery
+Indiana,IN,18,109,26900,Morgan
+Indiana,IN,18,111,16980,Newton
+Indiana,IN,18,113,1800001,Noble
+Indiana,IN,18,115,17140,Ohio
+Indiana,IN,18,117,1800003,Orange
+Indiana,IN,18,119,14020,Owen
+Indiana,IN,18,121,1800002,Parke
+Indiana,IN,18,123,1800003,Perry
+Indiana,IN,18,125,1800003,Pike
+Indiana,IN,18,127,16980,Porter
+Indiana,IN,18,129,21780,Posey
+Indiana,IN,18,131,1800001,Pulaski
+Indiana,IN,18,133,1800002,Putnam
+Indiana,IN,18,135,1800002,Randolph
+Indiana,IN,18,137,1800003,Ripley
+Indiana,IN,18,139,1800002,Rush
+Indiana,IN,18,143,43780,Scott
+Indiana,IN,18,145,1800003,Shelby
+Indiana,IN,18,147,26900,Spencer
+Indiana,IN,18,149,1800003,Starke
+Indiana,IN,18,151,1800001,Steuben
+Indiana,IN,18,141,1800001,Saint Joseph
+Indiana,IN,18,153,45460,Sullivan
+Indiana,IN,18,155,1800003,Switzerland
+Indiana,IN,18,157,29200,Tippecanoe
+Indiana,IN,18,159,26900,Tipton
+Indiana,IN,18,161,1800002,Union
+Indiana,IN,18,163,21780,Vanderburgh
+Indiana,IN,18,165,45460,Vermillion
+Indiana,IN,18,167,45460,Vigo
+Indiana,IN,18,169,1800001,Wabash
+Indiana,IN,18,171,29200,Warren
+Indiana,IN,18,173,21780,Warrick
+Indiana,IN,18,175,31140,Washington
+Indiana,IN,18,177,1800002,Wayne
+Indiana,IN,18,179,23060,Wells
+Indiana,IN,18,181,1800001,White
+Indiana,IN,18,183,23060,Whitley
+Iowa,IA,19,001,1900003,Adair
+Iowa,IA,19,003,1900003,Adams
+Iowa,IA,19,005,1900001,Allamakee
+Iowa,IA,19,007,1900004,Appanoose
+Iowa,IA,19,009,1900003,Audubon
+Iowa,IA,19,011,16300,Benton
+Iowa,IA,19,013,47940,Black Hawk
+Iowa,IA,19,015,11180,Boone
+Iowa,IA,19,017,47940,Bremer
+Iowa,IA,19,019,1900001,Buchanan
+Iowa,IA,19,021,1900002,Buena Vista
+Iowa,IA,19,023,1900001,Butler
+Iowa,IA,19,025,1900002,Calhoun
+Iowa,IA,19,027,1900003,Carroll
+Iowa,IA,19,029,1900003,Cass
+Iowa,IA,19,031,1900004,Cedar
+Iowa,IA,19,033,1900001,Cerro Gordo
+Iowa,IA,19,035,1900002,Cherokee
+Iowa,IA,19,037,1900001,Chickasaw
+Iowa,IA,19,039,1900003,Clarke
+Iowa,IA,19,041,1900002,Clay
+Iowa,IA,19,043,1900001,Clayton
+Iowa,IA,19,045,1900004,Clinton
+Iowa,IA,19,047,1900003,Crawford
+Iowa,IA,19,049,19780,Dallas
+Iowa,IA,19,051,1900004,Davis
+Iowa,IA,19,053,1900003,Decatur
+Iowa,IA,19,055,1900001,Delaware
+Iowa,IA,19,057,1900004,Des Moines
+Iowa,IA,19,059,1900002,Dickinson
+Iowa,IA,19,061,20220,Dubuque
+Iowa,IA,19,063,1900002,Emmet
+Iowa,IA,19,065,1900001,Fayette
+Iowa,IA,19,067,1900001,Floyd
+Iowa,IA,19,069,1900001,Franklin
+Iowa,IA,19,071,1900003,Fremont
+Iowa,IA,19,073,1900003,Greene
+Iowa,IA,19,075,47940,Grundy
+Iowa,IA,19,077,19780,Guthrie
+Iowa,IA,19,079,1900002,Hamilton
+Iowa,IA,19,081,1900002,Hancock
+Iowa,IA,19,083,1900001,Hardin
+Iowa,IA,19,085,36540,Harrison
+Iowa,IA,19,087,1900004,Henry
+Iowa,IA,19,089,1900001,Howard
+Iowa,IA,19,091,1900002,Humboldt
+Iowa,IA,19,093,1900002,Ida
+Iowa,IA,19,095,1900004,Iowa
+Iowa,IA,19,097,1900004,Jackson
+Iowa,IA,19,099,19780,Jasper
+Iowa,IA,19,101,1900004,Jefferson
+Iowa,IA,19,103,26980,Johnson
+Iowa,IA,19,105,16300,Jones
+Iowa,IA,19,107,1900004,Keokuk
+Iowa,IA,19,109,1900002,Kossuth
+Iowa,IA,19,111,1900004,Lee
+Iowa,IA,19,113,16300,Linn
+Iowa,IA,19,115,1900004,Louisa
+Iowa,IA,19,117,1900003,Lucas
+Iowa,IA,19,119,1900002,Lyon
+Iowa,IA,19,121,19780,Madison
+Iowa,IA,19,123,1900004,Mahaska
+Iowa,IA,19,125,1900004,Marion
+Iowa,IA,19,127,1900004,Marshall
+Iowa,IA,19,129,36540,Mills
+Iowa,IA,19,131,1900001,Mitchell
+Iowa,IA,19,133,1900003,Monona
+Iowa,IA,19,135,1900004,Monroe
+Iowa,IA,19,137,1900003,Montgomery
+Iowa,IA,19,139,1900004,Muscatine
+Iowa,IA,19,141,1900002,O'Brien
+Iowa,IA,19,143,1900002,Osceola
+Iowa,IA,19,145,1900003,Page
+Iowa,IA,19,147,1900002,Palo Alto
+Iowa,IA,19,149,1900002,Plymouth
+Iowa,IA,19,151,1900002,Pocahontas
+Iowa,IA,19,153,19780,Polk
+Iowa,IA,19,155,36540,Pottawattamie
+Iowa,IA,19,157,1900004,Poweshiek
+Iowa,IA,19,159,1900003,Ringgold
+Iowa,IA,19,161,1900002,Sac
+Iowa,IA,19,163,19340,Scott
+Iowa,IA,19,165,1900003,Shelby
+Iowa,IA,19,167,1900002,Sioux
+Iowa,IA,19,169,11180,Story
+Iowa,IA,19,171,1900004,Tama
+Iowa,IA,19,173,1900003,Taylor
+Iowa,IA,19,175,1900003,Union
+Iowa,IA,19,177,1900004,Van Buren
+Iowa,IA,19,179,1900004,Wapello
+Iowa,IA,19,181,19780,Warren
+Iowa,IA,19,183,26980,Washington
+Iowa,IA,19,185,1900003,Wayne
+Iowa,IA,19,187,1900002,Webster
+Iowa,IA,19,189,1900002,Winnebago
+Iowa,IA,19,191,1900001,Winneshiek
+Iowa,IA,19,193,43580,Woodbury
+Iowa,IA,19,195,1900001,Worth
+Iowa,IA,19,197,1900002,Wright
+Kansas,KS,20,001,2000006,Allen
+Kansas,KS,20,003,2000006,Anderson
+Kansas,KS,20,005,2000006,Atchison
+Kansas,KS,20,007,2000006,Barber
+Kansas,KS,20,009,2000006,Barton
+Kansas,KS,20,011,2000006,Bourbon
+Kansas,KS,20,013,2000006,Brown
+Kansas,KS,20,015,48620,Butler
+Kansas,KS,20,017,2000006,Chase
+Kansas,KS,20,019,2000006,Chautauqua
+Kansas,KS,20,021,27900,Cherokee
+Kansas,KS,20,023,2000006,Cheyenne
+Kansas,KS,20,025,2000006,Clark
+Kansas,KS,20,027,2000006,Clay
+Kansas,KS,20,029,2000006,Cloud
+Kansas,KS,20,031,2000006,Coffey
+Kansas,KS,20,033,2000006,Comanche
+Kansas,KS,20,035,2000006,Cowley
+Kansas,KS,20,037,2000006,Crawford
+Kansas,KS,20,039,2000006,Decatur
+Kansas,KS,20,041,2000006,Dickinson
+Kansas,KS,20,043,41140,Doniphan
+Kansas,KS,20,045,29940,Douglas
+Kansas,KS,20,047,2000006,Edwards
+Kansas,KS,20,049,2000006,Elk
+Kansas,KS,20,051,2000006,Ellis
+Kansas,KS,20,053,2000006,Ellsworth
+Kansas,KS,20,055,2000006,Finney
+Kansas,KS,20,057,2000006,Ford
+Kansas,KS,20,059,2000006,Franklin
+Kansas,KS,20,061,31740,Geary
+Kansas,KS,20,063,2000006,Gove
+Kansas,KS,20,065,2000006,Graham
+Kansas,KS,20,067,2000006,Grant
+Kansas,KS,20,069,2000006,Gray
+Kansas,KS,20,071,2000006,Greeley
+Kansas,KS,20,073,2000006,Greenwood
+Kansas,KS,20,075,2000006,Hamilton
+Kansas,KS,20,077,2000006,Harper
+Kansas,KS,20,079,48620,Harvey
+Kansas,KS,20,081,2000006,Haskell
+Kansas,KS,20,083,2000006,Hodgeman
+Kansas,KS,20,085,45820,Jackson
+Kansas,KS,20,087,45820,Jefferson
+Kansas,KS,20,089,2000006,Jewell
+Kansas,KS,20,091,28140,Johnson
+Kansas,KS,20,093,2000006,Kearny
+Kansas,KS,20,095,2000006,Kingman
+Kansas,KS,20,097,2000006,Kiowa
+Kansas,KS,20,099,2000006,Labette
+Kansas,KS,20,101,2000006,Lane
+Kansas,KS,20,103,28140,Leavenworth
+Kansas,KS,20,105,2000006,Lincoln
+Kansas,KS,20,107,28140,Linn
+Kansas,KS,20,109,2000006,Logan
+Kansas,KS,20,111,2000006,Lyon
+Kansas,KS,20,115,2000006,Marion
+Kansas,KS,20,117,2000006,Marshall
+Kansas,KS,20,113,2000006,McPherson
+Kansas,KS,20,119,2000006,Meade
+Kansas,KS,20,121,28140,Miami
+Kansas,KS,20,123,2000006,Mitchell
+Kansas,KS,20,125,2000006,Montgomery
+Kansas,KS,20,127,2000006,Morris
+Kansas,KS,20,129,2000006,Morton
+Kansas,KS,20,131,2000006,Nemaha
+Kansas,KS,20,133,2000006,Neosho
+Kansas,KS,20,135,2000006,Ness
+Kansas,KS,20,137,2000006,Norton
+Kansas,KS,20,139,45820,Osage
+Kansas,KS,20,141,2000006,Osborne
+Kansas,KS,20,143,2000006,Ottawa
+Kansas,KS,20,145,2000006,Pawnee
+Kansas,KS,20,147,2000006,Phillips
+Kansas,KS,20,149,31740,Pottawatomie
+Kansas,KS,20,151,2000006,Pratt
+Kansas,KS,20,153,2000006,Rawlins
+Kansas,KS,20,155,2000006,Reno
+Kansas,KS,20,157,2000006,Republic
+Kansas,KS,20,159,2000006,Rice
+Kansas,KS,20,161,31740,Riley
+Kansas,KS,20,163,2000006,Rooks
+Kansas,KS,20,165,2000006,Rush
+Kansas,KS,20,167,2000006,Russell
+Kansas,KS,20,169,2000006,Saline
+Kansas,KS,20,171,2000006,Scott
+Kansas,KS,20,173,48620,Sedgwick
+Kansas,KS,20,175,2000006,Seward
+Kansas,KS,20,177,45820,Shawnee
+Kansas,KS,20,179,2000006,Sheridan
+Kansas,KS,20,181,2000006,Sherman
+Kansas,KS,20,183,2000006,Smith
+Kansas,KS,20,185,2000006,Stafford
+Kansas,KS,20,187,2000006,Stanton
+Kansas,KS,20,189,2000006,Stevens
+Kansas,KS,20,191,48620,Sumner
+Kansas,KS,20,193,2000006,Thomas
+Kansas,KS,20,195,2000006,Trego
+Kansas,KS,20,197,45820,Wabaunsee
+Kansas,KS,20,199,2000006,Wallace
+Kansas,KS,20,201,2000006,Washington
+Kansas,KS,20,203,2000006,Wichita
+Kansas,KS,20,205,2000006,Wilson
+Kansas,KS,20,207,2000006,Woodson
+Kansas,KS,20,209,28140,Wyandotte
+Kentucky,KY,21,001,2100002,Adair
+Kentucky,KY,21,003,14540,Allen
+Kentucky,KY,21,005,2100003,Anderson
+Kentucky,KY,21,007,37140,Ballard
+Kentucky,KY,21,009,2100002,Barren
+Kentucky,KY,21,011,2100003,Bath
+Kentucky,KY,21,013,2100004,Bell
+Kentucky,KY,21,015,17140,Boone
+Kentucky,KY,21,017,30460,Bourbon
+Kentucky,KY,21,019,26580,Boyd
+Kentucky,KY,21,021,2100003,Boyle
+Kentucky,KY,21,023,17140,Bracken
+Kentucky,KY,21,025,2100004,Breathitt
+Kentucky,KY,21,027,2100001,Breckinridge
+Kentucky,KY,21,029,31140,Bullitt
+Kentucky,KY,21,031,14540,Butler
+Kentucky,KY,21,033,2100001,Caldwell
+Kentucky,KY,21,035,2100001,Calloway
+Kentucky,KY,21,037,17140,Campbell
+Kentucky,KY,21,039,37140,Carlisle
+Kentucky,KY,21,041,2100003,Carroll
+Kentucky,KY,21,043,26580,Carter
+Kentucky,KY,21,045,2100002,Casey
+Kentucky,KY,21,047,17300,Christian
+Kentucky,KY,21,049,30460,Clark
+Kentucky,KY,21,051,2100004,Clay
+Kentucky,KY,21,053,2100002,Clinton
+Kentucky,KY,21,055,2100001,Crittenden
+Kentucky,KY,21,057,2100002,Cumberland
+Kentucky,KY,21,059,36980,Daviess
+Kentucky,KY,21,061,14540,Edmonson
+Kentucky,KY,21,063,2100004,Elliott
+Kentucky,KY,21,065,2100003,Estill
+Kentucky,KY,21,067,30460,Fayette
+Kentucky,KY,21,069,2100003,Fleming
+Kentucky,KY,21,071,2100004,Floyd
+Kentucky,KY,21,073,2100003,Franklin
+Kentucky,KY,21,075,2100001,Fulton
+Kentucky,KY,21,077,17140,Gallatin
+Kentucky,KY,21,079,2100003,Garrard
+Kentucky,KY,21,081,17140,Grant
+Kentucky,KY,21,083,2100001,Graves
+Kentucky,KY,21,085,2100001,Grayson
+Kentucky,KY,21,087,2100002,Green
+Kentucky,KY,21,089,26580,Greenup
+Kentucky,KY,21,091,2100001,Hancock
+Kentucky,KY,21,093,21060,Hardin
+Kentucky,KY,21,095,2100004,Harlan
+Kentucky,KY,21,097,2100003,Harrison
+Kentucky,KY,21,099,2100002,Hart
+Kentucky,KY,21,101,2100001,Henderson
+Kentucky,KY,21,103,31140,Henry
+Kentucky,KY,21,105,2100001,Hickman
+Kentucky,KY,21,107,2100001,Hopkins
+Kentucky,KY,21,109,2100004,Jackson
+Kentucky,KY,21,111,31140,Jefferson
+Kentucky,KY,21,113,30460,Jessamine
+Kentucky,KY,21,115,2100004,Johnson
+Kentucky,KY,21,117,17140,Kenton
+Kentucky,KY,21,119,2100004,Knott
+Kentucky,KY,21,121,2100002,Knox
+Kentucky,KY,21,123,21060,Larue
+Kentucky,KY,21,125,2100002,Laurel
+Kentucky,KY,21,127,26580,Lawrence
+Kentucky,KY,21,129,2100004,Lee
+Kentucky,KY,21,131,2100004,Leslie
+Kentucky,KY,21,133,2100004,Letcher
+Kentucky,KY,21,135,2100003,Lewis
+Kentucky,KY,21,137,2100003,Lincoln
+Kentucky,KY,21,139,37140,Livingston
+Kentucky,KY,21,141,2100002,Logan
+Kentucky,KY,21,143,2100001,Lyon
+Kentucky,KY,21,151,37140,Madison
+Kentucky,KY,21,153,2100002,Magoffin
+Kentucky,KY,21,155,36980,Marion
+Kentucky,KY,21,157,2100003,Marshall
+Kentucky,KY,21,159,2100004,Martin
+Kentucky,KY,21,161,2100002,Mason
+Kentucky,KY,21,145,2100001,McCracken
+Kentucky,KY,21,147,2100004,McCreary
+Kentucky,KY,21,149,2100003,McLean
+Kentucky,KY,21,163,31140,Meade
+Kentucky,KY,21,165,2100003,Menifee
+Kentucky,KY,21,167,2100003,Mercer
+Kentucky,KY,21,169,2100002,Metcalfe
+Kentucky,KY,21,171,2100002,Monroe
+Kentucky,KY,21,173,2100003,Montgomery
+Kentucky,KY,21,175,2100004,Morgan
+Kentucky,KY,21,177,2100001,Muhlenberg
+Kentucky,KY,21,179,31140,Nelson
+Kentucky,KY,21,181,2100003,Nicholas
+Kentucky,KY,21,183,2100001,Ohio
+Kentucky,KY,21,185,31140,Oldham
+Kentucky,KY,21,187,2100003,Owen
+Kentucky,KY,21,189,2100004,Owsley
+Kentucky,KY,21,191,17140,Pendleton
+Kentucky,KY,21,193,2100004,Perry
+Kentucky,KY,21,195,2100004,Pike
+Kentucky,KY,21,197,2100003,Powell
+Kentucky,KY,21,199,2100002,Pulaski
+Kentucky,KY,21,201,2100003,Robertson
+Kentucky,KY,21,203,2100003,Rockcastle
+Kentucky,KY,21,205,2100003,Rowan
+Kentucky,KY,21,207,2100002,Russell
+Kentucky,KY,21,209,30460,Scott
+Kentucky,KY,21,211,31140,Shelby
+Kentucky,KY,21,213,2100002,Simpson
+Kentucky,KY,21,215,31140,Spencer
+Kentucky,KY,21,217,2100002,Taylor
+Kentucky,KY,21,219,2100001,Todd
+Kentucky,KY,21,221,17300,Trigg
+Kentucky,KY,21,223,2100003,Trimble
+Kentucky,KY,21,225,2100001,Union
+Kentucky,KY,21,227,14540,Warren
+Kentucky,KY,21,229,2100003,Washington
+Kentucky,KY,21,231,2100002,Wayne
+Kentucky,KY,21,233,2100001,Webster
+Kentucky,KY,21,235,2100002,Whitley
+Kentucky,KY,21,237,2100004,Wolfe
+Kentucky,KY,21,239,30460,Woodford
+Louisiana,LA,22,001,29180,Acadia Parish
+Louisiana,LA,22,003,2200002,Allen Parish
+Louisiana,LA,22,005,12940,Ascension Parish
+Louisiana,LA,22,007,12940,Assumption Parish
+Louisiana,LA,22,009,2200002,Avoyelles Parish
+Louisiana,LA,22,011,2200002,Beauregard Parish
+Louisiana,LA,22,013,2200003,Bienville Parish
+Louisiana,LA,22,015,43340,Bossier Parish
+Louisiana,LA,22,017,43340,Caddo Parish
+Louisiana,LA,22,019,29340,Calcasieu Parish
+Louisiana,LA,22,021,2200003,Caldwell Parish
+Louisiana,LA,22,023,29340,Cameron Parish
+Louisiana,LA,22,025,2200003,Catahoula Parish
+Louisiana,LA,22,027,2200003,Claiborne Parish
+Louisiana,LA,22,029,2200003,Concordia Parish
+Louisiana,LA,22,031,43340,De Soto Parish
+Louisiana,LA,22,033,12940,East Baton Rouge Parish
+Louisiana,LA,22,035,2200003,East Carroll Parish
+Louisiana,LA,22,037,12940,East Feliciana Parish
+Louisiana,LA,22,039,2200002,Evangeline Parish
+Louisiana,LA,22,041,2200003,Franklin Parish
+Louisiana,LA,22,043,10780,Grant Parish
+Louisiana,LA,22,045,2200006,Iberia Parish
+Louisiana,LA,22,047,12940,Iberville Parish
+Louisiana,LA,22,049,2200003,Jackson Parish
+Louisiana,LA,22,053,35380,Jefferson Davis Parish
+Louisiana,LA,22,051,29340,Jefferson Parish
+Louisiana,LA,22,055,29180,Lafayette Parish
+Louisiana,LA,22,057,26380,Lafourche Parish
+Louisiana,LA,22,059,2200002,LaSalle Parish
+Louisiana,LA,22,061,2200003,Lincoln Parish
+Louisiana,LA,22,063,12940,Livingston Parish
+Louisiana,LA,22,065,2200003,Madison Parish
+Louisiana,LA,22,067,33740,Morehouse Parish
+Louisiana,LA,22,069,2200002,Natchitoches Parish
+Louisiana,LA,22,071,35380,Orleans Parish
+Louisiana,LA,22,073,33740,Ouachita Parish
+Louisiana,LA,22,075,35380,Plaquemines Parish
+Louisiana,LA,22,077,12940,Pointe Coupee Parish
+Louisiana,LA,22,079,10780,Rapides Parish
+Louisiana,LA,22,081,2200002,Red River Parish
+Louisiana,LA,22,083,33740,Richland Parish
+Louisiana,LA,22,085,2200002,Sabine Parish
+Louisiana,LA,22,087,35380,Saint Bernard Parish
+Louisiana,LA,22,089,35380,Saint Charles Parish
+Louisiana,LA,22,091,12940,Saint Helena Parish
+Louisiana,LA,22,093,35380,Saint James Parish
+Louisiana,LA,22,095,35380,Saint John the Baptist Parish
+Louisiana,LA,22,097,2200006,Saint Landry Parish
+Louisiana,LA,22,099,29180,Saint Martin Parish
+Louisiana,LA,22,101,2200006,Saint Mary Parish
+Louisiana,LA,22,103,43640,Saint Tammany Parish
+Louisiana,LA,22,105,25220,Tangipahoa Parish
+Louisiana,LA,22,107,2200003,Tensas Parish
+Louisiana,LA,22,109,26380,Terrebonne Parish
+Louisiana,LA,22,111,33740,Union Parish
+Louisiana,LA,22,113,29180,Vermilion Parish
+Louisiana,LA,22,115,2200002,Vernon Parish
+Louisiana,LA,22,117,2200006,Washington Parish
+Louisiana,LA,22,119,2200003,Webster Parish
+Louisiana,LA,22,121,12940,West Baton Rouge Parish
+Louisiana,LA,22,123,2200003,West Carroll Parish
+Louisiana,LA,22,125,12940,West Feliciana Parish
+Louisiana,LA,22,127,2200002,Winn Parish
+Maine,ME,23,001,30340,Androscoggin
+Maine,ME,23,003,2300001,Aroostook
+Maine,ME,23,005,38860,Cumberland
+Maine,ME,23,007,2300002,Franklin
+Maine,ME,23,009,2300001,Hancock
+Maine,ME,23,011,2300002,Kennebec
+Maine,ME,23,013,2300002,Knox
+Maine,ME,23,015,2300002,Lincoln
+Maine,ME,23,017,2300002,Oxford
+Maine,ME,23,019,12620,Penobscot
+Maine,ME,23,021,2300001,Piscataquis
+Maine,ME,23,023,38860,Sagadahoc
+Maine,ME,23,025,2300002,Somerset
+Maine,ME,23,027,2300002,Waldo
+Maine,ME,23,029,2300001,Washington
+Maine,ME,23,031,38860,York
+Maryland,MD,24,001,2400006,Allegany
+Maryland,MD,24,003,12580,Anne Arundel
+Maryland,MD,24,510,12580,Baltimore city
+Maryland,MD,24,005,30500,Baltimore
+Maryland,MD,24,009,2400006,Calvert
+Maryland,MD,24,011,12580,Caroline
+Maryland,MD,24,013,37980,Carroll
+Maryland,MD,24,015,47900,Cecil
+Maryland,MD,24,017,2400006,Charles
+Maryland,MD,24,019,47900,Dorchester
+Maryland,MD,24,021,2400006,Frederick
+Maryland,MD,24,023,12580,Garrett
+Maryland,MD,24,025,12580,Harford
+Maryland,MD,24,027,2400006,Howard
+Maryland,MD,24,029,47900,Kent
+Maryland,MD,24,031,47900,Montgomery
+Maryland,MD,24,033,12580,Prince George's
+Maryland,MD,24,035,30500,Queen Anne's
+Maryland,MD,24,039,41540,Somerset
+Maryland,MD,24,037,2400006,Saint Mary's
+Maryland,MD,24,041,25180,Talbot
+Maryland,MD,24,043,41540,Washington
+Maryland,MD,24,045,2400006,Wicomico
+Maryland,MD,24,047,12580,Worcester
+Massachusetts,MA,25,001,12700,Barnstable
+Massachusetts,MA,25,003,38340,Berkshire
+Massachusetts,MA,25,005,39300,Bristol
+Massachusetts,MA,25,007,2500001,Dukes
+Massachusetts,MA,25,009,14460,Essex
+Massachusetts,MA,25,011,2500001,Franklin
+Massachusetts,MA,25,013,44140,Hampden
+Massachusetts,MA,25,015,11200,Hampshire
+Massachusetts,MA,25,017,14460,Middlesex
+Massachusetts,MA,25,019,2500001,Nantucket
+Massachusetts,MA,25,021,14460,Norfolk
+Massachusetts,MA,25,023,14460,Plymouth
+Massachusetts,MA,25,025,14460,Suffolk
+Massachusetts,MA,25,027,49340,Worcester
+Michigan,MI,26,001,2600002,Alcona
+Michigan,MI,26,003,2600001,Alger
+Michigan,MI,26,005,2600004,Allegan
+Michigan,MI,26,007,2600002,Alpena
+Michigan,MI,26,009,2600002,Antrim
+Michigan,MI,26,011,2600003,Arenac
+Michigan,MI,26,013,2600001,Baraga
+Michigan,MI,26,015,24340,Barry
+Michigan,MI,26,017,13020,Bay
+Michigan,MI,26,019,45900,Benzie
+Michigan,MI,26,021,35660,Berrien
+Michigan,MI,26,023,2600004,Branch
+Michigan,MI,26,025,12980,Calhoun
+Michigan,MI,26,027,43780,Cass
+Michigan,MI,26,029,2600002,Charlevoix
+Michigan,MI,26,031,2600002,Cheboygan
+Michigan,MI,26,033,2600001,Chippewa
+Michigan,MI,26,035,2600003,Clare
+Michigan,MI,26,037,29620,Clinton
+Michigan,MI,26,039,2600002,Crawford
+Michigan,MI,26,041,2600001,Delta
+Michigan,MI,26,043,2600001,Dickinson
+Michigan,MI,26,045,29620,Eaton
+Michigan,MI,26,047,2600002,Emmet
+Michigan,MI,26,049,22420,Genesee
+Michigan,MI,26,051,2600003,Gladwin
+Michigan,MI,26,053,2600001,Gogebic
+Michigan,MI,26,055,45900,Grand Traverse
+Michigan,MI,26,057,2600003,Gratiot
+Michigan,MI,26,059,2600004,Hillsdale
+Michigan,MI,26,061,2600001,Houghton
+Michigan,MI,26,063,2600003,Huron
+Michigan,MI,26,065,29620,Ingham
+Michigan,MI,26,067,24340,Ionia
+Michigan,MI,26,069,2600002,Iosco
+Michigan,MI,26,071,2600001,Iron
+Michigan,MI,26,073,2600003,Isabella
+Michigan,MI,26,075,27100,Jackson
+Michigan,MI,26,077,28020,Kalamazoo
+Michigan,MI,26,079,45900,Kalkaska
+Michigan,MI,26,081,24340,Kent
+Michigan,MI,26,083,2600001,Keweenaw
+Michigan,MI,26,085,2600003,Lake
+Michigan,MI,26,087,19820,Lapeer
+Michigan,MI,26,089,45900,Leelanau
+Michigan,MI,26,091,2600004,Lenawee
+Michigan,MI,26,093,19820,Livingston
+Michigan,MI,26,095,2600001,Luce
+Michigan,MI,26,097,2600001,Mackinac
+Michigan,MI,26,099,19820,Macomb
+Michigan,MI,26,101,2600002,Manistee
+Michigan,MI,26,103,2600001,Marquette
+Michigan,MI,26,105,2600003,Mason
+Michigan,MI,26,107,2600003,Mecosta
+Michigan,MI,26,109,2600001,Menominee
+Michigan,MI,26,111,33220,Midland
+Michigan,MI,26,113,2600002,Missaukee
+Michigan,MI,26,115,33780,Monroe
+Michigan,MI,26,117,24340,Montcalm
+Michigan,MI,26,119,2600002,Montmorency
+Michigan,MI,26,121,34740,Muskegon
+Michigan,MI,26,123,2600003,Newaygo
+Michigan,MI,26,125,19820,Oakland
+Michigan,MI,26,127,2600003,Oceana
+Michigan,MI,26,129,2600002,Ogemaw
+Michigan,MI,26,131,2600001,Ontonagon
+Michigan,MI,26,133,2600003,Osceola
+Michigan,MI,26,135,2600002,Oscoda
+Michigan,MI,26,137,2600002,Otsego
+Michigan,MI,26,139,24340,Ottawa
+Michigan,MI,26,141,2600002,Presque Isle
+Michigan,MI,26,143,2600002,Roscommon
+Michigan,MI,26,145,40980,Saginaw
+Michigan,MI,26,151,19820,Sanilac
+Michigan,MI,26,153,2600004,Schoolcraft
+Michigan,MI,26,155,2600003,Shiawassee
+Michigan,MI,26,147,2600001,Saint Clair
+Michigan,MI,26,149,2600003,Saint Joseph
+Michigan,MI,26,157,2600003,Tuscola
+Michigan,MI,26,159,2600004,Van Buren
+Michigan,MI,26,161,11460,Washtenaw
+Michigan,MI,26,163,19820,Wayne
+Michigan,MI,26,165,2600002,Wexford
+Minnesota,MN,27,001,2700002,Aitkin
+Minnesota,MN,27,003,33460,Anoka
+Minnesota,MN,27,005,2700001,Becker
+Minnesota,MN,27,007,2700001,Beltrami
+Minnesota,MN,27,009,41060,Benton
+Minnesota,MN,27,011,2700003,Big Stone
+Minnesota,MN,27,013,31860,Blue Earth
+Minnesota,MN,27,015,2700004,Brown
+Minnesota,MN,27,017,20260,Carlton
+Minnesota,MN,27,019,33460,Carver
+Minnesota,MN,27,021,2700001,Cass
+Minnesota,MN,27,023,2700003,Chippewa
+Minnesota,MN,27,025,33460,Chisago
+Minnesota,MN,27,027,22020,Clay
+Minnesota,MN,27,029,2700001,Clearwater
+Minnesota,MN,27,031,2700002,Cook
+Minnesota,MN,27,033,2700003,Cottonwood
+Minnesota,MN,27,035,2700001,Crow Wing
+Minnesota,MN,27,037,33460,Dakota
+Minnesota,MN,27,039,40340,Dodge
+Minnesota,MN,27,041,2700001,Douglas
+Minnesota,MN,27,043,2700004,Faribault
+Minnesota,MN,27,045,40340,Fillmore
+Minnesota,MN,27,047,2700004,Freeborn
+Minnesota,MN,27,049,2700004,Goodhue
+Minnesota,MN,27,051,2700001,Grant
+Minnesota,MN,27,053,33460,Hennepin
+Minnesota,MN,27,055,29100,Houston
+Minnesota,MN,27,057,2700001,Hubbard
+Minnesota,MN,27,059,33460,Isanti
+Minnesota,MN,27,061,2700002,Itasca
+Minnesota,MN,27,063,2700003,Jackson
+Minnesota,MN,27,065,2700002,Kanabec
+Minnesota,MN,27,067,2700003,Kandiyohi
+Minnesota,MN,27,069,2700001,Kittson
+Minnesota,MN,27,071,2700002,Koochiching
+Minnesota,MN,27,073,2700003,Lac qui Parle
+Minnesota,MN,27,075,2700002,Lake
+Minnesota,MN,27,077,2700001,Lake of the Woods
+Minnesota,MN,27,079,33460,Le Sueur
+Minnesota,MN,27,081,2700003,Lincoln
+Minnesota,MN,27,083,2700003,Lyon
+Minnesota,MN,27,087,2700003,Mahnomen
+Minnesota,MN,27,089,2700001,Marshall
+Minnesota,MN,27,091,2700001,Martin
+Minnesota,MN,27,085,2700004,McLeod
+Minnesota,MN,27,093,2700003,Meeker
+Minnesota,MN,27,095,33460,Mille Lacs
+Minnesota,MN,27,097,2700001,Morrison
+Minnesota,MN,27,099,2700004,Mower
+Minnesota,MN,27,101,2700003,Murray
+Minnesota,MN,27,103,31860,Nicollet
+Minnesota,MN,27,105,2700003,Nobles
+Minnesota,MN,27,107,2700001,Norman
+Minnesota,MN,27,109,40340,Olmsted
+Minnesota,MN,27,111,2700001,Otter Tail
+Minnesota,MN,27,113,2700001,Pennington
+Minnesota,MN,27,115,2700002,Pine
+Minnesota,MN,27,117,2700003,Pipestone
+Minnesota,MN,27,119,24220,Polk
+Minnesota,MN,27,121,2700001,Pope
+Minnesota,MN,27,123,33460,Ramsey
+Minnesota,MN,27,125,2700001,Red Lake
+Minnesota,MN,27,127,2700003,Redwood
+Minnesota,MN,27,129,2700003,Renville
+Minnesota,MN,27,131,2700004,Rice
+Minnesota,MN,27,133,43620,Rock
+Minnesota,MN,27,135,2700001,Roseau
+Minnesota,MN,27,139,20260,Scott
+Minnesota,MN,27,141,33460,Sherburne
+Minnesota,MN,27,143,33460,Sibley
+Minnesota,MN,27,145,2700003,Stearns
+Minnesota,MN,27,147,41060,Steele
+Minnesota,MN,27,149,2700004,Stevens
+Minnesota,MN,27,137,2700001,Saint Louis
+Minnesota,MN,27,151,2700003,Swift
+Minnesota,MN,27,153,2700001,Todd
+Minnesota,MN,27,155,2700001,Traverse
+Minnesota,MN,27,157,40340,Wabasha
+Minnesota,MN,27,159,2700001,Wadena
+Minnesota,MN,27,161,2700004,Waseca
+Minnesota,MN,27,163,33460,Washington
+Minnesota,MN,27,165,2700004,Watonwan
+Minnesota,MN,27,167,2700001,Wilkin
+Minnesota,MN,27,169,2700004,Winona
+Minnesota,MN,27,171,33460,Wright
+Minnesota,MN,27,173,2700003,Yellow Medicine
+Mississippi,MS,28,001,2800007,Adams
+Mississippi,MS,28,003,2800006,Alcorn
+Mississippi,MS,28,005,2800007,Amite
+Mississippi,MS,28,007,2800005,Attala
+Mississippi,MS,28,009,32820,Benton
+Mississippi,MS,28,011,2800005,Bolivar
+Mississippi,MS,28,013,2800006,Calhoun
+Mississippi,MS,28,015,2800005,Carroll
+Mississippi,MS,28,017,2800006,Chickasaw
+Mississippi,MS,28,019,2800006,Choctaw
+Mississippi,MS,28,021,2800007,Claiborne
+Mississippi,MS,28,023,2800008,Clarke
+Mississippi,MS,28,025,2800006,Clay
+Mississippi,MS,28,027,2800005,Coahoma
+Mississippi,MS,28,029,27140,Copiah
+Mississippi,MS,28,031,2800008,Covington
+Mississippi,MS,28,033,32820,DeSoto
+Mississippi,MS,28,035,25620,Forrest
+Mississippi,MS,28,037,2800007,Franklin
+Mississippi,MS,28,039,2800008,George
+Mississippi,MS,28,041,2800008,Greene
+Mississippi,MS,28,043,2800005,Grenada
+Mississippi,MS,28,045,25060,Hancock
+Mississippi,MS,28,047,25060,Harrison
+Mississippi,MS,28,049,27140,Hinds
+Mississippi,MS,28,051,27140,Holmes
+Mississippi,MS,28,053,2800005,Humphreys
+Mississippi,MS,28,055,2800005,Issaquena
+Mississippi,MS,28,057,2800006,Itawamba
+Mississippi,MS,28,059,25060,Jackson
+Mississippi,MS,28,061,2800008,Jasper
+Mississippi,MS,28,063,2800007,Jefferson
+Mississippi,MS,28,065,2800007,Jefferson Davis
+Mississippi,MS,28,067,2800008,Jones
+Mississippi,MS,28,069,2800008,Kemper
+Mississippi,MS,28,071,2800006,Lafayette
+Mississippi,MS,28,073,25620,Lamar
+Mississippi,MS,28,075,2800008,Lauderdale
+Mississippi,MS,28,077,2800007,Lawrence
+Mississippi,MS,28,079,2800005,Leake
+Mississippi,MS,28,081,2800006,Lee
+Mississippi,MS,28,083,2800005,Leflore
+Mississippi,MS,28,085,2800007,Lincoln
+Mississippi,MS,28,087,2800006,Lowndes
+Mississippi,MS,28,089,27140,Madison
+Mississippi,MS,28,091,2800007,Marion
+Mississippi,MS,28,093,32820,Marshall
+Mississippi,MS,28,095,2800006,Monroe
+Mississippi,MS,28,097,2800005,Montgomery
+Mississippi,MS,28,099,2800008,Neshoba
+Mississippi,MS,28,101,2800008,Newton
+Mississippi,MS,28,103,2800008,Noxubee
+Mississippi,MS,28,105,2800006,Oktibbeha
+Mississippi,MS,28,107,2800005,Panola
+Mississippi,MS,28,109,2800008,Pearl River
+Mississippi,MS,28,111,25620,Perry
+Mississippi,MS,28,113,2800007,Pike
+Mississippi,MS,28,115,2800006,Pontotoc
+Mississippi,MS,28,117,2800006,Prentiss
+Mississippi,MS,28,119,2800005,Quitman
+Mississippi,MS,28,121,27140,Rankin
+Mississippi,MS,28,123,27140,Scott
+Mississippi,MS,28,125,2800005,Sharkey
+Mississippi,MS,28,127,27140,Simpson
+Mississippi,MS,28,129,2800008,Smith
+Mississippi,MS,28,131,25060,Stone
+Mississippi,MS,28,133,2800005,Sunflower
+Mississippi,MS,28,135,2800005,Tallahatchie
+Mississippi,MS,28,137,32820,Tate
+Mississippi,MS,28,139,2800006,Tippah
+Mississippi,MS,28,141,2800006,Tishomingo
+Mississippi,MS,28,143,32820,Tunica
+Mississippi,MS,28,145,2800006,Union
+Mississippi,MS,28,147,2800007,Walthall
+Mississippi,MS,28,149,2800007,Warren
+Mississippi,MS,28,151,2800005,Washington
+Mississippi,MS,28,153,2800008,Wayne
+Mississippi,MS,28,155,2800006,Webster
+Mississippi,MS,28,157,2800007,Wilkinson
+Mississippi,MS,28,159,2800008,Winston
+Mississippi,MS,28,161,2800005,Yalobusha
+Mississippi,MS,28,163,27140,Yazoo
+Missouri,MO,29,001,2900002,Adair
+Missouri,MO,29,003,41140,Andrew
+Missouri,MO,29,005,2900002,Atchison
+Missouri,MO,29,007,2900002,Audrain
+Missouri,MO,29,009,2900004,Barry
+Missouri,MO,29,011,2900004,Barton
+Missouri,MO,29,013,28140,Bates
+Missouri,MO,29,015,2900001,Benton
+Missouri,MO,29,017,16020,Bollinger
+Missouri,MO,29,019,17860,Boone
+Missouri,MO,29,021,41140,Buchanan
+Missouri,MO,29,023,2900003,Butler
+Missouri,MO,29,025,28140,Caldwell
+Missouri,MO,29,027,27620,Callaway
+Missouri,MO,29,029,2900001,Camden
+Missouri,MO,29,031,16020,Cape Girardeau
+Missouri,MO,29,033,2900002,Carroll
+Missouri,MO,29,035,2900003,Carter
+Missouri,MO,29,037,28140,Cass
+Missouri,MO,29,039,2900004,Cedar
+Missouri,MO,29,041,2900002,Chariton
+Missouri,MO,29,043,44180,Christian
+Missouri,MO,29,045,2900002,Clark
+Missouri,MO,29,047,28140,Clay
+Missouri,MO,29,049,28140,Clinton
+Missouri,MO,29,051,27620,Cole
+Missouri,MO,29,053,17860,Cooper
+Missouri,MO,29,055,2900001,Crawford
+Missouri,MO,29,057,2900004,Dade
+Missouri,MO,29,059,44180,Dallas
+Missouri,MO,29,061,2900002,Daviess
+Missouri,MO,29,063,41140,DeKalb
+Missouri,MO,29,065,2900001,Dent
+Missouri,MO,29,067,2900003,Douglas
+Missouri,MO,29,069,2900003,Dunklin
+Missouri,MO,29,071,41180,Franklin
+Missouri,MO,29,073,2900001,Gasconade
+Missouri,MO,29,075,2900002,Gentry
+Missouri,MO,29,077,44180,Greene
+Missouri,MO,29,079,2900002,Grundy
+Missouri,MO,29,081,2900002,Harrison
+Missouri,MO,29,083,2900001,Henry
+Missouri,MO,29,085,2900001,Hickory
+Missouri,MO,29,087,2900002,Holt
+Missouri,MO,29,089,17860,Howard
+Missouri,MO,29,091,2900003,Howell
+Missouri,MO,29,093,2900003,Iron
+Missouri,MO,29,095,28140,Jackson
+Missouri,MO,29,097,27900,Jasper
+Missouri,MO,29,099,41180,Jefferson
+Missouri,MO,29,101,2900001,Johnson
+Missouri,MO,29,103,2900002,Knox
+Missouri,MO,29,105,2900001,Laclede
+Missouri,MO,29,107,28140,Lafayette
+Missouri,MO,29,109,2900004,Lawrence
+Missouri,MO,29,111,2900002,Lewis
+Missouri,MO,29,113,41180,Lincoln
+Missouri,MO,29,115,2900002,Linn
+Missouri,MO,29,117,2900002,Livingston
+Missouri,MO,29,121,2900004,Macon
+Missouri,MO,29,123,2900002,Madison
+Missouri,MO,29,125,2900003,Maries
+Missouri,MO,29,127,2900001,Marion
+Missouri,MO,29,119,2900002,McDonald
+Missouri,MO,29,129,2900002,Mercer
+Missouri,MO,29,131,2900001,Miller
+Missouri,MO,29,133,2900003,Mississippi
+Missouri,MO,29,135,27620,Moniteau
+Missouri,MO,29,137,2900002,Monroe
+Missouri,MO,29,139,2900002,Montgomery
+Missouri,MO,29,141,2900001,Morgan
+Missouri,MO,29,143,2900003,New Madrid
+Missouri,MO,29,145,27900,Newton
+Missouri,MO,29,147,2900002,Nodaway
+Missouri,MO,29,149,2900003,Oregon
+Missouri,MO,29,151,27620,Osage
+Missouri,MO,29,153,2900003,Ozark
+Missouri,MO,29,155,2900003,Pemiscot
+Missouri,MO,29,157,2900003,Perry
+Missouri,MO,29,159,2900001,Pettis
+Missouri,MO,29,161,2900001,Phelps
+Missouri,MO,29,163,2900002,Pike
+Missouri,MO,29,165,28140,Platte
+Missouri,MO,29,167,44180,Polk
+Missouri,MO,29,169,2900001,Pulaski
+Missouri,MO,29,171,2900002,Putnam
+Missouri,MO,29,173,2900002,Ralls
+Missouri,MO,29,175,2900002,Randolph
+Missouri,MO,29,177,28140,Ray
+Missouri,MO,29,179,2900003,Reynolds
+Missouri,MO,29,181,2900003,Ripley
+Missouri,MO,29,195,41180,Saline
+Missouri,MO,29,197,2900001,Schuyler
+Missouri,MO,29,199,2900003,Scotland
+Missouri,MO,29,201,2900003,Scott
+Missouri,MO,29,203,41180,Shannon
+Missouri,MO,29,205,2900001,Shelby
+Missouri,MO,29,183,2900002,Saint Charles
+Missouri,MO,29,185,2900002,Saint Clair
+Missouri,MO,29,186,2900003,Ste. Genevieve
+Missouri,MO,29,187,2900003,Saint Francois
+Missouri,MO,29,510,2900002,Saint Louis city
+Missouri,MO,29,189,2900003,Saint Louis
+Missouri,MO,29,207,2900004,Stoddard
+Missouri,MO,29,209,2900002,Stone
+Missouri,MO,29,211,2900004,Sullivan
+Missouri,MO,29,213,2900003,Taney
+Missouri,MO,29,215,2900004,Texas
+Missouri,MO,29,217,41180,Vernon
+Missouri,MO,29,219,2900003,Warren
+Missouri,MO,29,221,2900003,Washington
+Missouri,MO,29,223,44180,Wayne
+Missouri,MO,29,225,2900002,Webster
+Missouri,MO,29,227,2900003,Worth
+Missouri,MO,29,229,41180,Wright
+Montana,MT,30,001,3000003,Beaverhead
+Montana,MT,30,003,3000006,Big Horn
+Montana,MT,30,005,3000006,Blaine
+Montana,MT,30,007,25740,Broadwater
+Montana,MT,30,009,13740,Carbon
+Montana,MT,30,011,3000006,Carter
+Montana,MT,30,013,24500,Cascade
+Montana,MT,30,015,3000006,Chouteau
+Montana,MT,30,017,3000006,Custer
+Montana,MT,30,019,3000006,Daniels
+Montana,MT,30,021,3000006,Dawson
+Montana,MT,30,023,3000003,Deer Lodge
+Montana,MT,30,025,3000006,Fallon
+Montana,MT,30,027,3000006,Fergus
+Montana,MT,30,029,3000004,Flathead
+Montana,MT,30,031,14580,Gallatin
+Montana,MT,30,033,3000006,Garfield
+Montana,MT,30,035,3000006,Glacier
+Montana,MT,30,037,3000006,Golden Valley
+Montana,MT,30,039,3000003,Granite
+Montana,MT,30,041,3000006,Hill
+Montana,MT,30,043,25740,Jefferson
+Montana,MT,30,045,3000006,Judith Basin
+Montana,MT,30,047,3000004,Lake
+Montana,MT,30,049,25740,Lewis and Clark
+Montana,MT,30,051,3000006,Liberty
+Montana,MT,30,053,3000004,Lincoln
+Montana,MT,30,057,3000006,Madison
+Montana,MT,30,055,3000003,McCone
+Montana,MT,30,059,3000003,Meagher
+Montana,MT,30,061,33540,Mineral
+Montana,MT,30,063,33540,Missoula
+Montana,MT,30,065,3000006,Musselshell
+Montana,MT,30,067,3000003,Park
+Montana,MT,30,069,3000006,Petroleum
+Montana,MT,30,071,3000006,Phillips
+Montana,MT,30,073,3000006,Pondera
+Montana,MT,30,075,3000006,Powder River
+Montana,MT,30,077,3000003,Powell
+Montana,MT,30,079,3000006,Prairie
+Montana,MT,30,081,3000004,Ravalli
+Montana,MT,30,083,3000006,Richland
+Montana,MT,30,085,3000006,Roosevelt
+Montana,MT,30,087,3000006,Rosebud
+Montana,MT,30,089,3000004,Sanders
+Montana,MT,30,091,3000006,Sheridan
+Montana,MT,30,093,3000003,Silver Bow
+Montana,MT,30,095,13740,Stillwater
+Montana,MT,30,097,3000003,Sweet Grass
+Montana,MT,30,099,3000006,Teton
+Montana,MT,30,101,3000006,Toole
+Montana,MT,30,103,3000006,Treasure
+Montana,MT,30,105,3000006,Valley
+Montana,MT,30,107,3000006,Wheatland
+Montana,MT,30,109,3000006,Wibaux
+Montana,MT,30,111,13740,Yellowstone
+Nebraska,NE,31,001,3100006,Adams
+Nebraska,NE,31,003,3100003,Antelope
+Nebraska,NE,31,005,3100006,Arthur
+Nebraska,NE,31,007,3100001,Banner
+Nebraska,NE,31,009,3100006,Blaine
+Nebraska,NE,31,011,3100003,Boone
+Nebraska,NE,31,013,3100001,Box Butte
+Nebraska,NE,31,015,3100001,Boyd
+Nebraska,NE,31,017,3100001,Brown
+Nebraska,NE,31,019,3100006,Buffalo
+Nebraska,NE,31,021,3100003,Burt
+Nebraska,NE,31,023,3100003,Butler
+Nebraska,NE,31,025,36540,Cass
+Nebraska,NE,31,027,3100003,Cedar
+Nebraska,NE,31,029,3100006,Chase
+Nebraska,NE,31,031,3100006,Cherry
+Nebraska,NE,31,033,3100001,Cheyenne
+Nebraska,NE,31,035,3100006,Clay
+Nebraska,NE,31,037,3100003,Colfax
+Nebraska,NE,31,039,3100003,Cuming
+Nebraska,NE,31,041,3100006,Custer
+Nebraska,NE,31,043,43580,Dakota
+Nebraska,NE,31,045,3100001,Dawes
+Nebraska,NE,31,047,3100006,Dawson
+Nebraska,NE,31,049,3100001,Deuel
+Nebraska,NE,31,051,3100003,Dixon
+Nebraska,NE,31,053,3100003,Dodge
+Nebraska,NE,31,055,36540,Douglas
+Nebraska,NE,31,057,3100006,Dundy
+Nebraska,NE,31,059,3100006,Fillmore
+Nebraska,NE,31,061,3100006,Franklin
+Nebraska,NE,31,063,3100006,Frontier
+Nebraska,NE,31,065,3100006,Furnas
+Nebraska,NE,31,067,3100006,Gage
+Nebraska,NE,31,069,3100001,Garden
+Nebraska,NE,31,071,3100001,Garfield
+Nebraska,NE,31,073,3100006,Gosper
+Nebraska,NE,31,075,3100006,Grant
+Nebraska,NE,31,077,3100006,Greeley
+Nebraska,NE,31,079,24260,Hall
+Nebraska,NE,31,081,3100006,Hamilton
+Nebraska,NE,31,083,3100006,Harlan
+Nebraska,NE,31,085,3100006,Hayes
+Nebraska,NE,31,087,3100006,Hitchcock
+Nebraska,NE,31,089,3100001,Holt
+Nebraska,NE,31,091,3100006,Hooker
+Nebraska,NE,31,093,24260,Howard
+Nebraska,NE,31,095,3100006,Jefferson
+Nebraska,NE,31,097,3100006,Johnson
+Nebraska,NE,31,099,3100006,Kearney
+Nebraska,NE,31,101,3100006,Keith
+Nebraska,NE,31,103,3100001,Keya Paha
+Nebraska,NE,31,105,3100001,Kimball
+Nebraska,NE,31,107,3100003,Knox
+Nebraska,NE,31,109,30700,Lancaster
+Nebraska,NE,31,111,3100006,Lincoln
+Nebraska,NE,31,113,3100006,Logan
+Nebraska,NE,31,115,3100001,Loup
+Nebraska,NE,31,119,3100006,Madison
+Nebraska,NE,31,117,3100003,McPherson
+Nebraska,NE,31,121,24260,Merrick
+Nebraska,NE,31,123,3100001,Morrill
+Nebraska,NE,31,125,3100003,Nance
+Nebraska,NE,31,127,3100006,Nemaha
+Nebraska,NE,31,129,3100006,Nuckolls
+Nebraska,NE,31,131,3100006,Otoe
+Nebraska,NE,31,133,3100006,Pawnee
+Nebraska,NE,31,135,3100006,Perkins
+Nebraska,NE,31,137,3100006,Phelps
+Nebraska,NE,31,139,3100003,Pierce
+Nebraska,NE,31,141,3100003,Platte
+Nebraska,NE,31,143,3100003,Polk
+Nebraska,NE,31,145,3100006,Red Willow
+Nebraska,NE,31,147,3100006,Richardson
+Nebraska,NE,31,149,3100001,Rock
+Nebraska,NE,31,151,3100006,Saline
+Nebraska,NE,31,153,36540,Sarpy
+Nebraska,NE,31,155,36540,Saunders
+Nebraska,NE,31,157,3100001,Scotts Bluff
+Nebraska,NE,31,159,30700,Seward
+Nebraska,NE,31,161,3100001,Sheridan
+Nebraska,NE,31,163,3100006,Sherman
+Nebraska,NE,31,165,3100001,Sioux
+Nebraska,NE,31,167,3100003,Stanton
+Nebraska,NE,31,169,3100006,Thayer
+Nebraska,NE,31,171,3100006,Thomas
+Nebraska,NE,31,173,3100003,Thurston
+Nebraska,NE,31,175,3100006,Valley
+Nebraska,NE,31,177,36540,Washington
+Nebraska,NE,31,179,3100003,Wayne
+Nebraska,NE,31,181,3100006,Webster
+Nebraska,NE,31,183,3100003,Wheeler
+Nebraska,NE,31,185,3100006,York
+Nevada,NV,32,510,3200006,Carson City
+Nevada,NV,32,001,29820,Churchill
+Nevada,NV,32,003,3200006,Clark
+Nevada,NV,32,005,3200006,Douglas
+Nevada,NV,32,007,3200006,Elko
+Nevada,NV,32,009,3200006,Esmeralda
+Nevada,NV,32,011,3200006,Eureka
+Nevada,NV,32,013,3200006,Humboldt
+Nevada,NV,32,015,3200006,Lander
+Nevada,NV,32,017,39900,Lincoln
+Nevada,NV,32,019,3200006,Lyon
+Nevada,NV,32,021,3200006,Mineral
+Nevada,NV,32,023,3200006,Nye
+Nevada,NV,32,027,39900,Pershing
+Nevada,NV,32,029,39900,Storey
+Nevada,NV,32,031,3200006,Washoe
+Nevada,NV,32,033,16180,White Pine
+New Hampshire,NH,33,001,3300002,Belknap
+New Hampshire,NH,33,003,3300001,Carroll
+New Hampshire,NH,33,005,3300006,Cheshire
+New Hampshire,NH,33,007,3300001,Coos
+New Hampshire,NH,33,009,3300001,Grafton
+New Hampshire,NH,33,011,31700,Hillsborough
+New Hampshire,NH,33,013,3300002,Merrimack
+New Hampshire,NH,33,015,14460,Rockingham
+New Hampshire,NH,33,017,14460,Strafford
+New Hampshire,NH,33,019,3300006,Sullivan
+New Jersey,NJ,34,001,12100,Atlantic
+New Jersey,NJ,34,003,35620,Bergen
+New Jersey,NJ,34,005,37980,Burlington
+New Jersey,NJ,34,007,37980,Camden
+New Jersey,NJ,34,009,12100,Cape May
+New Jersey,NJ,34,011,47220,Cumberland
+New Jersey,NJ,34,013,35620,Essex
+New Jersey,NJ,34,015,37980,Gloucester
+New Jersey,NJ,34,017,35620,Hudson
+New Jersey,NJ,34,019,35620,Hunterdon
+New Jersey,NJ,34,021,45940,Mercer
+New Jersey,NJ,34,023,35620,Middlesex
+New Jersey,NJ,34,025,35620,Monmouth
+New Jersey,NJ,34,027,35620,Morris
+New Jersey,NJ,34,029,35620,Ocean
+New Jersey,NJ,34,031,35620,Passaic
+New Jersey,NJ,34,033,37980,Salem
+New Jersey,NJ,34,035,35620,Somerset
+New Jersey,NJ,34,037,35620,Sussex
+New Jersey,NJ,34,039,35620,Union
+New Jersey,NJ,34,041,10900,Warren
+New Mexico,NM,35,001,10740,Bernalillo
+New Mexico,NM,35,003,3500006,Catron
+New Mexico,NM,35,005,3500007,Chaves
+New Mexico,NM,35,006,3500006,Cibola
+New Mexico,NM,35,007,3500006,Colfax
+New Mexico,NM,35,009,3500007,Curry
+New Mexico,NM,35,011,3500007,De Baca
+New Mexico,NM,35,013,29740,Doña Ana
+New Mexico,NM,35,015,3500007,Eddy
+New Mexico,NM,35,017,3500007,Grant
+New Mexico,NM,35,019,3500007,Guadalupe
+New Mexico,NM,35,021,3500007,Harding
+New Mexico,NM,35,023,3500007,Hidalgo
+New Mexico,NM,35,025,3500007,Lea
+New Mexico,NM,35,027,3500007,Lincoln
+New Mexico,NM,35,028,3500006,Los Alamos
+New Mexico,NM,35,029,3500007,Luna
+New Mexico,NM,35,031,3500006,McKinley
+New Mexico,NM,35,033,3500006,Mora
+New Mexico,NM,35,035,3500007,Otero
+New Mexico,NM,35,037,3500007,Quay
+New Mexico,NM,35,039,3500006,Rio Arriba
+New Mexico,NM,35,041,3500007,Roosevelt
+New Mexico,NM,35,043,10740,Sandoval
+New Mexico,NM,35,045,22140,San Juan
+New Mexico,NM,35,047,3500006,San Miguel
+New Mexico,NM,35,049,42140,Santa Fe
+New Mexico,NM,35,051,3500007,Sierra
+New Mexico,NM,35,053,3500007,Socorro
+New Mexico,NM,35,055,3500006,Taos
+New Mexico,NM,35,057,10740,Torrance
+New Mexico,NM,35,059,3500007,Union
+New Mexico,NM,35,061,10740,Valencia
+New York,NY,36,001,10580,Albany
+New York,NY,36,003,3600004,Allegany
+New York,NY,36,005,35620,Bronx
+New York,NY,36,007,13780,Broome
+New York,NY,36,009,3600004,Cattaraugus
+New York,NY,36,011,3600006,Cayuga
+New York,NY,36,013,3600004,Chautauqua
+New York,NY,36,015,21300,Chemung
+New York,NY,36,017,3600006,Chenango
+New York,NY,36,019,3600001,Clinton
+New York,NY,36,021,3600006,Columbia
+New York,NY,36,023,3600006,Cortland
+New York,NY,36,025,3600006,Delaware
+New York,NY,36,027,28880,Dutchess
+New York,NY,36,029,15380,Erie
+New York,NY,36,031,3600001,Essex
+New York,NY,36,033,3600001,Franklin
+New York,NY,36,035,3600001,Fulton
+New York,NY,36,037,3600004,Genesee
+New York,NY,36,039,3600006,Greene
+New York,NY,36,041,3600001,Hamilton
+New York,NY,36,043,46540,Herkimer
+New York,NY,36,045,48060,Jefferson
+New York,NY,36,047,35620,Kings
+New York,NY,36,049,3600001,Lewis
+New York,NY,36,051,40380,Livingston
+New York,NY,36,053,45060,Madison
+New York,NY,36,055,40380,Monroe
+New York,NY,36,057,3600001,Montgomery
+New York,NY,36,059,35620,Nassau
+New York,NY,36,061,35620,New York
+New York,NY,36,063,15380,Niagara
+New York,NY,36,065,46540,Oneida
+New York,NY,36,067,45060,Onondaga
+New York,NY,36,069,40380,Ontario
+New York,NY,36,071,28880,Orange
+New York,NY,36,073,40380,Orleans
+New York,NY,36,075,45060,Oswego
+New York,NY,36,077,3600006,Otsego
+New York,NY,36,079,35620,Putnam
+New York,NY,36,081,35620,Queens
+New York,NY,36,083,10580,Rensselaer
+New York,NY,36,085,35620,Richmond
+New York,NY,36,087,35620,Rockland
+New York,NY,36,091,3600001,Saratoga
+New York,NY,36,093,10580,Schenectady
+New York,NY,36,095,10580,Schoharie
+New York,NY,36,097,10580,Schuyler
+New York,NY,36,099,3600004,Seneca
+New York,NY,36,101,3600004,Steuben
+New York,NY,36,089,3600004,Saint Lawrence
+New York,NY,36,103,35620,Suffolk
+New York,NY,36,105,3600006,Sullivan
+New York,NY,36,107,13780,Tioga
+New York,NY,36,109,27060,Tompkins
+New York,NY,36,111,28740,Ulster
+New York,NY,36,113,24020,Warren
+New York,NY,36,115,24020,Washington
+New York,NY,36,117,40380,Wayne
+New York,NY,36,119,35620,Westchester
+New York,NY,36,121,3600004,Wyoming
+New York,NY,36,123,3600004,Yates
+North Carolina,NC,37,001,15500,Alamance
+North Carolina,NC,37,003,25860,Alexander
+North Carolina,NC,37,005,3700003,Alleghany
+North Carolina,NC,37,007,16740,Anson
+North Carolina,NC,37,009,3700003,Ashe
+North Carolina,NC,37,011,3700003,Avery
+North Carolina,NC,37,013,3700001,Beaufort
+North Carolina,NC,37,015,3700001,Bertie
+North Carolina,NC,37,017,3700002,Bladen
+North Carolina,NC,37,019,48900,Brunswick
+North Carolina,NC,37,021,11700,Buncombe
+North Carolina,NC,37,023,25860,Burke
+North Carolina,NC,37,025,16740,Cabarrus
+North Carolina,NC,37,027,25860,Caldwell
+North Carolina,NC,37,029,47260,Camden
+North Carolina,NC,37,031,3700001,Carteret
+North Carolina,NC,37,033,3700002,Caswell
+North Carolina,NC,37,035,25860,Catawba
+North Carolina,NC,37,037,20500,Chatham
+North Carolina,NC,37,039,3700003,Cherokee
+North Carolina,NC,37,041,3700001,Chowan
+North Carolina,NC,37,043,3700003,Clay
+North Carolina,NC,37,045,3700003,Cleveland
+North Carolina,NC,37,047,3700002,Columbus
+North Carolina,NC,37,049,3700001,Craven
+North Carolina,NC,37,051,22180,Cumberland
+North Carolina,NC,37,053,47260,Currituck
+North Carolina,NC,37,055,3700001,Dare
+North Carolina,NC,37,057,49180,Davidson
+North Carolina,NC,37,059,49180,Davie
+North Carolina,NC,37,061,3700001,Duplin
+North Carolina,NC,37,063,20500,Durham
+North Carolina,NC,37,065,40580,Edgecombe
+North Carolina,NC,37,067,49180,Forsyth
+North Carolina,NC,37,069,39580,Franklin
+North Carolina,NC,37,071,16740,Gaston
+North Carolina,NC,37,073,47260,Gates
+North Carolina,NC,37,075,3700003,Graham
+North Carolina,NC,37,077,3700002,Granville
+North Carolina,NC,37,079,3700001,Greene
+North Carolina,NC,37,081,24660,Guilford
+North Carolina,NC,37,083,3700001,Halifax
+North Carolina,NC,37,085,3700002,Harnett
+North Carolina,NC,37,087,3700003,Haywood
+North Carolina,NC,37,089,11700,Henderson
+North Carolina,NC,37,091,3700001,Hertford
+North Carolina,NC,37,093,22180,Hoke
+North Carolina,NC,37,095,3700001,Hyde
+North Carolina,NC,37,097,16740,Iredell
+North Carolina,NC,37,099,3700003,Jackson
+North Carolina,NC,37,101,39580,Johnston
+North Carolina,NC,37,103,3700001,Jones
+North Carolina,NC,37,105,3700002,Lee
+North Carolina,NC,37,107,3700001,Lenoir
+North Carolina,NC,37,109,16740,Lincoln
+North Carolina,NC,37,113,3700003,Macon
+North Carolina,NC,37,115,3700003,Madison
+North Carolina,NC,37,117,11700,Martin
+North Carolina,NC,37,111,3700001,McDowell
+North Carolina,NC,37,119,16740,Mecklenburg
+North Carolina,NC,37,121,3700003,Mitchell
+North Carolina,NC,37,123,3700002,Montgomery
+North Carolina,NC,37,125,38240,Moore
+North Carolina,NC,37,127,40580,Nash
+North Carolina,NC,37,129,48900,New Hanover
+North Carolina,NC,37,131,3700001,Northampton
+North Carolina,NC,37,133,27340,Onslow
+North Carolina,NC,37,135,20500,Orange
+North Carolina,NC,37,137,3700001,Pamlico
+North Carolina,NC,37,139,3700001,Pasquotank
+North Carolina,NC,37,141,48900,Pender
+North Carolina,NC,37,143,3700001,Perquimans
+North Carolina,NC,37,145,20500,Person
+North Carolina,NC,37,147,24780,Pitt
+North Carolina,NC,37,149,3700003,Polk
+North Carolina,NC,37,151,24660,Randolph
+North Carolina,NC,37,153,3700002,Richmond
+North Carolina,NC,37,155,3700002,Robeson
+North Carolina,NC,37,157,24660,Rockingham
+North Carolina,NC,37,159,16740,Rowan
+North Carolina,NC,37,161,3700003,Rutherford
+North Carolina,NC,37,163,3700002,Sampson
+North Carolina,NC,37,165,3700002,Scotland
+North Carolina,NC,37,167,3700002,Stanly
+North Carolina,NC,37,169,49180,Stokes
+North Carolina,NC,37,171,3700003,Surry
+North Carolina,NC,37,173,3700003,Swain
+North Carolina,NC,37,175,3700003,Transylvania
+North Carolina,NC,37,177,3700001,Tyrrell
+North Carolina,NC,37,179,16740,Union
+North Carolina,NC,37,181,3700002,Vance
+North Carolina,NC,37,183,39580,Wake
+North Carolina,NC,37,185,3700002,Warren
+North Carolina,NC,37,187,3700001,Washington
+North Carolina,NC,37,189,3700003,Watauga
+North Carolina,NC,37,191,24140,Wayne
+North Carolina,NC,37,193,3700003,Wilkes
+North Carolina,NC,37,195,3700001,Wilson
+North Carolina,NC,37,197,49180,Yadkin
+North Carolina,NC,37,199,3700003,Yancey
+North Dakota,ND,38,001,3800006,Adams
+North Dakota,ND,38,003,3800007,Barnes
+North Dakota,ND,38,005,3800007,Benson
+North Dakota,ND,38,007,3800006,Billings
+North Dakota,ND,38,009,3800006,Bottineau
+North Dakota,ND,38,011,3800006,Bowman
+North Dakota,ND,38,013,3800006,Burke
+North Dakota,ND,38,015,13900,Burleigh
+North Dakota,ND,38,017,22020,Cass
+North Dakota,ND,38,019,3800007,Cavalier
+North Dakota,ND,38,021,3800007,Dickey
+North Dakota,ND,38,023,3800006,Divide
+North Dakota,ND,38,025,3800006,Dunn
+North Dakota,ND,38,027,3800007,Eddy
+North Dakota,ND,38,029,3800006,Emmons
+North Dakota,ND,38,031,3800007,Foster
+North Dakota,ND,38,033,3800006,Golden Valley
+North Dakota,ND,38,035,24220,Grand Forks
+North Dakota,ND,38,037,3800006,Grant
+North Dakota,ND,38,039,3800007,Griggs
+North Dakota,ND,38,041,3800006,Hettinger
+North Dakota,ND,38,043,3800006,Kidder
+North Dakota,ND,38,045,3800007,LaMoure
+North Dakota,ND,38,047,3800007,Logan
+North Dakota,ND,38,049,33500,McHenry
+North Dakota,ND,38,051,3800007,McIntosh
+North Dakota,ND,38,053,3800006,McKenzie
+North Dakota,ND,38,055,3800006,McLean
+North Dakota,ND,38,057,3800006,Mercer
+North Dakota,ND,38,059,13900,Morton
+North Dakota,ND,38,061,3800006,Mountrail
+North Dakota,ND,38,063,3800007,Nelson
+North Dakota,ND,38,065,13900,Oliver
+North Dakota,ND,38,067,3800007,Pembina
+North Dakota,ND,38,069,3800006,Pierce
+North Dakota,ND,38,071,3800007,Ramsey
+North Dakota,ND,38,073,3800007,Ransom
+North Dakota,ND,38,075,33500,Renville
+North Dakota,ND,38,077,3800007,Richland
+North Dakota,ND,38,079,3800007,Rolette
+North Dakota,ND,38,081,3800007,Sargent
+North Dakota,ND,38,083,3800006,Sheridan
+North Dakota,ND,38,085,3800006,Sioux
+North Dakota,ND,38,087,3800006,Slope
+North Dakota,ND,38,089,3800006,Stark
+North Dakota,ND,38,091,3800007,Steele
+North Dakota,ND,38,093,3800007,Stutsman
+North Dakota,ND,38,095,3800007,Towner
+North Dakota,ND,38,097,3800007,Traill
+North Dakota,ND,38,099,3800007,Walsh
+North Dakota,ND,38,101,33500,Ward
+North Dakota,ND,38,103,3800007,Wells
+North Dakota,ND,38,105,3800006,Williams
+Ohio,OH,39,001,3900004,Adams
+Ohio,OH,39,003,30620,Allen
+Ohio,OH,39,005,3900002,Ashland
+Ohio,OH,39,007,17410,Ashtabula
+Ohio,OH,39,009,3900004,Athens
+Ohio,OH,39,011,3900001,Auglaize
+Ohio,OH,39,013,48540,Belmont
+Ohio,OH,39,015,17140,Brown
+Ohio,OH,39,017,17140,Butler
+Ohio,OH,39,019,15940,Carroll
+Ohio,OH,39,021,3900001,Champaign
+Ohio,OH,39,023,44220,Clark
+Ohio,OH,39,025,17140,Clermont
+Ohio,OH,39,027,3900004,Clinton
+Ohio,OH,39,029,3900002,Columbiana
+Ohio,OH,39,031,3900003,Coshocton
+Ohio,OH,39,033,3900002,Crawford
+Ohio,OH,39,035,17410,Cuyahoga
+Ohio,OH,39,037,3900001,Darke
+Ohio,OH,39,039,3900001,Defiance
+Ohio,OH,39,041,18140,Delaware
+Ohio,OH,39,043,41780,Erie
+Ohio,OH,39,045,18140,Fairfield
+Ohio,OH,39,047,3900004,Fayette
+Ohio,OH,39,049,18140,Franklin
+Ohio,OH,39,051,45780,Fulton
+Ohio,OH,39,053,3900004,Gallia
+Ohio,OH,39,055,17410,Geauga
+Ohio,OH,39,057,19430,Greene
+Ohio,OH,39,059,3900003,Guernsey
+Ohio,OH,39,061,17140,Hamilton
+Ohio,OH,39,063,3900001,Hancock
+Ohio,OH,39,065,3900001,Hardin
+Ohio,OH,39,067,3900003,Harrison
+Ohio,OH,39,069,3900001,Henry
+Ohio,OH,39,071,3900004,Highland
+Ohio,OH,39,073,18140,Hocking
+Ohio,OH,39,075,3900002,Holmes
+Ohio,OH,39,077,3900002,Huron
+Ohio,OH,39,079,3900004,Jackson
+Ohio,OH,39,081,48260,Jefferson
+Ohio,OH,39,083,3900002,Knox
+Ohio,OH,39,085,17410,Lake
+Ohio,OH,39,087,26580,Lawrence
+Ohio,OH,39,089,18140,Licking
+Ohio,OH,39,091,3900001,Logan
+Ohio,OH,39,093,17410,Lorain
+Ohio,OH,39,095,45780,Lucas
+Ohio,OH,39,097,18140,Madison
+Ohio,OH,39,099,49660,Mahoning
+Ohio,OH,39,101,3900002,Marion
+Ohio,OH,39,103,17410,Medina
+Ohio,OH,39,105,3900004,Meigs
+Ohio,OH,39,107,3900001,Mercer
+Ohio,OH,39,109,19430,Miami
+Ohio,OH,39,111,3900003,Monroe
+Ohio,OH,39,113,19430,Montgomery
+Ohio,OH,39,115,3900003,Morgan
+Ohio,OH,39,117,18140,Morrow
+Ohio,OH,39,119,3900003,Muskingum
+Ohio,OH,39,121,3900003,Noble
+Ohio,OH,39,123,41780,Ottawa
+Ohio,OH,39,125,3900001,Paulding
+Ohio,OH,39,127,18140,Perry
+Ohio,OH,39,129,18140,Pickaway
+Ohio,OH,39,131,3900004,Pike
+Ohio,OH,39,133,10420,Portage
+Ohio,OH,39,135,3900001,Preble
+Ohio,OH,39,137,3900001,Putnam
+Ohio,OH,39,139,31900,Richland
+Ohio,OH,39,141,3900004,Ross
+Ohio,OH,39,143,3900002,Sandusky
+Ohio,OH,39,145,3900004,Scioto
+Ohio,OH,39,147,3900002,Seneca
+Ohio,OH,39,149,3900001,Shelby
+Ohio,OH,39,151,15940,Stark
+Ohio,OH,39,153,10420,Summit
+Ohio,OH,39,155,49660,Trumbull
+Ohio,OH,39,157,3900003,Tuscarawas
+Ohio,OH,39,159,18140,Union
+Ohio,OH,39,161,3900001,Van Wert
+Ohio,OH,39,163,3900004,Vinton
+Ohio,OH,39,165,17140,Warren
+Ohio,OH,39,167,3900003,Washington
+Ohio,OH,39,169,3900002,Wayne
+Ohio,OH,39,171,3900001,Williams
+Ohio,OH,39,173,45780,Wood
+Ohio,OH,39,175,3900002,Wyandot
+Oklahoma,OK,40,001,4000001,Adair
+Oklahoma,OK,40,003,4000002,Alfalfa
+Oklahoma,OK,40,005,4000004,Atoka
+Oklahoma,OK,40,007,4000002,Beaver
+Oklahoma,OK,40,009,4000003,Beckham
+Oklahoma,OK,40,011,4000002,Blaine
+Oklahoma,OK,40,013,4000004,Bryan
+Oklahoma,OK,40,015,4000003,Caddo
+Oklahoma,OK,40,017,36420,Canadian
+Oklahoma,OK,40,019,4000004,Carter
+Oklahoma,OK,40,021,4000001,Cherokee
+Oklahoma,OK,40,023,4000004,Choctaw
+Oklahoma,OK,40,025,4000002,Cimarron
+Oklahoma,OK,40,027,36420,Cleveland
+Oklahoma,OK,40,029,4000004,Coal
+Oklahoma,OK,40,031,30020,Comanche
+Oklahoma,OK,40,033,30020,Cotton
+Oklahoma,OK,40,035,4000001,Craig
+Oklahoma,OK,40,037,46140,Creek
+Oklahoma,OK,40,039,4000003,Custer
+Oklahoma,OK,40,041,4000001,Delaware
+Oklahoma,OK,40,043,4000002,Dewey
+Oklahoma,OK,40,045,4000002,Ellis
+Oklahoma,OK,40,047,21420,Garfield
+Oklahoma,OK,40,049,4000004,Garvin
+Oklahoma,OK,40,051,36420,Grady
+Oklahoma,OK,40,053,4000002,Grant
+Oklahoma,OK,40,055,4000003,Greer
+Oklahoma,OK,40,057,4000003,Harmon
+Oklahoma,OK,40,059,4000002,Harper
+Oklahoma,OK,40,061,4000004,Haskell
+Oklahoma,OK,40,063,4000004,Hughes
+Oklahoma,OK,40,065,4000003,Jackson
+Oklahoma,OK,40,067,4000003,Jefferson
+Oklahoma,OK,40,069,4000004,Johnston
+Oklahoma,OK,40,071,4000002,Kay
+Oklahoma,OK,40,073,4000002,Kingfisher
+Oklahoma,OK,40,075,4000003,Kiowa
+Oklahoma,OK,40,077,4000004,Latimer
+Oklahoma,OK,40,079,4000004,Le Flore
+Oklahoma,OK,40,081,36420,Lincoln
+Oklahoma,OK,40,083,36420,Logan
+Oklahoma,OK,40,085,4000004,Love
+Oklahoma,OK,40,093,36420,Major
+Oklahoma,OK,40,095,4000004,Marshall
+Oklahoma,OK,40,097,4000001,Mayes
+Oklahoma,OK,40,087,4000002,McClain
+Oklahoma,OK,40,089,4000004,McCurtain
+Oklahoma,OK,40,091,4000001,McIntosh
+Oklahoma,OK,40,099,4000004,Murray
+Oklahoma,OK,40,101,4000001,Muskogee
+Oklahoma,OK,40,103,4000002,Noble
+Oklahoma,OK,40,105,4000001,Nowata
+Oklahoma,OK,40,107,4000001,Okfuskee
+Oklahoma,OK,40,109,36420,Oklahoma
+Oklahoma,OK,40,111,46140,Okmulgee
+Oklahoma,OK,40,113,46140,Osage
+Oklahoma,OK,40,115,4000001,Ottawa
+Oklahoma,OK,40,117,46140,Pawnee
+Oklahoma,OK,40,119,4000002,Payne
+Oklahoma,OK,40,121,4000004,Pittsburg
+Oklahoma,OK,40,123,4000004,Pontotoc
+Oklahoma,OK,40,125,4000004,Pottawatomie
+Oklahoma,OK,40,127,4000004,Pushmataha
+Oklahoma,OK,40,129,4000003,Roger Mills
+Oklahoma,OK,40,131,46140,Rogers
+Oklahoma,OK,40,133,4000004,Seminole
+Oklahoma,OK,40,135,22900,Sequoyah
+Oklahoma,OK,40,137,4000003,Stephens
+Oklahoma,OK,40,139,4000002,Texas
+Oklahoma,OK,40,141,4000003,Tillman
+Oklahoma,OK,40,143,46140,Tulsa
+Oklahoma,OK,40,145,46140,Wagoner
+Oklahoma,OK,40,147,4000001,Washington
+Oklahoma,OK,40,149,4000003,Washita
+Oklahoma,OK,40,151,4000002,Woods
+Oklahoma,OK,40,153,4000002,Woodward
+Oregon,OR,41,001,4100008,Baker
+Oregon,OR,41,003,18700,Benton
+Oregon,OR,41,005,38900,Clackamas
+Oregon,OR,41,007,4100006,Clatsop
+Oregon,OR,41,009,38900,Columbia
+Oregon,OR,41,011,4100006,Coos
+Oregon,OR,41,013,13460,Crook
+Oregon,OR,41,015,4100006,Curry
+Oregon,OR,41,017,13460,Deschutes
+Oregon,OR,41,019,4100006,Douglas
+Oregon,OR,41,021,4100007,Gilliam
+Oregon,OR,41,023,4100008,Grant
+Oregon,OR,41,025,4100008,Harney
+Oregon,OR,41,027,4100007,Hood River
+Oregon,OR,41,029,32780,Jackson
+Oregon,OR,41,031,13460,Jefferson
+Oregon,OR,41,033,24420,Josephine
+Oregon,OR,41,035,4100007,Klamath
+Oregon,OR,41,037,4100007,Lake
+Oregon,OR,41,039,21660,Lane
+Oregon,OR,41,041,4100006,Lincoln
+Oregon,OR,41,043,10540,Linn
+Oregon,OR,41,045,4100008,Malheur
+Oregon,OR,41,047,41420,Marion
+Oregon,OR,41,049,4100008,Morrow
+Oregon,OR,41,051,38900,Multnomah
+Oregon,OR,41,053,41420,Polk
+Oregon,OR,41,055,4100007,Sherman
+Oregon,OR,41,057,4100006,Tillamook
+Oregon,OR,41,059,4100008,Umatilla
+Oregon,OR,41,061,4100008,Union
+Oregon,OR,41,063,4100008,Wallowa
+Oregon,OR,41,065,4100007,Wasco
+Oregon,OR,41,067,38900,Washington
+Oregon,OR,41,069,4100007,Wheeler
+Oregon,OR,41,071,38900,Yamhill
+Pennsylvania,PA,42,001,23900,Adams
+Pennsylvania,PA,42,003,38300,Allegheny
+Pennsylvania,PA,42,005,38300,Armstrong
+Pennsylvania,PA,42,007,38300,Beaver
+Pennsylvania,PA,42,009,4200004,Bedford
+Pennsylvania,PA,42,011,39740,Berks
+Pennsylvania,PA,42,013,11020,Blair
+Pennsylvania,PA,42,015,4200002,Bradford
+Pennsylvania,PA,42,017,37980,Bucks
+Pennsylvania,PA,42,019,38300,Butler
+Pennsylvania,PA,42,021,27780,Cambria
+Pennsylvania,PA,42,023,4200001,Cameron
+Pennsylvania,PA,42,025,10900,Carbon
+Pennsylvania,PA,42,027,44300,Centre
+Pennsylvania,PA,42,029,37980,Chester
+Pennsylvania,PA,42,031,4200001,Clarion
+Pennsylvania,PA,42,033,4200001,Clearfield
+Pennsylvania,PA,42,035,4200003,Clinton
+Pennsylvania,PA,42,037,4200003,Columbia
+Pennsylvania,PA,42,039,4200001,Crawford
+Pennsylvania,PA,42,041,25420,Cumberland
+Pennsylvania,PA,42,043,25420,Dauphin
+Pennsylvania,PA,42,045,37980,Delaware
+Pennsylvania,PA,42,047,4200001,Elk
+Pennsylvania,PA,42,049,21500,Erie
+Pennsylvania,PA,42,051,38300,Fayette
+Pennsylvania,PA,42,053,4200001,Forest
+Pennsylvania,PA,42,055,16540,Franklin
+Pennsylvania,PA,42,057,4200004,Fulton
+Pennsylvania,PA,42,059,4200004,Greene
+Pennsylvania,PA,42,061,4200004,Huntingdon
+Pennsylvania,PA,42,063,4200004,Indiana
+Pennsylvania,PA,42,065,4200001,Jefferson
+Pennsylvania,PA,42,067,4200003,Juniata
+Pennsylvania,PA,42,069,42540,Lackawanna
+Pennsylvania,PA,42,071,29540,Lancaster
+Pennsylvania,PA,42,073,38300,Lawrence
+Pennsylvania,PA,42,075,30140,Lebanon
+Pennsylvania,PA,42,077,10900,Lehigh
+Pennsylvania,PA,42,079,42540,Luzerne
+Pennsylvania,PA,42,081,48700,Lycoming
+Pennsylvania,PA,42,083,4200001,McKean
+Pennsylvania,PA,42,085,4200004,Mercer
+Pennsylvania,PA,42,087,4200003,Mifflin
+Pennsylvania,PA,42,089,4200002,Monroe
+Pennsylvania,PA,42,091,37980,Montgomery
+Pennsylvania,PA,42,093,4200003,Montour
+Pennsylvania,PA,42,095,10900,Northampton
+Pennsylvania,PA,42,097,4200003,Northumberland
+Pennsylvania,PA,42,099,25420,Perry
+Pennsylvania,PA,42,101,37980,Philadelphia
+Pennsylvania,PA,42,103,4200002,Pike
+Pennsylvania,PA,42,105,4200001,Potter
+Pennsylvania,PA,42,107,4200003,Schuylkill
+Pennsylvania,PA,42,109,4200003,Snyder
+Pennsylvania,PA,42,111,4200004,Somerset
+Pennsylvania,PA,42,113,4200002,Sullivan
+Pennsylvania,PA,42,115,4200002,Susquehanna
+Pennsylvania,PA,42,117,4200002,Tioga
+Pennsylvania,PA,42,119,4200003,Union
+Pennsylvania,PA,42,121,4200001,Venango
+Pennsylvania,PA,42,123,4200001,Warren
+Pennsylvania,PA,42,125,38300,Washington
+Pennsylvania,PA,42,127,4200002,Wayne
+Pennsylvania,PA,42,129,38300,Westmoreland
+Pennsylvania,PA,42,131,42540,Wyoming
+Pennsylvania,PA,42,133,49620,York
+Rhode Island,RI,44,001,39300,Bristol
+Rhode Island,RI,44,003,39300,Kent
+Rhode Island,RI,44,005,39300,Newport
+Rhode Island,RI,44,007,39300,Providence
+Rhode Island,RI,44,009,39300,Washington
+South Carolina,SC,45,001,4500003,Abbeville
+South Carolina,SC,45,003,12260,Aiken
+South Carolina,SC,45,005,4500005,Allendale
+South Carolina,SC,45,007,24860,Anderson
+South Carolina,SC,45,009,4500005,Bamberg
+South Carolina,SC,45,011,4500005,Barnwell
+South Carolina,SC,45,013,25940,Beaufort
+South Carolina,SC,45,015,16700,Berkeley
+South Carolina,SC,45,017,17900,Calhoun
+South Carolina,SC,45,019,16700,Charleston
+South Carolina,SC,45,021,4500003,Cherokee
+South Carolina,SC,45,023,16740,Chester
+South Carolina,SC,45,025,4500007,Chesterfield
+South Carolina,SC,45,027,4500007,Clarendon
+South Carolina,SC,45,029,4500005,Colleton
+South Carolina,SC,45,031,22500,Darlington
+South Carolina,SC,45,033,4500007,Dillon
+South Carolina,SC,45,035,16700,Dorchester
+South Carolina,SC,45,037,12260,Edgefield
+South Carolina,SC,45,039,17900,Fairfield
+South Carolina,SC,45,041,22500,Florence
+South Carolina,SC,45,043,4500007,Georgetown
+South Carolina,SC,45,045,24860,Greenville
+South Carolina,SC,45,047,4500003,Greenwood
+South Carolina,SC,45,049,4500005,Hampton
+South Carolina,SC,45,051,34820,Horry
+South Carolina,SC,45,053,25940,Jasper
+South Carolina,SC,45,055,17900,Kershaw
+South Carolina,SC,45,057,16740,Lancaster
+South Carolina,SC,45,059,24860,Laurens
+South Carolina,SC,45,061,4500007,Lee
+South Carolina,SC,45,063,17900,Lexington
+South Carolina,SC,45,067,4500003,Marion
+South Carolina,SC,45,069,4500007,Marlboro
+South Carolina,SC,45,065,4500007,McCormick
+South Carolina,SC,45,071,4500003,Newberry
+South Carolina,SC,45,073,4500003,Oconee
+South Carolina,SC,45,075,4500005,Orangeburg
+South Carolina,SC,45,077,24860,Pickens
+South Carolina,SC,45,079,17900,Richland
+South Carolina,SC,45,081,17900,Saluda
+South Carolina,SC,45,083,43900,Spartanburg
+South Carolina,SC,45,085,44940,Sumter
+South Carolina,SC,45,087,43900,Union
+South Carolina,SC,45,089,4500007,Williamsburg
+South Carolina,SC,45,091,16740,York
+South Dakota,SD,46,003,4600002,Aurora
+South Dakota,SD,46,005,4600002,Beadle
+South Dakota,SD,46,007,4600003,Bennett
+South Dakota,SD,46,009,4600002,Bon Homme
+South Dakota,SD,46,011,4600002,Brookings
+South Dakota,SD,46,013,4600002,Brown
+South Dakota,SD,46,015,4600003,Brule
+South Dakota,SD,46,017,4600003,Buffalo
+South Dakota,SD,46,019,4600003,Butte
+South Dakota,SD,46,021,4600003,Campbell
+South Dakota,SD,46,023,4600003,Charles Mix
+South Dakota,SD,46,025,4600002,Clark
+South Dakota,SD,46,027,4600002,Clay
+South Dakota,SD,46,029,4600002,Codington
+South Dakota,SD,46,031,4600003,Corson
+South Dakota,SD,46,033,39660,Custer
+South Dakota,SD,46,035,4600002,Davison
+South Dakota,SD,46,037,4600002,Day
+South Dakota,SD,46,039,4600002,Deuel
+South Dakota,SD,46,041,4600003,Dewey
+South Dakota,SD,46,043,4600003,Douglas
+South Dakota,SD,46,045,4600002,Edmunds
+South Dakota,SD,46,047,4600003,Fall River
+South Dakota,SD,46,049,4600002,Faulk
+South Dakota,SD,46,051,4600002,Grant
+South Dakota,SD,46,053,4600003,Gregory
+South Dakota,SD,46,055,4600003,Haakon
+South Dakota,SD,46,057,4600002,Hamlin
+South Dakota,SD,46,059,4600003,Hand
+South Dakota,SD,46,061,4600002,Hanson
+South Dakota,SD,46,063,4600003,Harding
+South Dakota,SD,46,065,4600003,Hughes
+South Dakota,SD,46,067,4600002,Hutchinson
+South Dakota,SD,46,069,4600003,Hyde
+South Dakota,SD,46,071,4600003,Jackson
+South Dakota,SD,46,073,4600002,Jerauld
+South Dakota,SD,46,075,4600003,Jones
+South Dakota,SD,46,077,4600002,Kingsbury
+South Dakota,SD,46,079,4600002,Lake
+South Dakota,SD,46,081,4600003,Lawrence
+South Dakota,SD,46,083,43620,Lincoln
+South Dakota,SD,46,085,4600003,Lyman
+South Dakota,SD,46,091,43620,Marshall
+South Dakota,SD,46,087,4600002,McCook
+South Dakota,SD,46,089,4600002,McPherson
+South Dakota,SD,46,093,39660,Meade
+South Dakota,SD,46,095,4600003,Mellette
+South Dakota,SD,46,097,4600002,Miner
+South Dakota,SD,46,099,43620,Minnehaha
+South Dakota,SD,46,101,4600002,Moody
+South Dakota,SD,46,102,4600003,Oglala Lakota
+South Dakota,SD,46,103,39660,Pennington
+South Dakota,SD,46,105,4600003,Perkins
+South Dakota,SD,46,107,4600003,Potter
+South Dakota,SD,46,109,4600002,Roberts
+South Dakota,SD,46,111,4600002,Sanborn
+South Dakota,SD,46,115,4600002,Spink
+South Dakota,SD,46,117,4600003,Stanley
+South Dakota,SD,46,119,4600003,Sully
+South Dakota,SD,46,121,4600003,Todd
+South Dakota,SD,46,123,4600003,Tripp
+South Dakota,SD,46,125,43620,Turner
+South Dakota,SD,46,127,43580,Union
+South Dakota,SD,46,129,4600003,Walworth
+South Dakota,SD,46,135,4600002,Yankton
+South Dakota,SD,46,137,4600003,Ziebach
+Tennessee,TN,47,001,28940,Anderson
+Tennessee,TN,47,003,4700002,Bedford
+Tennessee,TN,47,005,4700001,Benton
+Tennessee,TN,47,007,4700004,Bledsoe
+Tennessee,TN,47,009,28940,Blount
+Tennessee,TN,47,011,17420,Bradley
+Tennessee,TN,47,013,28940,Campbell
+Tennessee,TN,47,015,34980,Cannon
+Tennessee,TN,47,017,4700001,Carroll
+Tennessee,TN,47,019,27740,Carter
+Tennessee,TN,47,021,34980,Cheatham
+Tennessee,TN,47,023,27180,Chester
+Tennessee,TN,47,025,4700003,Claiborne
+Tennessee,TN,47,027,4700003,Clay
+Tennessee,TN,47,029,4700004,Cocke
+Tennessee,TN,47,031,4700002,Coffee
+Tennessee,TN,47,033,27180,Crockett
+Tennessee,TN,47,035,4700003,Cumberland
+Tennessee,TN,47,037,34980,Davidson
+Tennessee,TN,47,039,4700001,Decatur
+Tennessee,TN,47,041,4700003,DeKalb
+Tennessee,TN,47,043,34980,Dickson
+Tennessee,TN,47,045,4700001,Dyer
+Tennessee,TN,47,047,32820,Fayette
+Tennessee,TN,47,049,4700003,Fentress
+Tennessee,TN,47,051,4700002,Franklin
+Tennessee,TN,47,053,27180,Gibson
+Tennessee,TN,47,055,4700002,Giles
+Tennessee,TN,47,057,28940,Grainger
+Tennessee,TN,47,059,4700004,Greene
+Tennessee,TN,47,061,4700002,Grundy
+Tennessee,TN,47,063,34100,Hamblen
+Tennessee,TN,47,065,16860,Hamilton
+Tennessee,TN,47,067,4700003,Hancock
+Tennessee,TN,47,069,4700001,Hardeman
+Tennessee,TN,47,071,4700001,Hardin
+Tennessee,TN,47,073,28700,Hawkins
+Tennessee,TN,47,075,4700001,Haywood
+Tennessee,TN,47,077,4700001,Henderson
+Tennessee,TN,47,079,4700001,Henry
+Tennessee,TN,47,081,34980,Hickman
+Tennessee,TN,47,083,4700001,Houston
+Tennessee,TN,47,085,4700001,Humphreys
+Tennessee,TN,47,087,4700003,Jackson
+Tennessee,TN,47,089,34100,Jefferson
+Tennessee,TN,47,091,4700004,Johnson
+Tennessee,TN,47,093,28940,Knox
+Tennessee,TN,47,095,4700001,Lake
+Tennessee,TN,47,097,4700001,Lauderdale
+Tennessee,TN,47,099,4700002,Lawrence
+Tennessee,TN,47,101,4700002,Lewis
+Tennessee,TN,47,103,4700002,Lincoln
+Tennessee,TN,47,105,28940,Loudon
+Tennessee,TN,47,111,4700004,Macon
+Tennessee,TN,47,113,4700001,Madison
+Tennessee,TN,47,115,34980,Marion
+Tennessee,TN,47,117,27180,Marshall
+Tennessee,TN,47,119,16860,Maury
+Tennessee,TN,47,107,4700002,McMinn
+Tennessee,TN,47,109,34980,McNairy
+Tennessee,TN,47,121,4700004,Meigs
+Tennessee,TN,47,123,4700004,Monroe
+Tennessee,TN,47,125,17300,Montgomery
+Tennessee,TN,47,127,4700002,Moore
+Tennessee,TN,47,129,28940,Morgan
+Tennessee,TN,47,131,4700001,Obion
+Tennessee,TN,47,133,4700003,Overton
+Tennessee,TN,47,135,4700002,Perry
+Tennessee,TN,47,137,4700003,Pickett
+Tennessee,TN,47,139,17420,Polk
+Tennessee,TN,47,141,4700003,Putnam
+Tennessee,TN,47,143,4700004,Rhea
+Tennessee,TN,47,145,28940,Roane
+Tennessee,TN,47,147,34980,Robertson
+Tennessee,TN,47,149,34980,Rutherford
+Tennessee,TN,47,151,4700003,Scott
+Tennessee,TN,47,153,16860,Sequatchie
+Tennessee,TN,47,155,4700004,Sevier
+Tennessee,TN,47,157,32820,Shelby
+Tennessee,TN,47,159,34980,Smith
+Tennessee,TN,47,161,17300,Stewart
+Tennessee,TN,47,163,28700,Sullivan
+Tennessee,TN,47,165,34980,Sumner
+Tennessee,TN,47,167,32820,Tipton
+Tennessee,TN,47,169,34980,Trousdale
+Tennessee,TN,47,171,27740,Unicoi
+Tennessee,TN,47,173,28940,Union
+Tennessee,TN,47,175,4700004,Van Buren
+Tennessee,TN,47,177,4700003,Warren
+Tennessee,TN,47,179,27740,Washington
+Tennessee,TN,47,181,4700002,Wayne
+Tennessee,TN,47,183,4700001,Weakley
+Tennessee,TN,47,185,4700003,White
+Tennessee,TN,47,187,34980,Williamson
+Tennessee,TN,47,189,34980,Wilson
+Texas,TX,48,001,4800002,Anderson
+Texas,TX,48,003,4800001,Andrews
+Texas,TX,48,005,4800003,Angelina
+Texas,TX,48,007,18580,Aransas
+Texas,TX,48,009,48660,Archer
+Texas,TX,48,011,11100,Armstrong
+Texas,TX,48,013,41700,Atascosa
+Texas,TX,48,015,26420,Austin
+Texas,TX,48,017,4800001,Bailey
+Texas,TX,48,019,41700,Bandera
+Texas,TX,48,021,12420,Bastrop
+Texas,TX,48,023,4800001,Baylor
+Texas,TX,48,025,4800006,Bee
+Texas,TX,48,027,28660,Bell
+Texas,TX,48,029,41700,Bexar
+Texas,TX,48,031,4800004,Blanco
+Texas,TX,48,033,4800001,Borden
+Texas,TX,48,035,47380,Bosque
+Texas,TX,48,037,45500,Bowie
+Texas,TX,48,039,26420,Brazoria
+Texas,TX,48,041,17780,Brazos
+Texas,TX,48,043,4800001,Brewster
+Texas,TX,48,045,4800001,Briscoe
+Texas,TX,48,047,4800006,Brooks
+Texas,TX,48,049,4800004,Brown
+Texas,TX,48,051,17780,Burleson
+Texas,TX,48,053,4800004,Burnet
+Texas,TX,48,055,12420,Caldwell
+Texas,TX,48,057,4800006,Calhoun
+Texas,TX,48,059,10180,Callahan
+Texas,TX,48,061,15180,Cameron
+Texas,TX,48,063,4800002,Camp
+Texas,TX,48,065,11100,Carson
+Texas,TX,48,067,4800002,Cass
+Texas,TX,48,069,4800001,Castro
+Texas,TX,48,071,26420,Chambers
+Texas,TX,48,073,4800002,Cherokee
+Texas,TX,48,075,4800001,Childress
+Texas,TX,48,077,48660,Clay
+Texas,TX,48,079,31180,Cochran
+Texas,TX,48,081,4800004,Coke
+Texas,TX,48,083,4800004,Coleman
+Texas,TX,48,085,19100,Collin
+Texas,TX,48,087,4800001,Collingsworth
+Texas,TX,48,089,4800006,Colorado
+Texas,TX,48,091,41700,Comal
+Texas,TX,48,093,4800002,Comanche
+Texas,TX,48,095,4800004,Concho
+Texas,TX,48,097,4800002,Cooke
+Texas,TX,48,099,28660,Coryell
+Texas,TX,48,101,4800001,Cottle
+Texas,TX,48,103,4800001,Crane
+Texas,TX,48,105,4800001,Crockett
+Texas,TX,48,107,31180,Crosby
+Texas,TX,48,109,4800001,Culberson
+Texas,TX,48,111,4800001,Dallam
+Texas,TX,48,113,19100,Dallas
+Texas,TX,48,115,4800001,Dawson
+Texas,TX,48,117,4800001,Deaf Smith
+Texas,TX,48,119,4800002,Delta
+Texas,TX,48,121,19100,Denton
+Texas,TX,48,123,4800006,DeWitt
+Texas,TX,48,125,4800001,Dickens
+Texas,TX,48,127,4800005,Dimmit
+Texas,TX,48,129,4800001,Donley
+Texas,TX,48,131,4800006,Duval
+Texas,TX,48,133,4800002,Eastland
+Texas,TX,48,135,36220,Ector
+Texas,TX,48,137,4800005,Edwards
+Texas,TX,48,139,19100,Ellis
+Texas,TX,48,141,21340,El Paso
+Texas,TX,48,143,4800002,Erath
+Texas,TX,48,145,47380,Falls
+Texas,TX,48,147,4800002,Fannin
+Texas,TX,48,149,4800004,Fayette
+Texas,TX,48,151,4800001,Fisher
+Texas,TX,48,153,4800001,Floyd
+Texas,TX,48,155,4800001,Foard
+Texas,TX,48,157,26420,Fort Bend
+Texas,TX,48,159,4800002,Franklin
+Texas,TX,48,161,4800004,Freestone
+Texas,TX,48,163,4800005,Frio
+Texas,TX,48,165,4800001,Gaines
+Texas,TX,48,167,26420,Galveston
+Texas,TX,48,169,31180,Garza
+Texas,TX,48,171,4800004,Gillespie
+Texas,TX,48,173,4800001,Glasscock
+Texas,TX,48,175,47020,Goliad
+Texas,TX,48,177,4800006,Gonzales
+Texas,TX,48,179,4800001,Gray
+Texas,TX,48,181,43300,Grayson
+Texas,TX,48,183,30980,Gregg
+Texas,TX,48,185,4800004,Grimes
+Texas,TX,48,187,41700,Guadalupe
+Texas,TX,48,189,4800001,Hale
+Texas,TX,48,191,4800001,Hall
+Texas,TX,48,193,4800004,Hamilton
+Texas,TX,48,195,4800001,Hansford
+Texas,TX,48,197,4800001,Hardeman
+Texas,TX,48,199,13140,Hardin
+Texas,TX,48,201,26420,Harris
+Texas,TX,48,203,30980,Harrison
+Texas,TX,48,205,4800001,Hartley
+Texas,TX,48,207,4800001,Haskell
+Texas,TX,48,209,12420,Hays
+Texas,TX,48,211,4800001,Hemphill
+Texas,TX,48,213,4800002,Henderson
+Texas,TX,48,215,32580,Hidalgo
+Texas,TX,48,217,4800004,Hill
+Texas,TX,48,219,31180,Hockley
+Texas,TX,48,221,4800002,Hood
+Texas,TX,48,223,4800002,Hopkins
+Texas,TX,48,225,4800003,Houston
+Texas,TX,48,227,4800001,Howard
+Texas,TX,48,229,21340,Hudspeth
+Texas,TX,48,231,19100,Hunt
+Texas,TX,48,233,4800001,Hutchinson
+Texas,TX,48,235,41660,Irion
+Texas,TX,48,237,4800002,Jack
+Texas,TX,48,239,4800006,Jackson
+Texas,TX,48,241,4800003,Jasper
+Texas,TX,48,243,4800001,Jeff Davis
+Texas,TX,48,245,13140,Jefferson
+Texas,TX,48,247,4800006,Jim Hogg
+Texas,TX,48,249,4800006,Jim Wells
+Texas,TX,48,251,19100,Johnson
+Texas,TX,48,253,10180,Jones
+Texas,TX,48,255,4800006,Karnes
+Texas,TX,48,257,19100,Kaufman
+Texas,TX,48,259,41700,Kendall
+Texas,TX,48,261,4800006,Kenedy
+Texas,TX,48,263,4800001,Kent
+Texas,TX,48,265,4800004,Kerr
+Texas,TX,48,267,4800004,Kimble
+Texas,TX,48,269,4800001,King
+Texas,TX,48,271,4800005,Kinney
+Texas,TX,48,273,4800006,Kleberg
+Texas,TX,48,275,4800001,Knox
+Texas,TX,48,277,4800002,Lamar
+Texas,TX,48,279,4800001,Lamb
+Texas,TX,48,281,28660,Lampasas
+Texas,TX,48,283,4800005,La Salle
+Texas,TX,48,285,4800006,Lavaca
+Texas,TX,48,287,4800004,Lee
+Texas,TX,48,289,4800004,Leon
+Texas,TX,48,291,26420,Liberty
+Texas,TX,48,293,4800004,Limestone
+Texas,TX,48,295,4800001,Lipscomb
+Texas,TX,48,297,4800006,Live Oak
+Texas,TX,48,299,4800004,Llano
+Texas,TX,48,301,4800001,Loving
+Texas,TX,48,303,31180,Lubbock
+Texas,TX,48,305,31180,Lynn
+Texas,TX,48,313,4800004,Madison
+Texas,TX,48,315,47380,Marion
+Texas,TX,48,317,4800006,Martin
+Texas,TX,48,319,4800004,Mason
+Texas,TX,48,321,4800002,Matagorda
+Texas,TX,48,323,33260,Maverick
+Texas,TX,48,307,4800004,McCulloch
+Texas,TX,48,309,4800006,McLennan
+Texas,TX,48,311,20580,McMullen
+Texas,TX,48,325,41700,Medina
+Texas,TX,48,327,4800004,Menard
+Texas,TX,48,329,33260,Midland
+Texas,TX,48,331,4800004,Milam
+Texas,TX,48,333,4800004,Mills
+Texas,TX,48,335,4800001,Mitchell
+Texas,TX,48,337,4800002,Montague
+Texas,TX,48,339,26420,Montgomery
+Texas,TX,48,341,4800001,Moore
+Texas,TX,48,343,4800002,Morris
+Texas,TX,48,345,4800001,Motley
+Texas,TX,48,347,4800003,Nacogdoches
+Texas,TX,48,349,4800002,Navarro
+Texas,TX,48,351,4800003,Newton
+Texas,TX,48,353,4800001,Nolan
+Texas,TX,48,355,18580,Nueces
+Texas,TX,48,357,4800001,Ochiltree
+Texas,TX,48,359,11100,Oldham
+Texas,TX,48,361,13140,Orange
+Texas,TX,48,363,4800002,Palo Pinto
+Texas,TX,48,365,4800003,Panola
+Texas,TX,48,367,19100,Parker
+Texas,TX,48,369,4800001,Parmer
+Texas,TX,48,371,4800001,Pecos
+Texas,TX,48,373,4800003,Polk
+Texas,TX,48,375,11100,Potter
+Texas,TX,48,377,4800001,Presidio
+Texas,TX,48,379,4800002,Rains
+Texas,TX,48,381,11100,Randall
+Texas,TX,48,383,4800001,Reagan
+Texas,TX,48,385,4800005,Real
+Texas,TX,48,387,4800002,Red River
+Texas,TX,48,389,4800001,Reeves
+Texas,TX,48,391,4800006,Refugio
+Texas,TX,48,393,4800001,Roberts
+Texas,TX,48,395,17780,Robertson
+Texas,TX,48,397,19100,Rockwall
+Texas,TX,48,399,4800004,Runnels
+Texas,TX,48,401,30980,Rusk
+Texas,TX,48,403,4800003,Sabine
+Texas,TX,48,405,4800003,San Augustine
+Texas,TX,48,407,26420,San Jacinto
+Texas,TX,48,409,18580,San Patricio
+Texas,TX,48,411,4800004,San Saba
+Texas,TX,48,413,4800004,Schleicher
+Texas,TX,48,415,4800001,Scurry
+Texas,TX,48,417,4800001,Shackelford
+Texas,TX,48,419,4800003,Shelby
+Texas,TX,48,421,4800001,Sherman
+Texas,TX,48,423,46340,Smith
+Texas,TX,48,425,4800002,Somervell
+Texas,TX,48,427,4800006,Starr
+Texas,TX,48,429,4800002,Stephens
+Texas,TX,48,431,4800004,Sterling
+Texas,TX,48,433,4800001,Stonewall
+Texas,TX,48,435,4800004,Sutton
+Texas,TX,48,437,4800001,Swisher
+Texas,TX,48,439,19100,Tarrant
+Texas,TX,48,441,10180,Taylor
+Texas,TX,48,443,4800001,Terrell
+Texas,TX,48,445,4800001,Terry
+Texas,TX,48,447,4800001,Throckmorton
+Texas,TX,48,449,4800002,Titus
+Texas,TX,48,451,41660,Tom Green
+Texas,TX,48,453,12420,Travis
+Texas,TX,48,455,4800003,Trinity
+Texas,TX,48,457,4800003,Tyler
+Texas,TX,48,459,30980,Upshur
+Texas,TX,48,461,4800001,Upton
+Texas,TX,48,463,4800005,Uvalde
+Texas,TX,48,465,4800005,Val Verde
+Texas,TX,48,467,4800002,Van Zandt
+Texas,TX,48,469,47020,Victoria
+Texas,TX,48,471,4800004,Walker
+Texas,TX,48,473,26420,Waller
+Texas,TX,48,475,4800001,Ward
+Texas,TX,48,477,4800004,Washington
+Texas,TX,48,479,29700,Webb
+Texas,TX,48,481,4800006,Wharton
+Texas,TX,48,483,4800001,Wheeler
+Texas,TX,48,485,48660,Wichita
+Texas,TX,48,487,4800001,Wilbarger
+Texas,TX,48,489,4800006,Willacy
+Texas,TX,48,491,12420,Williamson
+Texas,TX,48,493,41700,Wilson
+Texas,TX,48,495,4800001,Winkler
+Texas,TX,48,497,19100,Wise
+Texas,TX,48,499,4800002,Wood
+Texas,TX,48,501,4800001,Yoakum
+Texas,TX,48,503,4800002,Young
+Texas,TX,48,505,4800006,Zapata
+Texas,TX,48,507,4800005,Zavala
+Utah,UT,49,001,4900011,Beaver
+Utah,UT,49,003,4900010,Box Elder
+Utah,UT,49,005,30860,Cache
+Utah,UT,49,007,4900011,Carbon
+Utah,UT,49,009,4900011,Daggett
+Utah,UT,49,011,36260,Davis
+Utah,UT,49,013,4900011,Duchesne
+Utah,UT,49,015,4900011,Emery
+Utah,UT,49,017,4900011,Garfield
+Utah,UT,49,019,4900011,Grand
+Utah,UT,49,021,4900011,Iron
+Utah,UT,49,023,39340,Juab
+Utah,UT,49,025,4900011,Kane
+Utah,UT,49,027,4900011,Millard
+Utah,UT,49,029,36260,Morgan
+Utah,UT,49,031,4900011,Piute
+Utah,UT,49,033,4900010,Rich
+Utah,UT,49,035,41620,Salt Lake
+Utah,UT,49,037,4900011,San Juan
+Utah,UT,49,039,4900011,Sanpete
+Utah,UT,49,041,4900011,Sevier
+Utah,UT,49,043,4900010,Summit
+Utah,UT,49,045,41620,Tooele
+Utah,UT,49,047,4900011,Uintah
+Utah,UT,49,049,39340,Utah
+Utah,UT,49,051,4900010,Wasatch
+Utah,UT,49,053,41100,Washington
+Utah,UT,49,055,4900011,Wayne
+Utah,UT,49,057,36260,Weber
+Vermont,VT,50,001,5000002,Addison
+Vermont,VT,50,003,5000001,Bennington
+Vermont,VT,50,005,5000002,Caledonia
+Vermont,VT,50,007,15540,Chittenden
+Vermont,VT,50,009,5000002,Essex
+Vermont,VT,50,011,15540,Franklin
+Vermont,VT,50,013,15540,Grand Isle
+Vermont,VT,50,015,5000002,Lamoille
+Vermont,VT,50,017,5000002,Orange
+Vermont,VT,50,019,5000002,Orleans
+Vermont,VT,50,021,5000001,Rutland
+Vermont,VT,50,023,5000002,Washington
+Vermont,VT,50,025,5000001,Windham
+Vermont,VT,50,027,5000001,Windsor
+Virginia,VA,51,001,5100003,Accomack
+Virginia,VA,51,003,16820,Albemarle
+Virginia,VA,51,510,5100004,Alexandria city
+Virginia,VA,51,005,40060,Alleghany
+Virginia,VA,51,007,31340,Amelia
+Virginia,VA,51,009,31340,Amherst
+Virginia,VA,51,011,47900,Appomattox
+Virginia,VA,51,013,44420,Arlington
+Virginia,VA,51,015,5100004,Augusta
+Virginia,VA,51,017,31340,Bath
+Virginia,VA,51,019,5100001,Bedford
+Virginia,VA,51,021,40220,Bland
+Virginia,VA,51,023,5100002,Botetourt
+Virginia,VA,51,520,5100001,Bristol city
+Virginia,VA,51,025,5100002,Brunswick
+Virginia,VA,51,027,31340,Buchanan
+Virginia,VA,51,029,5100003,Buckingham
+Virginia,VA,51,530,5100001,Buena Vista city
+Virginia,VA,51,031,40060,Campbell
+Virginia,VA,51,033,5100002,Caroline
+Virginia,VA,51,035,40060,Carroll
+Virginia,VA,51,036,47900,Charles City
+Virginia,VA,51,037,40220,Charlotte
+Virginia,VA,51,540,47900,Charlottesville city
+Virginia,VA,51,550,5100002,Chesapeake city
+Virginia,VA,51,041,5100001,Chesterfield
+Virginia,VA,51,043,40060,Clarke
+Virginia,VA,51,570,5100003,Colonial Heights city
+Virginia,VA,51,580,47900,Covington city
+Virginia,VA,51,045,47900,Craig
+Virginia,VA,51,047,13980,Culpeper
+Virginia,VA,51,049,16820,Cumberland
+Virginia,VA,51,590,40220,Danville city
+Virginia,VA,51,051,49020,Dickenson
+Virginia,VA,51,053,13980,Dinwiddie
+Virginia,VA,51,595,47260,Emporia city
+Virginia,VA,51,057,40060,Essex
+Virginia,VA,51,600,5100001,Fairfax city
+Virginia,VA,51,059,16820,Fairfax
+Virginia,VA,51,610,5100002,Falls Church city
+Virginia,VA,51,061,5100002,Fauquier
+Virginia,VA,51,063,40060,Floyd
+Virginia,VA,51,065,40060,Fluvanna
+Virginia,VA,51,620,5100001,Franklin city
+Virginia,VA,51,067,5100004,Franklin
+Virginia,VA,51,069,47260,Frederick
+Virginia,VA,51,630,47260,Fredericksburg city
+Virginia,VA,51,640,40060,Galax city
+Virginia,VA,51,071,5100003,Giles
+Virginia,VA,51,073,40060,Gloucester
+Virginia,VA,51,075,5100003,Goochland
+Virginia,VA,51,077,5100001,Grayson
+Virginia,VA,51,079,47900,Greene
+Virginia,VA,51,081,5100004,Greensville
+Virginia,VA,51,083,5100002,Halifax
+Virginia,VA,51,650,5100004,Hampton city
+Virginia,VA,51,085,47260,Hanover
+Virginia,VA,51,660,5100002,Harrisonburg city
+Virginia,VA,51,087,5100003,Henrico
+Virginia,VA,51,089,13980,Henry
+Virginia,VA,51,091,16820,Highland
+Virginia,VA,51,670,40060,Hopewell city
+Virginia,VA,51,093,5100003,Isle of Wight
+Virginia,VA,51,095,5100003,James City
+Virginia,VA,51,097,5100002,King and Queen
+Virginia,VA,51,099,5100004,King George
+Virginia,VA,51,101,5100004,King William
+Virginia,VA,51,103,5100001,Lancaster
+Virginia,VA,51,105,5100002,Lee
+Virginia,VA,51,678,40060,Lexington city
+Virginia,VA,51,107,5100002,Loudoun
+Virginia,VA,51,109,40060,Louisa
+Virginia,VA,51,111,47900,Lunenburg
+Virginia,VA,51,680,13980,Lynchburg city
+Virginia,VA,51,113,47900,Madison
+Virginia,VA,51,683,5100003,Manassas city
+Virginia,VA,51,685,40220,Manassas Park city
+Virginia,VA,51,690,5100004,Martinsville city
+Virginia,VA,51,115,25500,Mathews
+Virginia,VA,51,117,5100001,Mecklenburg
+Virginia,VA,51,119,28700,Middlesex
+Virginia,VA,51,121,5100004,Montgomery
+Virginia,VA,51,125,5100001,Nelson
+Virginia,VA,51,127,5100002,New Kent
+Virginia,VA,51,700,47900,Newport News city
+Virginia,VA,51,710,47900,Norfolk city
+Virginia,VA,51,131,47260,Northampton
+Virginia,VA,51,133,40060,Northumberland
+Virginia,VA,51,720,5100001,Norton city
+Virginia,VA,51,135,47900,Nottoway
+Virginia,VA,51,137,28700,Orange
+Virginia,VA,51,139,5100003,Page
+Virginia,VA,51,141,5100001,Patrick
+Virginia,VA,51,730,5100001,Petersburg city
+Virginia,VA,51,143,47260,Pittsylvania
+Virginia,VA,51,735,47900,Poquoson city
+Virginia,VA,51,740,28700,Portsmouth city
+Virginia,VA,51,145,5100004,Powhatan
+Virginia,VA,51,147,16820,Prince Edward
+Virginia,VA,51,149,47260,Prince George
+Virginia,VA,51,153,40060,Prince William
+Virginia,VA,51,155,5100004,Pulaski
+Virginia,VA,51,750,5100002,Radford city
+Virginia,VA,51,157,5100002,Rappahannock
+Virginia,VA,51,760,47900,Richmond city
+Virginia,VA,51,159,47900,Richmond
+Virginia,VA,51,770,5100002,Roanoke city
+Virginia,VA,51,161,47900,Roanoke
+Virginia,VA,51,163,5100001,Rockbridge
+Virginia,VA,51,165,47260,Rockingham
+Virginia,VA,51,167,25500,Russell
+Virginia,VA,51,775,40060,Salem city
+Virginia,VA,51,169,5100004,Scott
+Virginia,VA,51,171,31340,Shenandoah
+Virginia,VA,51,173,47900,Smyth
+Virginia,VA,51,175,47900,Southampton
+Virginia,VA,51,177,5100001,Spotsylvania
+Virginia,VA,51,179,47260,Stafford
+Virginia,VA,51,790,47260,Staunton city
+Virginia,VA,51,800,5100001,Suffolk city
+Virginia,VA,51,181,40060,Surry
+Virginia,VA,51,183,47260,Sussex
+Virginia,VA,51,185,47260,Tazewell
+Virginia,VA,51,810,13980,Virginia Beach city
+Virginia,VA,51,187,40060,Warren
+Virginia,VA,51,191,40220,Washington
+Virginia,VA,51,820,40220,Waynesboro city
+Virginia,VA,51,193,44420,Westmoreland
+Virginia,VA,51,830,47260,Williamsburg city
+Virginia,VA,51,840,47260,Winchester city
+Virginia,VA,51,195,44420,Wise
+Virginia,VA,51,197,47260,Wythe
+Virginia,VA,51,199,49020,York
+Washington,WA,53,001,5300007,Adams
+Washington,WA,53,003,30300,Asotin
+Washington,WA,53,005,28420,Benton
+Washington,WA,53,007,48300,Chelan
+Washington,WA,53,009,5300006,Clallam
+Washington,WA,53,011,38900,Clark
+Washington,WA,53,013,5300007,Columbia
+Washington,WA,53,015,31020,Cowlitz
+Washington,WA,53,017,48300,Douglas
+Washington,WA,53,019,5300007,Ferry
+Washington,WA,53,021,28420,Franklin
+Washington,WA,53,023,5300007,Garfield
+Washington,WA,53,025,5300007,Grant
+Washington,WA,53,027,5300006,Grays Harbor
+Washington,WA,53,029,5300006,Island
+Washington,WA,53,031,5300006,Jefferson
+Washington,WA,53,033,42660,King
+Washington,WA,53,035,14740,Kitsap
+Washington,WA,53,037,5300007,Kittitas
+Washington,WA,53,039,5300007,Klickitat
+Washington,WA,53,041,5300006,Lewis
+Washington,WA,53,043,5300007,Lincoln
+Washington,WA,53,045,5300006,Mason
+Washington,WA,53,047,5300007,Okanogan
+Washington,WA,53,049,5300006,Pacific
+Washington,WA,53,051,5300007,Pend Oreille
+Washington,WA,53,053,42660,Pierce
+Washington,WA,53,055,5300006,San Juan
+Washington,WA,53,057,34580,Skagit
+Washington,WA,53,059,38900,Skamania
+Washington,WA,53,061,42660,Snohomish
+Washington,WA,53,063,44060,Spokane
+Washington,WA,53,065,44060,Stevens
+Washington,WA,53,067,36500,Thurston
+Washington,WA,53,069,5300006,Wahkiakum
+Washington,WA,53,071,47460,Walla Walla
+Washington,WA,53,073,13380,Whatcom
+Washington,WA,53,075,5300007,Whitman
+Washington,WA,53,077,49420,Yakima
+West Virginia,WV,54,001,5400002,Barbour
+West Virginia,WV,54,003,25180,Berkeley
+West Virginia,WV,54,005,16620,Boone
+West Virginia,WV,54,007,5400002,Braxton
+West Virginia,WV,54,009,48260,Brooke
+West Virginia,WV,54,011,26580,Cabell
+West Virginia,WV,54,013,5400002,Calhoun
+West Virginia,WV,54,015,16620,Clay
+West Virginia,WV,54,017,5400002,Doddridge
+West Virginia,WV,54,019,13220,Fayette
+West Virginia,WV,54,021,5400002,Gilmer
+West Virginia,WV,54,023,5400002,Grant
+West Virginia,WV,54,025,5400001,Greenbrier
+West Virginia,WV,54,027,49020,Hampshire
+West Virginia,WV,54,029,48260,Hancock
+West Virginia,WV,54,031,5400002,Hardy
+West Virginia,WV,54,033,5400002,Harrison
+West Virginia,WV,54,035,5400002,Jackson
+West Virginia,WV,54,037,47900,Jefferson
+West Virginia,WV,54,039,16620,Kanawha
+West Virginia,WV,54,041,5400002,Lewis
+West Virginia,WV,54,043,5400001,Lincoln
+West Virginia,WV,54,045,5400001,Logan
+West Virginia,WV,54,049,5400001,Marion
+West Virginia,WV,54,051,5400002,Marshall
+West Virginia,WV,54,053,48540,Mason
+West Virginia,WV,54,047,5400002,McDowell
+West Virginia,WV,54,055,5400001,Mercer
+West Virginia,WV,54,057,5400002,Mineral
+West Virginia,WV,54,059,5400001,Mingo
+West Virginia,WV,54,061,34060,Monongalia
+West Virginia,WV,54,063,5400001,Monroe
+West Virginia,WV,54,065,25180,Morgan
+West Virginia,WV,54,067,5400001,Nicholas
+West Virginia,WV,54,069,48540,Ohio
+West Virginia,WV,54,071,5400002,Pendleton
+West Virginia,WV,54,073,5400002,Pleasants
+West Virginia,WV,54,075,5400001,Pocahontas
+West Virginia,WV,54,077,34060,Preston
+West Virginia,WV,54,079,26580,Putnam
+West Virginia,WV,54,081,13220,Raleigh
+West Virginia,WV,54,083,5400002,Randolph
+West Virginia,WV,54,085,5400002,Ritchie
+West Virginia,WV,54,087,5400002,Roane
+West Virginia,WV,54,089,5400001,Summers
+West Virginia,WV,54,091,5400002,Taylor
+West Virginia,WV,54,093,5400002,Tucker
+West Virginia,WV,54,095,5400002,Tyler
+West Virginia,WV,54,097,5400002,Upshur
+West Virginia,WV,54,099,26580,Wayne
+West Virginia,WV,54,101,5400001,Webster
+West Virginia,WV,54,103,5400002,Wetzel
+West Virginia,WV,54,105,37620,Wirt
+West Virginia,WV,54,107,37620,Wood
+West Virginia,WV,54,109,5400001,Wyoming
+Wisconsin,WI,55,001,5500002,Adams
+Wisconsin,WI,55,003,5500001,Ashland
+Wisconsin,WI,55,005,5500004,Barron
+Wisconsin,WI,55,007,5500001,Bayfield
+Wisconsin,WI,55,009,24580,Brown
+Wisconsin,WI,55,011,5500004,Buffalo
+Wisconsin,WI,55,013,5500001,Burnett
+Wisconsin,WI,55,015,11540,Calumet
+Wisconsin,WI,55,017,20740,Chippewa
+Wisconsin,WI,55,019,5500004,Clark
+Wisconsin,WI,55,021,31540,Columbia
+Wisconsin,WI,55,023,5500004,Crawford
+Wisconsin,WI,55,025,31540,Dane
+Wisconsin,WI,55,027,5500003,Dodge
+Wisconsin,WI,55,029,5500002,Door
+Wisconsin,WI,55,031,20260,Douglas
+Wisconsin,WI,55,033,5500004,Dunn
+Wisconsin,WI,55,035,20740,Eau Claire
+Wisconsin,WI,55,037,5500002,Florence
+Wisconsin,WI,55,039,22540,Fond du Lac
+Wisconsin,WI,55,041,5500002,Forest
+Wisconsin,WI,55,043,5500003,Grant
+Wisconsin,WI,55,045,31540,Green
+Wisconsin,WI,55,047,5500003,Green Lake
+Wisconsin,WI,55,049,31540,Iowa
+Wisconsin,WI,55,051,5500001,Iron
+Wisconsin,WI,55,053,5500004,Jackson
+Wisconsin,WI,55,055,5500003,Jefferson
+Wisconsin,WI,55,057,5500004,Juneau
+Wisconsin,WI,55,059,28450,Kenosha
+Wisconsin,WI,55,061,24580,Kewaunee
+Wisconsin,WI,55,063,29100,La Crosse
+Wisconsin,WI,55,065,5500003,Lafayette
+Wisconsin,WI,55,067,5500002,Langlade
+Wisconsin,WI,55,069,5500002,Lincoln
+Wisconsin,WI,55,071,5500002,Manitowoc
+Wisconsin,WI,55,073,48140,Marathon
+Wisconsin,WI,55,075,5500002,Marinette
+Wisconsin,WI,55,077,5500003,Marquette
+Wisconsin,WI,55,078,5500002,Menominee
+Wisconsin,WI,55,079,33340,Milwaukee
+Wisconsin,WI,55,081,5500004,Monroe
+Wisconsin,WI,55,083,24580,Oconto
+Wisconsin,WI,55,085,5500002,Oneida
+Wisconsin,WI,55,087,11540,Outagamie
+Wisconsin,WI,55,089,33340,Ozaukee
+Wisconsin,WI,55,091,5500004,Pepin
+Wisconsin,WI,55,093,33460,Pierce
+Wisconsin,WI,55,095,5500004,Polk
+Wisconsin,WI,55,097,5500002,Portage
+Wisconsin,WI,55,099,5500001,Price
+Wisconsin,WI,55,101,39540,Racine
+Wisconsin,WI,55,103,5500003,Richland
+Wisconsin,WI,55,105,27500,Rock
+Wisconsin,WI,55,107,5500001,Rusk
+Wisconsin,WI,55,111,33460,Sauk
+Wisconsin,WI,55,113,5500003,Sawyer
+Wisconsin,WI,55,115,5500001,Shawano
+Wisconsin,WI,55,117,5500002,Sheboygan
+Wisconsin,WI,55,109,43100,Saint Croix
+Wisconsin,WI,55,119,5500001,Taylor
+Wisconsin,WI,55,121,5500004,Trempealeau
+Wisconsin,WI,55,123,29100,Vernon
+Wisconsin,WI,55,125,5500002,Vilas
+Wisconsin,WI,55,127,5500003,Walworth
+Wisconsin,WI,55,129,5500001,Washburn
+Wisconsin,WI,55,131,33340,Washington
+Wisconsin,WI,55,133,33340,Waukesha
+Wisconsin,WI,55,135,5500003,Waupaca
+Wisconsin,WI,55,137,5500003,Waushara
+Wisconsin,WI,55,139,36780,Winnebago
+Wisconsin,WI,55,141,5500002,Wood
+Wyoming,WY,56,001,5600007,Albany
+Wyoming,WY,56,003,5600006,Big Horn
+Wyoming,WY,56,005,5600007,Campbell
+Wyoming,WY,56,007,5600007,Carbon
+Wyoming,WY,56,009,5600007,Converse
+Wyoming,WY,56,011,5600007,Crook
+Wyoming,WY,56,013,5600006,Fremont
+Wyoming,WY,56,015,5600007,Goshen
+Wyoming,WY,56,017,5600006,Hot Springs
+Wyoming,WY,56,019,5600007,Johnson
+Wyoming,WY,56,021,16940,Laramie
+Wyoming,WY,56,023,5600006,Lincoln
+Wyoming,WY,56,025,16220,Natrona
+Wyoming,WY,56,027,5600007,Niobrara
+Wyoming,WY,56,029,5600006,Park
+Wyoming,WY,56,031,5600007,Platte
+Wyoming,WY,56,033,5600007,Sheridan
+Wyoming,WY,56,035,5600006,Sublette
+Wyoming,WY,56,037,5600006,Sweetwater
+Wyoming,WY,56,039,5600006,Teton
+Wyoming,WY,56,041,5600006,Uinta
+Wyoming,WY,56,043,5600006,Washakie
+Wyoming,WY,56,045,5600007,Weston

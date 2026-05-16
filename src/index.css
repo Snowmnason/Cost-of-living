@@ -1,0 +1,133 @@
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+@import "@fontsource-variable/geist";
+@import "tailwindcss";
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+:root {
+  /* ── Purple Theme ──────────────────────────────────── */
+
+  /* Page background */
+  --bg: #c2b5d8;
+
+  /* Surfaces — light lavender, not pure white */
+  --background: #d4c3ee;
+  --card: #b7a3d4;
+  --card-foreground: #1e1535;
+  --popover: #f2ecfb;
+  --popover-foreground: #1e1535;
+
+  /* Text */
+  --foreground: #1e1535;
+  --muted-foreground: #7059a0;
+
+  /* Muted surfaces */
+  --muted: #e5d9f5;
+
+  /* Borders */
+  --border: #cbb8e8;
+  --input: #d9ccf0;
+  --ring: #9d6ef5;
+
+  /* Accent purple */
+  --accent: #7c3aed;
+  --accent-bg: rgba(124, 58, 237, 0.1);
+  --accent-border: rgba(124, 58, 237, 0.4);
+  --accent-foreground: #ffffff;
+
+  /* Tailwind component vars */
+  --primary: #7c3aed;
+  --primary-foreground: #ffffff;
+  --secondary: #e5d9f5;
+  --secondary-foreground: #1e1535;
+  --destructive: oklch(0.577 0.245 27.325);
+
+  /* Nav */
+  --nav-bg: #1c1430;
+  --nav-border: rgba(255, 255, 255, 0.07);
+
+  /* Table */
+  --table-header-bg: #2c1e4d;
+  --table-header-text: #e8deff;
+
+  /* Radius */
+  --radius: 0.625rem;
+
+  /* Shadows */
+  --shadow-sm: 0 1px 4px rgba(28, 20, 48, 0.1);
+  --shadow-md: 0 4px 16px rgba(28, 20, 48, 0.14);
+  --shadow-lg: 0 10px 32px rgba(28, 20, 48, 0.18);
+
+  /* Sidebar (shadcn) */
+  --sidebar: #f2ecfb;
+  --sidebar-foreground: #1e1535;
+  --sidebar-primary: #7c3aed;
+  --sidebar-primary-foreground: #ffffff;
+  --sidebar-accent: #e5d9f5;
+  --sidebar-accent-foreground: #1e1535;
+  --sidebar-border: #cbb8e8;
+  --sidebar-ring: #9d6ef5;
+
+  /* Chart */
+  --chart-1: #7c3aed;
+  --chart-2: #a855f7;
+  --chart-3: #c084fc;
+  --chart-4: #dda0f5;
+  --chart-5: #f3e8ff;
+
+  font-family: 'Geist Variable', system-ui, 'Segoe UI', Roboto, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  color-scheme: light;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  background-color: var(--bg);
+  color: var(--foreground);
+  font-family: 'Geist Variable', system-ui, 'Segoe UI', Roboto, sans-serif;
+}
+
+* {
+  border-color: var(--border);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--foreground);
+  font-weight: 600;
+  line-height: 1.25;
+}
+
+/* Purple scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(124, 58, 237, 0.28);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(124, 58, 237, 0.5);
+}

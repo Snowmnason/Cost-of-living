@@ -1,0 +1,149 @@
+state,state_abbr,state_fips,filing_status,deduction_type,value,tax_year
+Alabama,AL,01,Single,Standard Deduction,3000,2025
+Alabama,AL,01,Married Joint,Standard Deduction,8500,2025
+Alabama,AL,01,Single,Personal Exemption,1500,2025
+Arizona,AZ,02,Single,Standard Deduction,8350,2025
+Arizona,AZ,02,Married Joint,Standard Deduction,16700,2025
+Arizona,AZ,02,Dependent,Personal Credit,100,2025
+Arkansas,AR,05,Single,Standard Deduction,2470,2025
+Arkansas,AR,05,Married Joint,Standard Deduction,4940,2025
+Arkansas,AR,05,Single,Personal Credit,29,2025
+Arkansas,AR,05,Married Joint,Personal Credit,58,2025
+Arkansas,AR,05,Dependent,Personal Credit,29,2025
+California,CA,06,Single,Standard Deduction,5540,2025
+California,CA,06,Married Joint,Standard Deduction,11080,2025
+California,CA,06,Single,Personal Credit,153,2025
+California,CA,06,Married Joint,Personal Credit,306,2025
+California,CA,06,Dependent,Personal Credit,153,2025
+Colorado,CO,08,Single,Standard Deduction,16100,2025
+Colorado,CO,08,Married Joint,Standard Deduction,32200,2025
+Connecticut,CT,09,Single,Personal Exemption,15000,2025
+Connecticut,CT,09,Married Joint,Personal Exemption,24000,2025
+Connecticut,CT,09,Dependent,Personal Exemption,0,2025
+Delaware,DE,10,Single,Standard Deduction,3250,2025
+Delaware,DE,10,Married Joint,Standard Deduction,6500,2025
+Delaware,DE,10,Single,Personal Credit,110,2025
+Delaware,DE,10,Married Joint,Personal Credit,220,2025
+Delaware,DE,10,Dependent,Personal Credit,110,2025
+District of Columbia,DC,11,Single,Standard Deduction,16100,2025
+District of Columbia,DC,11,Married Joint,Standard Deduction,32200,2025
+Georgia,GA,13,Single,Standard Deduction,12000,2025
+Georgia,GA,13,Married Joint,Standard Deduction,24000,2025
+Georgia,GA,13,Dependent,Personal Exemption,4000,2025
+Hawaii,HI,15,Single,Standard Deduction,4400,2025
+Hawaii,HI,15,Married Joint,Standard Deduction,8800,2025
+Hawaii,HI,15,Single,Personal Exemption,1144,2025
+Hawaii,HI,15,Married Joint,Personal Exemption,2288,2025
+Hawaii,HI,15,Dependent,Personal Exemption,1144,2025
+Idaho,ID,16,Single,Standard Deduction,16100,2025
+Idaho,ID,16,Married Joint,Standard Deduction,32200,2025
+Illinois,IL,17,Single,Personal Exemption,2925,2025
+Illinois,IL,17,Married Joint,Personal Exemption,5850,2025
+Illinois,IL,17,Dependent,Personal Exemption,2925,2025
+Indiana,IN,18,Single,Personal Exemption,1000,2025
+Indiana,IN,18,Married Joint,Personal Exemption,2000,2025
+Indiana,IN,18,Dependent,Personal Exemption,1000,2025
+Iowa,IA,19,Single,Standard Deduction,16100,2025
+Iowa,IA,19,Married Joint,Standard Deduction,32200,2025
+Iowa,IA,19,Single,Personal Credit,40,2025
+Iowa,IA,19,Married Joint,Personal Credit,80,2025
+Iowa,IA,19,Dependent,Personal Credit,40,2025
+Kansas,KS,20,Single,Standard Deduction,3605,2025
+Kansas,KS,20,Married Joint,Standard Deduction,8240,2025
+Kansas,KS,20,Single,Personal Exemption,9160,2025
+Kansas,KS,20,Married Joint,Personal Exemption,18320,2025
+Kansas,KS,20,Dependent,Personal Exemption,2320,2025
+Kentucky,KY,21,Single,Standard Deduction,3360,2025
+Kentucky,KY,21,Married Joint,Standard Deduction,3360,2025
+Louisiana,LA,22,Single,Standard Deduction,12875,2025
+Louisiana,LA,22,Married Joint,Standard Deduction,25750,2025
+Maine,ME,23,Single,Standard Deduction,8350,2025
+Maine,ME,23,Married Joint,Standard Deduction,16700,2025
+Maine,ME,23,Single,Personal Exemption,5300,2025
+Maine,ME,23,Married Joint,Personal Exemption,10600,2025
+Maine,ME,23,Dependent,Personal Credit,305,2025
+Maryland,MD,24,Single,Standard Deduction,3350,2025
+Maryland,MD,24,Married Joint,Standard Deduction,6700,2025
+Maryland,MD,24,Single,Personal Exemption,3200,2025
+Maryland,MD,24,Married Joint,Personal Exemption,6400,2025
+Maryland,MD,24,Dependent,Personal Exemption,3200,2025
+Massachusetts,MA,25,Single,Personal Exemption,4400,2025
+Massachusetts,MA,25,Married Joint,Personal Exemption,8800,2025
+Massachusetts,MA,25,Dependent,Personal Exemption,1000,2025
+Michigan,MI,26,Single,Personal Exemption,5900,2025
+Michigan,MI,26,Married Joint,Personal Exemption,11800,2025
+Michigan,MI,26,Dependent,Personal Exemption,5900,2025
+Minnesota,MN,27,Single,Standard Deduction,15300,2025
+Minnesota,MN,27,Married Joint,Standard Deduction,30600,2025
+Minnesota,MN,27,Dependent,Personal Exemption,5300,2025
+Mississippi,MS,28,Single,Standard Deduction,2300,2025
+Mississippi,MS,28,Married Joint,Standard Deduction,4600,2025
+Mississippi,MS,28,Single,Personal Exemption,6000,2025
+Mississippi,MS,28,Married Joint,Personal Exemption,12000,2025
+Mississippi,MS,28,Dependent,Personal Exemption,1500,2025
+Missouri,MO,29,Single,Standard Deduction,16100,2025
+Missouri,MO,29,Married Joint,Standard Deduction,32200,2025
+Montana,MT,30,Single,Standard Deduction,16100,2025
+Montana,MT,30,Married Joint,Standard Deduction,32200,2025
+Nebraska,NE,31,Single,Standard Deduction,8850,2025
+Nebraska,NE,31,Married Joint,Standard Deduction,17700,2025
+Nebraska,NE,31,Single,Personal Credit,176,2025
+Nebraska,NE,31,Married Joint,Personal Credit,352,2025
+Nebraska,NE,31,Dependent,Personal Credit,176,2025
+New Jersey,NJ,34,Single,Personal Exemption,1000,2025
+New Jersey,NJ,34,Married Joint,Personal Exemption,2000,2025
+New Jersey,NJ,34,Dependent,Personal Exemption,1500,2025
+New Mexico,NM,35,Single,Standard Deduction,16100,2025
+New Mexico,NM,35,Married Joint,Standard Deduction,32200,2025
+New Mexico,NM,35,Dependent,Personal Exemption,4000,2025
+New York,NY,36,Single,Standard Deduction,8000,2025
+New York,NY,36,Married Joint,Standard Deduction,16050,2025
+New York,NY,36,Dependent,Personal Exemption,1000,2025
+North Carolina,NC,37,Single,Standard Deduction,12750,2025
+North Carolina,NC,37,Married Joint,Standard Deduction,25500,2025
+North Dakota,ND,38,Single,Standard Deduction,16100,2025
+North Dakota,ND,38,Married Joint,Standard Deduction,32200,2025
+Ohio,OH,39,Single,Personal Exemption,2400,2025
+Ohio,OH,39,Married Joint,Personal Exemption,4800,2025
+Ohio,OH,39,Dependent,Personal Exemption,2400,2025
+Oklahoma,OK,40,Single,Standard Deduction,6350,2025
+Oklahoma,OK,40,Married Joint,Standard Deduction,12700,2025
+Oklahoma,OK,40,Single,Personal Exemption,1000,2025
+Oklahoma,OK,40,Married Joint,Personal Exemption,2000,2025
+Oklahoma,OK,40,Dependent,Personal Exemption,1000,2025
+Oregon,OR,41,Single,Standard Deduction,2910,2025
+Oregon,OR,41,Married Joint,Standard Deduction,5820,2025
+Oregon,OR,41,Single,Personal Credit,256,2025
+Oregon,OR,41,Married Joint,Personal Credit,512,2025
+Oregon,OR,41,Dependent,Personal Credit,256,2025
+Rhode Island,RI,44,Single,Standard Deduction,11200,2025
+Rhode Island,RI,44,Married Joint,Standard Deduction,22400,2025
+Rhode Island,RI,44,Single,Personal Exemption,5250,2025
+Rhode Island,RI,44,Married Joint,Personal Exemption,10500,2025
+Rhode Island,RI,44,Dependent,Personal Exemption,5250,2025
+South Carolina,SC,45,Single,Standard Deduction,8350,2025
+South Carolina,SC,45,Married Joint,Standard Deduction,16700,2025
+South Carolina,SC,45,Dependent,Personal Exemption,4930,2025
+Utah,UT,49,Single,Personal Credit,966,2025
+Utah,UT,49,Married Joint,Personal Credit,1932,2025
+Utah,UT,49,Dependent,Personal Exemption,2111,2025
+Vermont,VT,50,Single,Standard Deduction,7650,2025
+Vermont,VT,50,Married Joint,Standard Deduction,15300,2025
+Vermont,VT,50,Single,Personal Exemption,5300,2025
+Vermont,VT,50,Married Joint,Personal Exemption,10600,2025
+Vermont,VT,50,Dependent,Personal Exemption,5300,2025
+Virginia,VA,51,Single,Standard Deduction,8750,2025
+Virginia,VA,51,Married Joint,Standard Deduction,17500,2025
+Virginia,VA,51,Single,Personal Exemption,930,2025
+Virginia,VA,51,Married Joint,Personal Exemption,1860,2025
+Virginia,VA,51,Dependent,Personal Exemption,930,2025
+Washington,WA,53,Single,Standard Deduction,278000,2025
+Washington,WA,53,Married Joint,Standard Deduction,278000,2025
+West Virginia,WV,54,Single,Personal Exemption,2000,2025
+West Virginia,WV,54,Married Joint,Personal Exemption,4000,2025
+West Virginia,WV,54,Dependent,Personal Exemption,2000,2025
+Wisconsin,WI,55,Single,Standard Deduction,13960,2025
+Wisconsin,WI,55,Married Joint,Standard Deduction,25840,2025
+Wisconsin,WI,55,Single,Personal Exemption,700,2025
+Wisconsin,WI,55,Married Joint,Personal Exemption,1400,2025
+Wisconsin,WI,55,Dependent,Personal Exemption,700,2025
