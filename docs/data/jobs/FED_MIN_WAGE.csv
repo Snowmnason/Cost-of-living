@@ -1,0 +1,53 @@
+state,state_abbr,state_fips,min_wage
+Alabama,AL,01,$7.25 
+Alaska,AK,02,$11.91 
+Arizona,AZ,04,$15.15 
+Arkansas,AR,05,$11.00 
+California,CA,06,$16.90 
+Colorado,CO,08,$15.16 
+Connecticut,CT,09,$16.94 
+Delaware,DE,10,$15.00 
+District of Columbia,DC,11,$17.50 
+Florida,FL,12,$14.00 
+Georgia,GA,13,$7.25 
+Hawaii,HI,15,$16.00 
+Idaho,ID,16,$7.25 
+Illinois,IL,17,$15.00 
+Indiana,IN,18,$7.25 
+Iowa,IA,19,$7.25 
+Kansas,KS,20,$7.25 
+Kentucky,KY,21,$7.25 
+Louisiana,LA,22,$7.25 
+Maine,ME,23,$15.10 
+Maryland,MD,24,$15.00 
+Massachusetts,MA,25,$15.00 
+Michigan,MI,26,$13.73 
+Minnesota,MN,27,$11.41 
+Mississippi,MS,28,$7.25 
+Missouri,MO,29,$15.00 
+Montana,MT,30,$10.85 
+Nebraska,NE,31,$15.00 
+Nevada,NV,32,$12.00 
+New Hampshire,NH,33,$7.25 
+New Jersey,NJ,34,$15.92 
+New Mexico,NM,35,$12.00 
+New York,NY,36,16
+North Carolina,NC,37,$7.25 
+North Dakota,ND,38,$7.25 
+Ohio,OH,39,$11.00 
+Oklahoma,OK,40,$7.25 
+Oregon,OR,41,$14.70 
+Pennsylvania,PA,42,$7.25 
+Rhode Island,RI,44,$15.00 
+South Carolina,SC,45,$7.25 
+South Dakota,SD,46,$11.85 
+Tennessee,TN,47,$7.25 
+Texas,TX,48,$7.25 
+Utah,UT,49,$7.25 
+Vermont,VT,50,$14.42 
+Virginia,VA,51,$12.77 
+Washington,WA,53,$17.13 
+West Virginia,WV,54,$8.75 
+Wisconsin,WI,55,$7.25 
+Wyoming,WY,56,$7.25 
+United States,US,99,11.42
