@@ -119,7 +119,6 @@ export function calculateFederalTax(taxableIncome: number, filingStatus: string)
 
 export function calculateNetIncome(
   grossIncome: number,
-  stateFips: string,
   stateAbbr: string,
   filingStatus: string,
   contributionRate401k: number = 0
@@ -618,15 +617,6 @@ function mapHouseholdTypeToFoodColumn(householdType: string): string {
     '2 Adults (Both Working), 3 Kids': 'adults_2_children_3',
   }
   return mapping[householdType] || 'adult_1_children_0'
-}
-
-interface FoodDataRow {
-  state_fips: string
-  [key: string]: string | undefined
-}
-
-interface CountyFoodDataRow extends FoodDataRow {
-  msa_code: string
 }
 
 export async function loadFoodStateData(): Promise<Map<string, Record<string, number>>> {

@@ -101,7 +101,7 @@ export default function CountyDataTable() {
   const getNetIncome = (row: CountyData): number => {
     if (!profile.filing_status) return 0
     const grossIncome = getGrossIncome(row)
-    const result = calculateNetIncome(grossIncome, row.state_fips, row.state_abbr, profile.filing_status, (profile.contribution_401k || 0) / 100)
+    const result = calculateNetIncome(grossIncome, row.state_abbr, profile.filing_status, (profile.contribution_401k || 0) / 100)
     return result.netIncome
   }
 
