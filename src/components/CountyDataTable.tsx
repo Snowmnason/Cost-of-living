@@ -63,7 +63,7 @@ export default function CountyDataTable() {
   const [sortDirection, setSortDirection] = useState<SortDirection>('asc')
   const [excludedCounties, setExcludedCounties] = useState<Set<string>>(new Set())
   const [showFilter, setShowFilter] = useState(false)
-  const [filterState, setFilterState] = useState<string>('')
+  const [selectedStates, setSelectedStates] = useState<Set<string>>(new Set())
   const [countySearch, setCountySearch] = useState('')
   const [pinnedCounties, setPinnedCounties] = useState<Set<string>>(new Set())
 
@@ -175,8 +175,8 @@ export default function CountyDataTable() {
   const getSortedData = () => {
     let filtered = data.filter(row => !excludedCounties.has(`${row.state}-${row.county_name}`))
 
-    if (filterState) {
-      filtered = filtered.filter(row => row.state === filterState)
+    if (selectedStates.size > 0) {
+      filtered = filtered.filter(row => selectedStates.has(row.state))
     }
 
     if (countySearch.trim()) {
@@ -297,11 +297,11 @@ export default function CountyDataTable() {
         >
           Filter Counties
         </button>
-        {(excludedCounties.size > 0 || filterState) && (
+        {(excludedCounties.size > 0 || selectedStates.size > 0) && (
           <button
             onClick={() => {
               setExcludedCounties(new Set())
-              setFilterState('')
+              setSelectedStates(new Set())
             }}
             className="px-4 py-2 text-sm rounded-lg border transition-colors hover:opacity-80"
             style={{ borderColor: 'var(--border)', color: 'var(--muted-foreground)', backgroundColor: 'var(--background)' }}
@@ -309,19 +309,17 @@ export default function CountyDataTable() {
             Clear All Filters
           </button>
         )}
-        {filterState && (
+        {selectedStates.size > 0 && (
           <div
-            className="px-4 py-2 rounded-lg text-sm flex items-center gap-2"
+            className="px-4 py-2 rounded-lg text-sm flex items-center gap-2 flex-wrap"
             style={{ backgroundColor: 'var(--muted)', color: 'var(--muted-foreground)' }}
           >
-            Filtering: {filterState}
-            <button
-              onClick={() => setFilterState('')}
-              className="hover:opacity-100 transition-opacity"
-              style={{ opacity: 0.6 }}
-            >
-              ✕
-            </button>
+            <span>Filtering:</span>
+            {Array.from(selectedStates).sort().map(state => (
+              <span key={state} className="px-2 py-0.5 rounded-lg text-xs" style={{ backgroundColor: 'var(--accent)', color: 'white' }}>
+                {state}
+              </span>
+            ))}
           </div>
         )}
       </div>
@@ -332,39 +330,98 @@ export default function CountyDataTable() {
           style={{ backgroundColor: 'var(--background)', border: '1px solid var(--border)' }}
         >
           <div>
-            <label className="text-xs font-medium block mb-2" style={{ color: 'var(--muted-foreground)' }}>Filter by State</label>
-            <select
-              value={filterState}
-              onChange={(e) => setFilterState(e.target.value)}
-              className="w-full px-3 py-2 rounded-lg text-sm focus:outline-none"
-              style={{
-                backgroundColor: 'var(--muted)',
-                border: '1px solid var(--border)',
-                color: 'var(--foreground)',
-              }}
-            >
-              <option value="">All States</option>
+            <label className="text-xs font-medium block mb-2" style={{ color: 'var(--accent)' }}>Filter by States</label>
+            <label className="flex items-center gap-2 cursor-pointer font-medium text-sm mb-3" style={{ color: 'var(--accent)' }}>
+              <input
+                type="checkbox"
+                checked={selectedStates.size === states.length}
+                onChange={() => {
+                  if (selectedStates.size === states.length) {
+                    setSelectedStates(new Set())
+                  } else {
+                    setSelectedStates(new Set(states))
+                  }
+                }}
+                className="w-4 h-4 cursor-pointer"
+              />
+              <span>{selectedStates.size === states.length ? 'Deselect All' : 'Select All'}</span>
+            </label>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-2 max-h-32 overflow-y-auto">
               {states.map(state => (
-                <option key={state} value={state}>{state}</option>
+                <label key={state} className="flex items-center gap-2 cursor-pointer text-sm">
+                  <input
+                    type="checkbox"
+                    checked={selectedStates.has(state)}
+                    onChange={() => {
+                      const next = new Set(selectedStates)
+                      if (next.has(state)) next.delete(state)
+                      else next.add(state)
+                      setSelectedStates(next)
+                    }}
+                    className="w-4 h-4 cursor-pointer"
+                  />
+                  <span>{state}</span>
+                </label>
               ))}
-            </select>
+            </div>
           </div>
 
-          {filterState && (
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-2 max-h-48 overflow-y-auto">
-              {data
-                .filter(d => d.state === filterState)
-                .map(row => (
-                  <label key={`${row.state}-${row.county_name}`} className="flex items-center gap-2 cursor-pointer text-sm">
-                    <input
-                      type="checkbox"
-                      checked={!excludedCounties.has(`${row.state}-${row.county_name}`)}
-                      onChange={() => toggleExcludeCounty(`${row.state}-${row.county_name}`)}
-                      className="w-4 h-4 cursor-pointer"
-                    />
-                    <span>{row.county_name}</span>
-                  </label>
-                ))}
+          {selectedStates.size > 0 && (
+            <div>
+              <label className="text-xs font-medium block mb-2" style={{ color: 'var(--accent)' }}>Filter by Counties</label>
+              <label className="flex items-center gap-2 cursor-pointer font-medium text-sm mb-3" style={{ color: 'var(--accent)' }}>
+                <input
+                  type="checkbox"
+                  checked={
+                    data.filter(d => selectedStates.has(d.state)).length > 0 &&
+                    data.filter(d => selectedStates.has(d.state) && !excludedCounties.has(`${d.state}-${d.county_name}`)).length ===
+                      data.filter(d => selectedStates.has(d.state)).length
+                  }
+                  onChange={() => {
+                    const countiesInSelectedStates = data.filter(d => selectedStates.has(d.state))
+                    const allSelected =
+                      countiesInSelectedStates.length > 0 &&
+                      countiesInSelectedStates.every(d => !excludedCounties.has(`${d.state}-${d.county_name}`))
+                    
+                    if (allSelected) {
+                      const newExcluded = new Set(excludedCounties)
+                      countiesInSelectedStates.forEach(d => {
+                        newExcluded.add(`${d.state}-${d.county_name}`)
+                      })
+                      setExcludedCounties(newExcluded)
+                    } else {
+                      const newExcluded = new Set(excludedCounties)
+                      countiesInSelectedStates.forEach(d => {
+                        newExcluded.delete(`${d.state}-${d.county_name}`)
+                      })
+                      setExcludedCounties(newExcluded)
+                    }
+                  }}
+                  className="w-4 h-4 cursor-pointer"
+                />
+                <span>
+                  {data.filter(d => selectedStates.has(d.state)).length > 0 &&
+                  data.filter(d => selectedStates.has(d.state) && !excludedCounties.has(`${d.state}-${d.county_name}`)).length ===
+                    data.filter(d => selectedStates.has(d.state)).length
+                    ? 'Deselect All'
+                    : 'Select All'}
+                </span>
+              </label>
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-2 max-h-48 overflow-y-auto">
+                {data
+                  .filter(d => selectedStates.has(d.state))
+                  .map(row => (
+                    <label key={`${row.state}-${row.county_name}`} className="flex items-center gap-2 cursor-pointer text-sm">
+                      <input
+                        type="checkbox"
+                        checked={!excludedCounties.has(`${row.state}-${row.county_name}`)}
+                        onChange={() => toggleExcludeCounty(`${row.state}-${row.county_name}`)}
+                        className="w-4 h-4 cursor-pointer"
+                      />
+                      <span>{row.county_name}</span>
+                    </label>
+                  ))}
+              </div>
             </div>
           )}
         </div>

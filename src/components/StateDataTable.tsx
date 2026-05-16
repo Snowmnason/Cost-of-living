@@ -244,10 +244,26 @@ export default function StateDataTable() {
 
       {showFilter && (
         <div
-          className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-2 p-4 rounded-xl max-h-48 overflow-y-auto"
+          className="p-4 rounded-xl space-y-3"
           style={{ backgroundColor: 'var(--background)', border: '1px solid var(--border)' }}
         >
-          {data.filter(row => row.state !== 'United States').map(row => (
+          <label className="flex items-center gap-2 cursor-pointer font-medium text-sm border-b pb-2" style={{ borderColor: 'var(--border)', color: 'var(--accent)' }}>
+            <input
+              type="checkbox"
+              checked={excludedStates.size === 0}
+              onChange={() => {
+                if (excludedStates.size === 0) {
+                  setExcludedStates(new Set(data.filter(row => row.state !== 'United States').map(row => row.state)))
+                } else {
+                  setExcludedStates(new Set())
+                }
+              }}
+              className="w-4 h-4 cursor-pointer"
+            />
+            <span>{excludedStates.size === 0 ? 'Deselect All' : 'Select All'}</span>
+          </label>
+          <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-2 max-h-40 overflow-y-auto">
+            {data.filter(row => row.state !== 'United States').map(row => (
             <label key={row.state} className="flex items-center gap-2 cursor-pointer text-sm">
               <input
                 type="checkbox"
@@ -258,6 +274,7 @@ export default function StateDataTable() {
               <span>{row.state}</span>
             </label>
           ))}
+          </div>
         </div>
       )}
 

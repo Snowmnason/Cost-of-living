@@ -1,73 +1,81 @@
-# React + TypeScript + Vite
+# Cost of Living Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive tool for comparing cost of living across US states and counties. Analyze how your take-home income stacks against real expenses including housing, food, utilities, and taxes—all adjusted for your job, location, and financial situation.
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This calculator helps answer: **"Can I afford to live here?"** by comparing your gross income against actual monthly expenses across different regions. Input your job title, filing status, and desired 401k contribution, then explore how your money breaks down across states and counties.
 
-## React Compiler
+## Methodology
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Income Calculation
 
-## Expanding the ESLint configuration
+**Gross Income**: Based on job title and selected percentile (10th, 25th, median, 75th, 90th) from the Occupational Employment and Wage Statistics (OEWS) database.
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+**Tax Deductions**:
+- **401k contributions**: Pre-tax deduction (reduces both taxable income and take-home pay)
+- **Federal income tax**: 2024 tax brackets applied to taxable income after standard deduction ($14,600 single, $29,200 MFJ)
+- **State income tax**: State-specific rates applied after state standard deduction
+- **FICA taxes**:
+  - Social Security: 6.2% up to $168,600 wage cap
+  - Medicare: 1.45% on all wages
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+**Net Income**: Gross income minus all tax and 401k deductions
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+### Expense Categories
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+1. **Housing**: Median rent by county (ZORI data) or Fair Market Rent (HUD FMR) for different household sizes
+2. **Food**: USDA cost estimates based on household composition (adults + children)
+3. **Utilities**: Electricity, internet, phone, and car insurance by state/county
+4. **Total Monthly Expenses**: Sum of all categories
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+### Remaining Income
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+Calculated as: **Net Income - Total Monthly Expenses**
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+A positive number means affordability; negative indicates the area may be financially challenging for your profile.
+
+## Data Sources
+
+### Employment & Wages
+- **OEWS (Bureau of Labor Statistics)**: Occupational Employment and Wage Statistics
+  - Job titles and median salaries by Metropolitan Statistical Area (MSA) and state
+  - Percentile breakdowns (10th, 25th, 50th, 75th, 90th)
+
+### Housing
+- **ZORI (Zillow Research)**: Zillow Observed Rent Index
+  - Median rent estimates by county (monthly, studio to 3+ bedroom)
+- **HUD FMR (Fair Market Rent)**: U.S. Department of Housing and Urban Development
+  - Fair Market Rent for different household sizes (efficiency to 4+ bedroom)
+
+### Food
+- **USDA Food Plans**: Cost of food at home by household type
+  - Thrifty, low-cost, moderate-cost, and liberal plan options
+  - Adjusted for household composition (adults, children, infants)
+
+### Utilities & Services
+- **EIA (Energy Information Administration)**: State average electricity rates
+- **FCC & Industry Reports**: Internet and phone service cost benchmarks
+- **State Insurance Data**: Average auto insurance premiums by state and county
+
+### Tax Data
+- **IRS 2024 Tax Brackets**: Federal income tax rates and standard deductions
+- **State Revenue Departments**: State income tax rates and deduction amounts
+- **SSA & CMS**: FICA tax rates and wage caps
+
+## Features
+
+- **State-Level Analysis**: Aggregate metrics for all 50 US states
+- **County-Level Analysis**: Detailed data for ~3,000 US counties
+- **Job Search**: Filter by job title and income percentile
+- **Multi-State Comparison**: Select multiple states and counties simultaneously
+- **Flexible Profiles**: Customize filing status, household type, and 401k rate
+- **Pin & Search**: Pin favorite counties or search by name for quick access
+
+## Author
+
+Created by **Snowmanson** — [Twitch](https://www.twitch.tv/mrsnowmanman)
+
+## License
+
+Open source for educational and informational purposes.
