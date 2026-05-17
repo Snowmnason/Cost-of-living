@@ -1,0 +1,154 @@
+state,state_abbr,state_fips,age_group,minimum_coverage,full_coverage
+Alabama,AL,01,25,38,1100
+Alaska,AK,02,25,42,1080
+Arizona,AZ,04,25,55,1413
+Arkansas,AR,05,25,39,1138
+California,CA,06,25,61,1730
+Colorado,CO,08,25,47,1281
+Connecticut,CT,09,25,76,1730
+Delaware,DE,10,25,97,2067
+District of Columbia,DC,11,25,54,1480
+Florida,FL,12,25,78,2006
+Georgia,GA,13,25,49,1267
+Hawaii,HI,15,25,30,816
+Idaho,ID,16,25,32,839
+Illinois,IL,17,25,39,1136
+Indiana,IN,18,25,35,892
+Iowa,IA,19,25,27,1011
+Kansas,KS,20,25,42,1273
+Kentucky,KY,21,25,47,1221
+Louisiana,LA,22,25,67,1943
+Maine,ME,23,25,38,956
+Maryland,MD,24,25,65,1377
+Massachusetts,MA,25,25,42,1196
+Michigan,MI,26,25,85,2043
+Minnesota,MN,27,25,48,1307
+Mississippi,MS,28,25,43,1180
+Missouri,MO,29,25,60,1670
+Montana,MT,30,25,31,1140
+Nebraska,NE,31,25,40,1249
+Nevada,NV,32,25,84,1926
+New Hampshire,NH,33,25,63,1649
+New Jersey,NJ,34,25,73,1677
+New Mexico,NM,35,25,40,1174
+New York,NY,36,25,111,2431
+North Carolina,NC,37,25,38,941
+North Dakota,ND,38,25,31,944
+Ohio,OH,39,25,40,997
+Oklahoma,OK,40,25,41,1215
+Oregon,OR,41,25,59,1295
+Pennsylvania,PA,42,25,39,1261
+Rhode Island,RI,44,25,58,1312
+South Carolina,SC,45,25,69,1572
+South Dakota,SD,46,25,30,1198
+Tennessee,TN,47,25,36,1086
+Texas,TX,48,25,61,1559
+Utah,UT,49,25,53,1190
+Vermont,VT,50,25,30,876
+Virginia,VA,51,25,46,1204
+Washington,WA,53,25,63,1407
+West Virginia,WV,54,25,45,1270
+Wisconsin,WI,55,25,42,1207
+Wyoming,WY,56,25,24,1002
+Alabama,AL,01,40,30,72
+Alaska,AK,02,40,36,74
+Arizona,AZ,04,40,44,91
+Arkansas,AR,05,40,32,78
+California,CA,06,40,50,115
+Colorado,CO,08,40,37,83
+Connecticut,CT,09,40,59,112
+Delaware,DE,10,40,85,142
+District of Columbia,DC,11,40,46,101
+Florida,FL,12,40,67,136
+Georgia,GA,13,40,38,78
+Hawaii,HI,15,40,30,68
+Idaho,ID,16,40,25,55
+Illinois,IL,17,40,32,77
+Indiana,IN,18,40,30,61
+Iowa,IA,19,40,21,66
+Kansas,KS,20,40,35,87
+Kentucky,KY,21,40,41,84
+Louisiana,LA,22,40,49,123
+Maine,ME,23,40,29,60
+Maryland,MD,24,40,56,97
+Massachusetts,MA,25,40,38,87
+Michigan,MI,26,40,77,149
+Minnesota,MN,27,40,40,88
+Mississippi,MS,28,40,34,78
+Missouri,MO,29,40,50,111
+Montana,MT,30,40,26,80
+Nebraska,NE,31,40,31,82
+Nevada,NV,32,40,70,130
+New Hampshire,NH,33,40,38,79
+New Jersey,NJ,34,40,69,124
+New Mexico,NM,35,40,34,81
+New York,NY,36,40,97,173
+North Carolina,NC,37,40,36,73
+North Dakota,ND,38,40,27,65
+Ohio,OH,39,40,30,61
+Oklahoma,OK,40,40,32,79
+Oregon,OR,41,40,54,93
+Pennsylvania,PA,42,40,32,85
+Rhode Island,RI,44,40,51,94
+South Carolina,SC,45,40,55,107
+South Dakota,SD,46,40,24,80
+Tennessee,TN,47,40,29,71
+Texas,TX,48,40,47,100
+Utah,UT,49,40,44,80
+Vermont,VT,50,40,23,56
+Virginia,VA,51,40,38,80
+Washington,WA,53,40,49,89
+West Virginia,WV,54,40,39,88
+Wisconsin,WI,55,40,32,75
+Wyoming,WY,56,40,22,73
+Alabama,AL,01,65,31,68
+Alaska,AK,02,65,38,75
+Arizona,AZ,04,65,44,89
+Arkansas,AR,05,65,30,71
+California,CA,06,65,49,112
+Colorado,CO,08,65,39,82
+Connecticut,CT,09,65,63,116
+Delaware,DE,10,65,80,133
+District of Columbia,DC,11,65,47,99
+Florida,FL,12,65,65,133
+Georgia,GA,13,65,37,76
+Hawaii,HI,15,65,30,68
+Idaho,ID,16,65,26,53
+Illinois,IL,17,65,32,72
+Indiana,IN,18,65,30,58
+Iowa,IA,19,65,21,60
+Kansas,KS,20,65,35,80
+Kentucky,KY,21,65,41,80
+Louisiana,LA,22,65,59,140
+Maine,ME,23,65,30,59
+Maryland,MD,24,65,64,107
+Massachusetts,MA,25,65,31,71
+Michigan,MI,26,65,78,140
+Minnesota,MN,27,65,39,81
+Mississippi,MS,28,65,33,71
+Missouri,MO,29,65,48,104
+Montana,MT,30,65,26,74
+Nebraska,NE,31,65,31,76
+Nevada,NV,32,65,74,133
+New Hampshire,NH,33,65,45,90
+New Jersey,NJ,34,65,67,121
+New Mexico,NM,35,65,35,80
+New York,NY,36,65,103,179
+North Carolina,NC,37,65,36,72
+North Dakota,ND,38,65,27,59
+Ohio,OH,39,65,33,63
+Oklahoma,OK,40,65,33,75
+Oregon,OR,41,65,54,92
+Pennsylvania,PA,42,65,30,77
+Rhode Island,RI,44,65,56,102
+South Carolina,SC,45,65,54,100
+South Dakota,SD,46,65,24,72
+Tennessee,TN,47,65,30,67
+Texas,TX,48,65,48,96
+Utah,UT,49,65,46,81
+Vermont,VT,50,65,23,54
+Virginia,VA,51,65,39,80
+Washington,WA,53,65,51,89
+West Virginia,WV,54,65,39,84
+Wisconsin,WI,55,65,33,74
+Wyoming,WY,56,65,22,72

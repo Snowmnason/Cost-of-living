@@ -1,0 +1,256 @@
+state,state_abbr,state_fips,provider_name,alternative_provider_name,line_count,monthly_cost,cost_per_line,alternative_monthly_cost,alternative_cost_per_line
+Alabama,AL,01,Verizon,Visible,1,65,65,25,25
+Alaska,AK,02,Verizon,Visible,1,65,65,25,25
+Arizona,AZ,04,T-Mobile,Mint Mobile,1,50,50,25,25
+Arkansas,AR,05,Verizon,Visible,1,65,65,25,25
+California,CA,06,AT&T,Cricket,1,60,60,35,35
+Colorado,CO,08,T-Mobile,Mint Mobile,1,50,50,25,25
+Connecticut,CT,09,AT&T,Cricket,1,60,60,35,35
+Delaware,DE,10,AT&T,Cricket,1,60,60,35,35
+District of Columbia,DC,11,AT&T,Cricket,1,60,60,35,35
+Florida,FL,12,T-Mobile,Mint Mobile,1,50,50,25,25
+Georgia,GA,13,AT&T,Cricket,1,60,60,35,35
+Hawaii,HI,15,Verizon,Visible,1,65,65,25,25
+Idaho,ID,16,Verizon,Visible,1,65,65,25,25
+Illinois,IL,17,AT&T,Cricket,1,60,60,35,35
+Indiana,IN,18,Verizon,Visible,1,65,65,25,25
+Iowa,IA,19,Verizon,Visible,1,65,65,25,25
+Kansas,KS,20,Verizon,Visible,1,65,65,25,25
+Kentucky,KY,21,Verizon,Visible,1,65,65,25,25
+Louisiana,LA,22,AT&T,Cricket,1,60,60,35,35
+Maine,ME,23,Verizon,Visible,1,65,65,25,25
+Maryland,MD,24,AT&T,Cricket,1,60,60,35,35
+Massachusetts,MA,25,AT&T,Cricket,1,60,60,35,35
+Michigan,MI,26,Verizon,Visible,1,65,65,25,25
+Minnesota,MN,27,Verizon,Visible,1,65,65,25,25
+Mississippi,MS,28,Verizon,Visible,1,65,65,25,25
+Missouri,MO,29,Verizon,Visible,1,65,65,25,25
+Montana,MT,30,Verizon,Visible,1,65,65,25,25
+Nebraska,NE,31,Verizon,Visible,1,65,65,25,25
+Nevada,NV,32,T-Mobile,Mint Mobile,1,50,50,25,25
+New Hampshire,NH,33,Verizon,Visible,1,65,65,25,25
+New Jersey,NJ,34,AT&T,Cricket,1,60,60,35,35
+New Mexico,NM,35,Verizon,Visible,1,65,65,25,25
+New York,NY,36,AT&T,Cricket,1,60,60,35,35
+North Carolina,NC,37,AT&T,Cricket,1,60,60,35,35
+North Dakota,ND,38,Verizon,Visible,1,65,65,25,25
+Ohio,OH,39,Verizon,Visible,1,65,65,25,25
+Oklahoma,OK,40,Verizon,Visible,1,65,65,25,25
+Oregon,OR,41,T-Mobile,Mint Mobile,1,50,50,25,25
+Pennsylvania,PA,42,AT&T,Cricket,1,60,60,35,35
+Rhode Island,RI,44,AT&T,Cricket,1,60,60,35,35
+South Carolina,SC,45,Verizon,Visible,1,65,65,25,25
+South Dakota,SD,46,Verizon,Visible,1,65,65,25,25
+Tennessee,TN,47,AT&T,Cricket,1,60,60,35,35
+Texas,TX,48,AT&T,Cricket,1,60,60,35,35
+Utah,UT,49,T-Mobile,Mint Mobile,1,50,50,25,25
+Vermont,VT,50,Verizon,Visible,1,65,65,25,25
+Virginia,VA,51,AT&T,Cricket,1,60,60,35,35
+Washington,WA,53,T-Mobile,Mint Mobile,1,50,50,25,25
+West Virginia,WV,54,Verizon,Visible,1,65,65,25,25
+Wisconsin,WI,55,Verizon,Visible,1,65,65,25,25
+Wyoming,WY,56,Verizon,Visible,1,65,65,25,25
+Alabama,AL,01,Verizon,Visible,2,110,55,50,25
+Alaska,AK,02,Verizon,Visible,2,110,55,50,25
+Arizona,AZ,04,T-Mobile,Mint Mobile,2,180,90,60,30
+Arkansas,AR,05,Verizon,Visible,2,110,55,50,25
+California,CA,06,AT&T,Cricket,2,110,55,65,33
+Colorado,CO,08,T-Mobile,Mint Mobile,2,180,90,60,30
+Connecticut,CT,09,AT&T,Cricket,2,110,55,65,33
+Delaware,DE,10,AT&T,Cricket,2,110,55,65,33
+District of Columbia,DC,11,AT&T,Cricket,2,110,55,65,33
+Florida,FL,12,T-Mobile,Mint Mobile,2,180,90,60,30
+Georgia,GA,13,AT&T,Cricket,2,110,55,65,33
+Hawaii,HI,15,Verizon,Visible,2,110,55,50,25
+Idaho,ID,16,Verizon,Visible,2,110,55,50,25
+Illinois,IL,17,AT&T,Cricket,2,110,55,65,33
+Indiana,IN,18,Verizon,Visible,2,110,55,50,25
+Iowa,IA,19,Verizon,Visible,2,110,55,50,25
+Kansas,KS,20,Verizon,Visible,2,110,55,50,25
+Kentucky,KY,21,Verizon,Visible,2,110,55,50,25
+Louisiana,LA,22,AT&T,Cricket,2,110,55,65,33
+Maine,ME,23,Verizon,Visible,2,110,55,50,25
+Maryland,MD,24,AT&T,Cricket,2,110,55,65,33
+Massachusetts,MA,25,AT&T,Cricket,2,110,55,65,33
+Michigan,MI,26,Verizon,Visible,2,110,55,50,25
+Minnesota,MN,27,Verizon,Visible,2,110,55,50,25
+Mississippi,MS,28,Verizon,Visible,2,110,55,50,25
+Missouri,MO,29,Verizon,Visible,2,110,55,50,25
+Montana,MT,30,Verizon,Visible,2,110,55,50,25
+Nebraska,NE,31,Verizon,Visible,2,110,55,50,25
+Nevada,NV,32,T-Mobile,Mint Mobile,2,180,90,60,30
+New Hampshire,NH,33,Verizon,Visible,2,110,55,50,25
+New Jersey,NJ,34,AT&T,Cricket,2,110,55,65,33
+New Mexico,NM,35,Verizon,Visible,2,110,55,50,25
+New York,NY,36,AT&T,Cricket,2,110,55,65,33
+North Carolina,NC,37,AT&T,Cricket,2,110,55,65,33
+North Dakota,ND,38,Verizon,Visible,2,110,55,50,25
+Ohio,OH,39,Verizon,Visible,2,110,55,50,25
+Oklahoma,OK,40,Verizon,Visible,2,110,55,50,25
+Oregon,OR,41,T-Mobile,Mint Mobile,2,180,90,60,30
+Pennsylvania,PA,42,AT&T,Cricket,2,110,55,65,33
+Rhode Island,RI,44,AT&T,Cricket,2,110,55,65,33
+South Carolina,SC,45,Verizon,Visible,2,110,55,50,25
+South Dakota,SD,46,Verizon,Visible,2,110,55,50,25
+Tennessee,TN,47,AT&T,Cricket,2,110,55,65,33
+Texas,TX,48,AT&T,Cricket,2,110,55,65,33
+Utah,UT,49,T-Mobile,Mint Mobile,2,180,90,60,30
+Vermont,VT,50,Verizon,Visible,2,110,55,50,25
+Virginia,VA,51,AT&T,Cricket,2,110,55,65,33
+Washington,WA,53,T-Mobile,Mint Mobile,2,180,90,60,30
+West Virginia,WV,54,Verizon,Visible,2,110,55,50,25
+Wisconsin,WI,55,Verizon,Visible,2,110,55,50,25
+Wyoming,WY,56,Verizon,Visible,2,110,55,50,25
+Alabama,AL,01,Verizon,Visible,3,120,40,75,25
+Alaska,AK,02,Verizon,Visible,3,120,40,75,25
+Arizona,AZ,04,T-Mobile,Mint Mobile,3,270,90,90,30
+Arkansas,AR,05,Verizon,Visible,3,120,40,75,25
+California,CA,06,AT&T,Cricket,3,105,35,90,30
+Colorado,CO,08,T-Mobile,Mint Mobile,3,270,90,90,30
+Connecticut,CT,09,AT&T,Cricket,3,105,35,90,30
+Delaware,DE,10,AT&T,Cricket,3,105,35,90,30
+District of Columbia,DC,11,AT&T,Cricket,3,105,35,90,30
+Florida,FL,12,T-Mobile,Mint Mobile,3,270,90,90,30
+Georgia,GA,13,AT&T,Cricket,3,105,35,90,30
+Hawaii,HI,15,Verizon,Visible,3,120,40,75,25
+Idaho,ID,16,Verizon,Visible,3,120,40,75,25
+Illinois,IL,17,AT&T,Cricket,3,105,35,90,30
+Indiana,IN,18,Verizon,Visible,3,120,40,75,25
+Iowa,IA,19,Verizon,Visible,3,120,40,75,25
+Kansas,KS,20,Verizon,Visible,3,120,40,75,25
+Kentucky,KY,21,Verizon,Visible,3,120,40,75,25
+Louisiana,LA,22,AT&T,Cricket,3,105,35,90,30
+Maine,ME,23,Verizon,Visible,3,120,40,75,25
+Maryland,MD,24,AT&T,Cricket,3,105,35,90,30
+Massachusetts,MA,25,AT&T,Cricket,3,105,35,90,30
+Michigan,MI,26,Verizon,Visible,3,120,40,75,25
+Minnesota,MN,27,Verizon,Visible,3,120,40,75,25
+Mississippi,MS,28,Verizon,Visible,3,120,40,75,25
+Missouri,MO,29,Verizon,Visible,3,120,40,75,25
+Montana,MT,30,Verizon,Visible,3,120,40,75,25
+Nebraska,NE,31,Verizon,Visible,3,120,40,75,25
+Nevada,NV,32,T-Mobile,Mint Mobile,3,270,90,90,30
+New Hampshire,NH,33,Verizon,Visible,3,120,40,75,25
+New Jersey,NJ,34,AT&T,Cricket,3,105,35,90,30
+New Mexico,NM,35,Verizon,Visible,3,120,40,75,25
+New York,NY,36,AT&T,Cricket,3,105,35,90,30
+North Carolina,NC,37,AT&T,Cricket,3,105,35,90,30
+North Dakota,ND,38,Verizon,Visible,3,120,40,75,25
+Ohio,OH,39,Verizon,Visible,3,120,40,75,25
+Oklahoma,OK,40,Verizon,Visible,3,120,40,75,25
+Oregon,OR,41,T-Mobile,Mint Mobile,3,270,90,90,30
+Pennsylvania,PA,42,AT&T,Cricket,3,105,35,90,30
+Rhode Island,RI,44,AT&T,Cricket,3,105,35,90,30
+South Carolina,SC,45,Verizon,Visible,3,120,40,75,25
+South Dakota,SD,46,Verizon,Visible,3,120,40,75,25
+Tennessee,TN,47,AT&T,Cricket,3,105,35,90,30
+Texas,TX,48,AT&T,Cricket,3,105,35,90,30
+Utah,UT,49,T-Mobile,Mint Mobile,3,270,90,90,30
+Vermont,VT,50,Verizon,Visible,3,120,40,75,25
+Virginia,VA,51,AT&T,Cricket,3,105,35,90,30
+Washington,WA,53,T-Mobile,Mint Mobile,3,270,90,90,30
+West Virginia,WV,54,Verizon,Visible,3,120,40,75,25
+Wisconsin,WI,55,Verizon,Visible,3,120,40,75,25
+Wyoming,WY,56,Verizon,Visible,3,120,40,75,25
+Alabama,AL,01,Verizon,Visible,4,136,34,100,25
+Alaska,AK,02,Verizon,Visible,4,136,34,100,25
+Arizona,AZ,04,T-Mobile,Mint Mobile,4,400,100,120,30
+Arkansas,AR,05,Verizon,Visible,4,136,34,100,25
+California,CA,06,AT&T,Cricket,4,135,45,100,25
+Colorado,CO,08,T-Mobile,Mint Mobile,4,400,100,120,30
+Connecticut,CT,09,AT&T,Cricket,4,135,45,100,25
+Delaware,DE,10,AT&T,Cricket,4,135,45,100,25
+District of Columbia,DC,11,AT&T,Cricket,4,135,45,100,25
+Florida,FL,12,T-Mobile,Mint Mobile,4,400,100,120,30
+Georgia,GA,13,AT&T,Cricket,4,135,45,100,25
+Hawaii,HI,15,Verizon,Visible,4,136,34,100,25
+Idaho,ID,16,Verizon,Visible,4,136,34,100,25
+Illinois,IL,17,AT&T,Cricket,4,135,45,100,25
+Indiana,IN,18,Verizon,Visible,4,136,34,100,25
+Iowa,IA,19,Verizon,Visible,4,136,34,100,25
+Kansas,KS,20,Verizon,Visible,4,136,34,100,25
+Kentucky,KY,21,Verizon,Visible,4,136,34,100,25
+Louisiana,LA,22,AT&T,Cricket,4,135,45,100,25
+Maine,ME,23,Verizon,Visible,4,136,34,100,25
+Maryland,MD,24,AT&T,Cricket,4,135,45,100,25
+Massachusetts,MA,25,AT&T,Cricket,4,135,45,100,25
+Michigan,MI,26,Verizon,Visible,4,136,34,100,25
+Minnesota,MN,27,Verizon,Visible,4,136,34,100,25
+Mississippi,MS,28,Verizon,Visible,4,136,34,100,25
+Missouri,MO,29,Verizon,Visible,4,136,34,100,25
+Montana,MT,30,Verizon,Visible,4,136,34,100,25
+Nebraska,NE,31,Verizon,Visible,4,136,34,100,25
+Nevada,NV,32,T-Mobile,Mint Mobile,4,400,100,120,30
+New Hampshire,NH,33,Verizon,Visible,4,136,34,100,25
+New Jersey,NJ,34,AT&T,Cricket,4,135,45,100,25
+New Mexico,NM,35,Verizon,Visible,4,136,34,100,25
+New York,NY,36,AT&T,Cricket,4,135,45,100,25
+North Carolina,NC,37,AT&T,Cricket,4,135,45,100,25
+North Dakota,ND,38,Verizon,Visible,4,136,34,100,25
+Ohio,OH,39,Verizon,Visible,4,136,34,100,25
+Oklahoma,OK,40,Verizon,Visible,4,136,34,100,25
+Oregon,OR,41,T-Mobile,Mint Mobile,4,400,100,120,30
+Pennsylvania,PA,42,AT&T,Cricket,4,135,45,100,25
+Rhode Island,RI,44,AT&T,Cricket,4,135,45,100,25
+South Carolina,SC,45,Verizon,Visible,4,136,34,100,25
+South Dakota,SD,46,Verizon,Visible,4,136,34,100,25
+Tennessee,TN,47,AT&T,Cricket,4,135,45,100,25
+Texas,TX,48,AT&T,Cricket,4,135,45,100,25
+Utah,UT,49,T-Mobile,Mint Mobile,4,400,100,120,30
+Vermont,VT,50,Verizon,Visible,4,136,34,100,25
+Virginia,VA,51,AT&T,Cricket,4,135,45,100,25
+Washington,WA,53,T-Mobile,Mint Mobile,4,400,100,120,30
+West Virginia,WV,54,Verizon,Visible,4,136,34,100,25
+Wisconsin,WI,55,Verizon,Visible,4,136,34,100,25
+Wyoming,WY,56,Verizon,Visible,4,136,34,100,25
+Alabama,AL,01,Verizon,Visible,5,145,29,125,25
+Alaska,AK,02,Verizon,Visible,5,145,29,125,25
+Arizona,AZ,04,T-Mobile,Mint Mobile,5,625,125,150,30
+Arkansas,AR,05,Verizon,Visible,5,145,29,125,25
+California,CA,06,AT&T,Cricket,5,200,40,120,24
+Colorado,CO,08,T-Mobile,Mint Mobile,5,625,125,150,30
+Connecticut,CT,09,AT&T,Cricket,5,200,40,120,24
+Delaware,DE,10,AT&T,Cricket,5,200,40,120,24
+District of Columbia,DC,11,AT&T,Cricket,5,200,40,120,24
+Florida,FL,12,T-Mobile,Mint Mobile,5,625,125,150,30
+Georgia,GA,13,AT&T,Cricket,5,200,40,120,24
+Hawaii,HI,15,Verizon,Visible,5,145,29,125,25
+Idaho,ID,16,Verizon,Visible,5,145,29,125,25
+Illinois,IL,17,AT&T,Cricket,5,200,40,120,24
+Indiana,IN,18,Verizon,Visible,5,145,29,125,25
+Iowa,IA,19,Verizon,Visible,5,145,29,125,25
+Kansas,KS,20,Verizon,Visible,5,145,29,125,25
+Kentucky,KY,21,Verizon,Visible,5,145,29,125,25
+Louisiana,LA,22,AT&T,Cricket,5,200,40,120,24
+Maine,ME,23,Verizon,Visible,5,145,29,125,25
+Maryland,MD,24,AT&T,Cricket,5,200,40,120,24
+Massachusetts,MA,25,AT&T,Cricket,5,200,40,120,24
+Michigan,MI,26,Verizon,Visible,5,145,29,125,25
+Minnesota,MN,27,Verizon,Visible,5,145,29,125,25
+Mississippi,MS,28,Verizon,Visible,5,145,29,125,25
+Missouri,MO,29,Verizon,Visible,5,145,29,125,25
+Montana,MT,30,Verizon,Visible,5,145,29,125,25
+Nebraska,NE,31,Verizon,Visible,5,145,29,125,25
+Nevada,NV,32,T-Mobile,Mint Mobile,5,625,125,150,30
+New Hampshire,NH,33,Verizon,Visible,5,145,29,125,25
+New Jersey,NJ,34,AT&T,Cricket,5,200,40,120,24
+New Mexico,NM,35,Verizon,Visible,5,145,29,125,25
+New York,NY,36,AT&T,Cricket,5,200,40,120,24
+North Carolina,NC,37,AT&T,Cricket,5,200,40,120,24
+North Dakota,ND,38,Verizon,Visible,5,145,29,125,25
+Ohio,OH,39,Verizon,Visible,5,145,29,125,25
+Oklahoma,OK,40,Verizon,Visible,5,145,29,125,25
+Oregon,OR,41,T-Mobile,Mint Mobile,5,625,125,150,30
+Pennsylvania,PA,42,AT&T,Cricket,5,200,40,120,24
+Rhode Island,RI,44,AT&T,Cricket,5,200,40,120,24
+South Carolina,SC,45,Verizon,Visible,5,145,29,125,25
+South Dakota,SD,46,Verizon,Visible,5,145,29,125,25
+Tennessee,TN,47,AT&T,Cricket,5,200,40,120,24
+Texas,TX,48,AT&T,Cricket,5,200,40,120,24
+Utah,UT,49,T-Mobile,Mint Mobile,5,625,125,150,30
+Vermont,VT,50,Verizon,Visible,5,145,29,125,25
+Virginia,VA,51,AT&T,Cricket,5,200,40,120,24
+Washington,WA,53,T-Mobile,Mint Mobile,5,625,125,150,30
+West Virginia,WV,54,Verizon,Visible,5,145,29,125,25
+Wisconsin,WI,55,Verizon,Visible,5,145,29,125,25
+Wyoming,WY,56,Verizon,Visible,5,145,29,125,25
