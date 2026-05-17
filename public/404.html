@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Redirecting...</title>
+    <script>
+      // Redirect to index.html with the path preserved for React Router
+      const path = window.location.pathname.replace(/^\/Cost-of-living/, '');
+      window.location.replace('/Cost-of-living/index.html' + (path || '/'));
+    </script>
+  </head>
+  <body>
+    Redirecting...
+  </body>
+</html>
