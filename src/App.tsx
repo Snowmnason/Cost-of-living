@@ -12,12 +12,14 @@ export default function App() {
     <ProfileProvider>
       <Router>
         <Navigation />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/state" element={<StatePage />} />
-          <Route path="/county" element={<CountyPage />} />
-          <Route path="/sources" element={<SourcesPage />} />
-        </Routes>
+        <div className="flex-1 flex flex-col w-full max-w-full overflow-hidden">
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/state" element={<StatePage />} />
+            <Route path="/county" element={<CountyPage />} />
+            <Route path="/sources" element={<SourcesPage />} />
+          </Routes>
+        </div>
       </Router>
     </ProfileProvider>
   )
