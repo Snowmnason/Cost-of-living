@@ -1,10 +1,11 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import type { ProfileData } from '@/context/ProfileContextDef'
 import { useProfile } from '@/hooks/useProfile'
 
 export default function ProfileComponent() {
   const { profile, updateProfile } = useProfile()
   const [formData, setFormData] = useState<ProfileData>(profile)
+  const [saved, setSaved] = useState(false)
 
   const handleChange = (field: keyof ProfileData, value: string | number) => {
     setFormData(prev => ({
@@ -15,7 +16,16 @@ export default function ProfileComponent() {
 
   const handleSave = () => {
     updateProfile(formData)
+    setSaved(true)
+    setTimeout(() => setSaved(false), 2500)
   }
+
+  useEffect(() => {
+    if (saved) {
+      const timer = setTimeout(() => setSaved(false), 2500)
+      return () => clearTimeout(timer)
+    }
+  }, [saved])
 
   return (
     <div className="w-full p-8">
@@ -146,6 +156,12 @@ export default function ProfileComponent() {
       >
         Save Profile
       </button>
+
+      {saved && (
+        <div className="mt-3 p-3 rounded-lg text-sm font-medium text-center transition-opacity duration-300" style={{ backgroundColor: '#10b981', color: 'white' }}>
+          ✓ Profile saved successfully
+        </div>
+      )}
     </div>
   )
 }
